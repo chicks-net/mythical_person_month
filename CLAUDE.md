@@ -4,7 +4,7 @@ This file provides guidance to Claude Code (claude.ai/code) when working with co
 
 ## Repository Purpose
 
-This is a GitHub repository template that implements best practices for open source projects. It's designed to be cloned and customized for new repositories. The template includes GitHub community standards compliance, automated workflows, and a command-line driven development process.
+**Mythical Person-Month** is a modernized version of Fred Brooks' classic _The Mythical Man-Month_ book. The goal is to preserve the insights and wisdom of this influential text on managing technology projects while updating the language to be more inclusive and welcoming to all readers. The original work contains valuable technical and management lessons but reflects dated assumptions that can make it uncomfortable for modern audiences.
 
 ## Development Workflow
 
@@ -65,12 +65,11 @@ Configuration in `.markdownlint.yml`:
 
 Run locally: `markdownlint-cli2 **/*.md`
 
-## Template customization
+## Project specifics
 
-When using this template for a new project, search and replace:
+This is a documentation/writing project rather than a software project. The primary content will be markdown files containing the modernized text. When working on the content:
 
-- `fini-net` → your GitHub org
-- `template-repo` → your repo name
-- `chicks-net` → your references
-
-Run `just clean_readme` to strip template documentation from README.
+- Maintain the original structure and insights from _The Mythical Man-Month_
+- Update gendered language (e.g., "man-month" → "person-month", "manpower" → "workforce")
+- Preserve the technical accuracy and management wisdom
+- Keep references to historical context but make them more inclusive where appropriate
