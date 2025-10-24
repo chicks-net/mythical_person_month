@@ -1,0 +1,1040 @@
+Index
+Abdel-Hamid, T., 308
+abstract data type, 188, 220,
+273
+accident, 179,182, 209, 214, 272,
+280, 281, 303, viii
+accounting, 132
+Ada, 188, 283
+administrator, 33
+Adobe Photoshop, 281
+advancement, dual ladder of,
+119, 242
+advisor, testing, 192
+Aiken, H. H., 291
+airplane-seat metaphor, 194
+Algol, 34, 44, 64, 68, 203, 295,
+302
+algorithm, 102, 239
+allocation, dynamic memory, 57
+alpha test, 142, 245, 266
+alpha version, 240
+Alto personal workstation, 260
+ANSI, 168, 249
+APL, 64, 98, 136, 175, 203, 302
+Apple Computer, Inc., 264, 306
+Apple Desk Top Bus, 307
+Apple Lisa, 260
+Apple Macintosh, 255, 258, 264,
+284, 291, 306
+AppleScript, 287
+architect, 37, 41, 54, 62, 66, 79,
+100, 233, 236, 238, 255, 257
+architecture, 44, 143, 233, 234,
+245, 266
+archive, chronological, 33
+aristocracy, 39, 44, 46
+Aristotle, 209, 303
+Aron, J., 90, 93, 237, 297
+ARPA network, 78
+artificial intelligence, 190, 302
+assembler, 132
+authority, 8, 80, 231, 236
+AutoCad, 285
+AutoLisp, 285
+automatic programming, 302
+Bach, J. S., 47
+Backus, J. W., 64, 295
+Backus-Naur Form, 64
+Baker, F. T., 36, 294, 300
+Balzer, R., 302
+Bardain, E. F., 2%
+barrier, sociological, 119
+Begeman, M., 306
+Belady, L., 122, 123, 150, 243,
+246, 298, 301
+Bell Northern Research, 270
+Note: Bold numerals indicate a relatively substantial discussion of a topic.
+309
+310 Index
+Bell Telephone Laboratories, 90,
+119, 133, 137, 142, 158, 237,
+293, xi, 308
+Bell, C. G., 64, 296, viii
+Bengough, W., 107
+Bennington, H. D., 305
+beta version, 240
+Bible, 255
+Bierly, R., viii
+Blaauw, G. A., 45, 49, 62, 63, 294
+Bloch, E., i
+Blum, B., 210
+Boehm, B. W., 217, 237, 273, 283,
+303, 306, 308, viii
+Boehm, E. M., 295
+Boes, H., ix
+Bohl, M., 302
+Bohm, C., 144, 300
+Booch, G., 302
+Boudot-Lamotte, E., 40
+brass bullet, 219
+breakthrough, 186
+Breughel, P. , the Elder, 73
+Brooks's Law, 25, 274
+Brooks, F. P. Jr., 102, 226, 229,
+237, 294, 297, 300, 301, 303, i
+Brooks, K. P., 216, 224, 306, viii
+Brooks, N. G., v, viii
+Buchanan, B., viii
+Buchholz, W., 294
+budget, 6,108, 110, 239
+access, 99, 238
+size, 100, 238
+bug, 142,143, 195, 209, 231, 235,
+242, 243, 244, 245, 272
+documented, 148
+Build-every-night approach, 270
+build, incremental, 270
+system, 147, 246, 301
+build-to-budget strategy, 268
+build-up, manpower, 179
+building a program, 200
+bullet, brass, 219
+silver, 179, 207, 212, 214, 226,
+303, 304
+Burke, E., 253
+Burks, A. W., 194
+Burris, R., xii
+Bush, V., 281, 291, 308
+Butler, S., 229
+buy versus build, 197
+C++, 220, 285,305
+Cambridge Multiple-Access
+System, 298
+Cambridge University, 133
+Campbell, E., 121, 242, 298
+Canova, A., 153
+Capp, A., 80
+Carnegie-Mellon University, 78
+CASE statement, 144
+Case, R. P., viii, xi
+Cashman, T. J., 169
+cathedral, 41
+change summary, 77, 78
+change, 117
+control of, 149
+design, 166, 241, 298
+organization, 118
+changeability, 117, 184, 241
+channel, 45
+chemical engineering, 116, 287,
+288
+chief programmer, 32, 232
+ClarisWorks, 219
+class, 189, 222, 225, 272
+Clements, P. C., 307, 308
+clerk, program, 33
+client-server system, 282
+Clingen, C. T., 298, 299
+COBOL, 199, 203, 218
+Codd, E. R, 146, 300
+Index 311
+Coding War Games, 276
+coding, 20, 237
+Coggins, J. M., 220, 221, 305, viii
+Coleman, D., 306
+command key, 263
+command, 261, 286, 287, 306
+comment, 172, 249
+committee, 17, 74, 79
+communication, 16, 17, 35, 54,
+61, 73, 78, 79, 88, 100, 111,
+183,232,233,234,235,236,
+240, 274
+compatibility, 63, 64, 68
+compile-time operation, 66
+compiler, 132
+complexity, 182, 211, 226, 233,
+288
+arbitrary, 184, 211
+conceptual, 210
+component debugging, 144
+component, 223, 230, 239, 284,
+286
+dummy, 148
+comprehensibility, 186
+computer facility, 128
+conceptual construct, 182, 186,
+209
+conceptual integrity, 35, 36, 42,
+62, 80, 142, 184, 232, 233,
+255, 257, 260, 264
+conceptual structure, 180
+conference, 66
+conformity, 184
+Conger, S. A., 214, 304
+Conklin, J., 259, 306
+control program, 91, 93
+convergence of debugging, 9
+Conway, M. E., Ill, 297
+Conway, R. W., 47, 294
+Cooley, J. W., 102
+copilot, 32
+Coqui, H., 217, 305
+Corbatd, F. J., 93, 146, 237, 293,
+297, 298, 299, 300, xi
+Cornell University, 47
+Cosgrove, J., 117, 118, 241, 298
+cost, 6, 16, 87, 121, 182, 224, 233,
+242, 274
+cost, development, 198
+front-loaded, 221
+courage, managerial, 12, 21, 119,
+153, 221, 242, 274
+court, for design disputes, 66
+Cox, B. J., 210, 212, 304
+Crabbe, G., 163
+creation, component stages, 15,
+45, 143
+creative joy, 7, 120, 280
+creative style, 47
+creative work, 46
+creativity, 278, 280
+critical-path schedule, 89,156,
+158, 247, 301
+Crockwell, D., 87
+Crowley, W. R., 132
+cursor, 261
+customizability, 219
+customization, 222
+d'Orbais, J., 41
+Dahl, O. J., 300, 308
+Daley, R. C, 300
+data base, 108
+data service, 131
+database, 198, 223, 240, 283, 285
+datatype, abstract, 189
+date, estimated, 158
+scheduled, 158
+debugging aid, 128
+debugging, component, 144
+high-level language, 135
+interactive, 34, 136, 146, 245
+312 Index
+debugging (continued)
+on-machine, 145 •
+sequential nature of, 17
+system, 147
+DEC PDP-8, 64
+DEC VMS operating system, 284
+DECLARE, 174
+Defense Science Board Task Force
+on Military Software, i, vii,
+viii
+Defense Science Board, 307
+DeMarco, T., 218, 223, 224, 276,
+283, 308, viii
+democracy, 44
+Department of Defense, 266
+dependability of debugging
+vehicle, 131
+description; See specification,
+design change, 241
+design-for-change, 272
+designer, great, 180, 202, 304
+desktop metaphor, 194, 260, 262
+development, incremental, 200
+diagram, 216
+difference in judgement, 35
+difference of interest, 35
+Digitek Corporation, 102
+Dijkstra, E. W., 144, 300, 308
+director, technical, role of, 79,
+236,256
+discipline, 46, 54, 55, 233
+Disk Operating System, IBM
+1410-7010, 56, 57, 99
+display terminal, 78, 129
+division of labor, 79, 236
+DO... WHILE, 144
+document, 107, 239
+documentation system, 134, 244
+documentation, 6, 32, 33, 122,
+164, 224, 235, 248
+DOD-STD-2167, 266, 307
+DOD-STD-2167A, 307
+Dragon voice recognition system,
+264
+Druffel, L., 307
+dual ladder of advancement, 119,
+242
+dummy component, 148
+dump, memory 133, 145
+Durfee, B., 291
+ease of use, 43, 98, 255, 258, 260,
+262,263
+Eastman Kodak Company, 285
+Eckman, D., 298
+editor, job description for, 33
+text, 32, 34, 68, 128, 133, 134,
+146
+Einstein, A., 213
+electronic mail, 234, 235
+electronic notebook, 78, 235
+Electronic Switching System, 90
+encapsulation, 78, 220, 236, 271
+Engelbart, D. C, 78, 260, 306
+English, W., 306
+entropy, 122, 243
+environment, 6, 165,196
+Erikson, W. J., 29, 30, 88, 294,
+296
+Ershov, A. P., 293, xi
+Eschapasse, M., 294
+essence, 179,181,196, 214, 222,
+272, 285, 303, viii
+estimating, 14, 21, 88, 109, 155,
+231, 237, 239, 247, 301
+Evans, B. O., v
+Everett, R. R., 305
+Excel, 285, 286
+expert system, 191
+extension, 221, 268, 302
+Index 313
+Fagg, P., 24
+Falkoff, A. D., 296
+family, software product, 268
+Farr, L., 88, 296
+Fast Fourier Transform, 102
+featuritis, 257
+Feigenbaum, E. A., 191
+Ferrell, J., 287
+file, dummy, 148
+miniature, 148
+filters, 187
+Fjelstadt, 304
+floorspace, 239
+flow arrow, 174
+flow chart, 167, 185, 194, 248, 300
+forecast, 109, 239
+formal definition, 63, 234
+formal document, 111
+formal progression of release, 133
+formality, of written proposals,
+67
+Fortran, 45, 102, 203, 302
+Fortran, H., 99
+FoxPro database, 287
+Franklin, B. (Poor Richard), 87
+Franklin, J. W., 134
+frequency data, 306
+frequency guessing, 257, 259
+fusion, 277
+Galloping Gertie, Tacoma
+Narrows Bridge, 264
+Gantt chart, 265
+General Electric Company, 216
+generator, 193, 283
+gIBIS, 259, 306
+Ginzberg, M. G., 301
+Glass, R. L., 214, 226, 304, 305
+Glegg, G. L., 294
+Global Positioning System, 257
+GO TO, 170
+God, 42, 184, 232, 289, 291, £x
+Godel, 213
+Goethe, J. W. von, 163
+Gold, M. M., 146, 246, 300
+Goldstine, H. H., 170,194, 301
+Gordon, P., mi
+GOTO, 300
+Grafton, R. B., 302
+Grant, E. E., 29, 30, 88, 294, 296
+\graph, 185, 216
+\ structure, 248
+graphical programming, 194, 302
+great designer, 180, 202, 284
+Greenwald, I. D., 295
+growing software, 180, 200, 212,
+268
+Gruenberger, R, 147, 294, 300
+Hamilton, F., 291
+Hamlen, 304
+hardware, computer, 181
+Hardy, H., 97
+Harel, D. L., 212, 214, 270, 304,
+305, 307
+Harr, J., 90, 93,137, 237, 299, xi
+Hayes-Roth, R., viii
+Heilmeyer, G., 307
+Heinlein, R. A., 81, 296
+Hennessy, J., 306
+Henricksen, J. O., 299
+Henry, P., 253
+Herzberg, F., 210, 304
+Hetzel, W. C, 299
+Hezel, K. D., 301
+hierarchical structure, 189, 212,
+220
+high-level language, See
+language, high-level
+Hoare, C. A. R., 300, 308
+314 Index
+Homer, 255
+Hopkins, M., 299
+Huang, W., 222, 305
+hustle, 155, 247
+HyperCard, 285
+hypertext, 281, 291, 306
+IBM 1401, 45, 65, 130
+IBM 650, 43, 102
+IBM 701, 131
+IBM 7030 Stretch computer, 44,
+47, 55, 291, 300, i
+IBM 704, 55
+IBM 709, 55, 57, 181
+IBM 7090, 55, 64
+IBM Corporation, 90, 119, 291, vii
+IBM Harvest computer, i
+IBM MVS/370 operating system,
+276, 284
+IBM Operating System/360, See
+Operating System/360
+IBM OS-2 operating system, 284
+IBM PC computer, 260, 264, 284
+IBM SAGE ANFSQ/7 data
+processing system, 216, 305
+IBM System/360 computer family
+44, 45, 62, 64
+IBM System/360 Model 165, 98
+IBM System/360 Model 30, 45, 47
+IBM System/360 Model 65, 99
+IBM System/360 Model 75, 47
+IBM. System/360 Principles of
+Operation, 62
+IBM VM/360 operating system,
+284
+IBSYS operating system for the
+7090, 56
+Ichikawa, T., 302
+icon, 260
+ideas, as stage of creation, 15
+IEEE Computer magazine, vii
+IF...THEN...ELSE, 144
+Ihm, C. C, 308
+implementation, 15, 45, 64, 143,
+209, 233, 234, 238, 256, 266
+implementations, multiple, 68
+implementer, 47, 54, 62, 66
+incorporation, direct, 66, 118,
+241, 264
+incremental development, 200,
+268
+incremental-build model, 212,
+267,270
+indenting, 174
+information hiding, 78, 271, 308
+information theory, 212
+inheritance, 220, 222, 273
+initialization, 174
+input range, 6,165, 248
+input-output format, 165
+instrumentation, 129
+integrity, conceptual, 35, 36, 42,
+43, 62, 80, 142, 255, 257, 260,
+264
+interaction, as part of creation,
+15, 209
+first of session, 146
+interactive debugging, 34,146
+interactive programming, 136,
+244, 245, 246
+interface, 6, 32, 62, 66, 79, 118,
+120, 122, 241, 243, 255, 257,
+264, 271, 282, 286, 306
+metaprogramming, 287
+module, 268
+WIMP, 234, 260, 263
+Interlisp, 187
+International Computers Limited,
+89, 133, 293, xi
+Internet, 306
+interpreter, for space-saving, 102
+invisibility, 185, 216, 241
+Index 315
+iteration, 199, 267
+Iverson, K. E., 64, 102, 170, 291,
+294, 295, 296, 297, 300, 301,
+302
+Jacopini, A., 144, 300
+Jobs, S., 260
+Jones, C., 217, 218, 222, 223, 224,
+305
+joys of the craft, 7
+Kane, M., 295
+keyboard, 262
+Keys, W. J., 169
+King, W. R., 301
+Knight, C. R., 3
+Knuth, D. E., 102, 297
+Kugler, H. J., 303
+label, 174
+Lachover, H., 305
+Lake, C., 291
+Landy, B., 298
+Lang, D. E., 302
+language description, formal, 181
+language translator, 93
+language, fourth-generation, 283
+high-level, 118,135, 143, 146,
+186, 194, 225, 237, 241, 244,
+245, 248, 249
+machine, 180, 225
+programming, 68, 180, 186, 225
+scripting, 287
+late project, 13, 89, 217, 235, 246,
+275, 306
+lawyer, language, 34
+Lehman, M., 122, 123, 150, 243,
+246, 298, 301
+Lewis, C. S., 123, 298
+library, 187, 222, 239, 244, 272,
+305
+class, 225
+macro, 34
+program, 132
+linkage editor, 56, 282
+Lister, T., 276, 308
+Little, A. D., 287
+Locken, O. S., 76
+Lowry, E. S., 300
+Lucas, P., 295
+Lukasik, S., 211
+Macintosh WIMP interface, 234,
+260, 263
+Madnick, S., 274, 308
+magic, 7, 142, 226
+maintenance, 118, 242
+man-month, 16, 231, 273
+management information system
+(MIS), 107, 111, 219, 239,
+240, 285
+manual, 62, 239, 258, 263
+System/360, 62
+market, mass, 180,197, 218, 223,
+258
+matrix management, 222
+matrix-type organization, 79
+Mausner, B., 210, 304
+Mayer, D. B., 297
+McCarthy, J., 247, 270, 278, 306,
+via
+McCracken, D. D., 302
+McDonough, E., 300
+Mealy, G., xi
+measurement, 222
+medium of creation, tractable, 7,
+15, 117
+meeting, problem action, 157
+status review, 75, 157
+memory use pattern, 129, 239
+mentor, 203, 275
+menu, 260
+316 Index
+Merwin, R. E., 299
+Merwin-Dagget, M., 300
+metaphor, 260
+metaprogramming, 285
+microcomputer revolution, 214,
+279
+microfiche, 77, 235
+Microsoft Corporation, 246, 270
+Microsoft Windows, 260
+Microsoft Word 6.0, 258, 306
+Microsoft Works, 219
+milestone, 22, 25,154, 158, 247,
+248, 270
+Mills, H. D., 32, 33, 201, 267,
+271, 294, 299, 300, 303, 307
+MILSPEC documentation, 248
+mini-decision, 63, 111, 234, 240
+MiniCad design program, 285
+MIT, 93, 121, 146, 287, 293, xi
+mnemonic name, 174
+model, 255, 256, 274, 307
+COCOMO, 273
+incremental-build, 212, 267,
+270
+spiral, 303, 307
+waterfall, 264, 307
+Modula, 189, 203
+modularity, 118, 188, 220
+module, 101,122, 143, 241, 243,
+245, 269, 271, 273, 285
+modules, number of, 122
+Mooers, C. N., 44
+Moore, S. E., xii
+Morin, L. H., 88, 296
+Mostow, J., 302
+mouse, 307
+moving projects, 277
+Mozart, W. A. 202
+MS-DOS, 203, 255, 284
+Multics, 93, 136, 146, 237, 298,
+- 299,300
+multiple implementations, 68
+MVS/370, 203
+Naamad, A., 305
+Nanus, B., 88, 296
+Naur, P., 64
+Needham, R. M., 298
+Nelson, E. A., 297
+nesting, as documentation aid,
+172
+network nature of
+communication, 79
+Neustadt, R. E., 295
+Newell, A., 64, 296
+Noah, 97
+North Carolina State University,
+287
+notebook, status, 33
+system, 147
+Nygaard, 308
+object 285
+object-oriented design, 302
+object-oriented programming,
+189, 219, 273
+objective, 8, 75,108,110, 117, 239
+cost and performance, 49
+space and time, 49
+obsolescence, 9, 26,123
+off-the-shelf package, 198
+office space, 242
+Ogdin, J. L., 293, 298
+open system, 283
+operating system, 128, 238, 243,
+283
+Operating System/360, 43, 45, 47,
+56, 76, 93, 129, 234, 235, 237,
+243, 271, 276, 295, i, x
+optimism, 14, 212, 231
+option, 101, 165, 238
+Orbais, J. d', 41
+Index 317
+order-of-magnitude
+improvement, 208, 213, 215,
+281, 291, vii
+organization chart, 108, 111, 239
+organization, 74, 78,118, 235,
+236,242
+OS/360 Concepts and Facilities, 134
+OS/360 Queued
+Telecommunications Access
+Method, 285
+OS/360, See Operating System/
+360
+overlay, 54, 99, 129
+overview, 165, 248
+Ovid, 55
+Padegs, A., 62
+paperwork, 108
+Parnas families, 268
+Parnas, D. L., 78, 190, 193, 212,
+221, 224, 226, 236, 268, 271,
+288, 296, 302, 304, 307, 308,
+via
+partitioning, 16, 231
+Pascal programming language,
+203, 285
+Pascal, B., 123
+pass structure, 166
+Patrick, R. L., vii
+Patterson, D., 306
+people, 29, 202, 276, 284
+Peopleware: Productive Projects and
+Teams, 276
+perfection, requirement for, 8
+performance simulator, 134
+performance, 182, 258
+PERT chart, 89, 156, 158, 247
+pessimism, 212
+Peter the Apostle, 171
+philosopher's stone, 304
+Piestrasanta, A. M., 160, xi
+pilot plant, 116,240
+pilot system, 298
+pipes, 187
+Pisano, A., 127
+Pius XI, 277, 308
+PL/C language, 47, 294
+PL/I, 32, 47, 64, 66, 93, 135, 172,
+203, 245, 299, 302
+planning, 20
+Plans and Controls organization,
+160, 248
+playpen, 133, 149, 244, 246
+Pnueli, A., 305
+pointing, 260
+policed system, 65
+Politi, M., 305
+Pomeroy, J, W., 298
+Poor Richard (Benjamin
+Franklin), 87
+Pope, Alexander, 207
+Portman, C, 89, 237, 293, 296, xi
+power tools for the mind, 219
+power, giving up, 277
+practice, good software
+engineering, 193, 202
+price, 109
+PROCEDURE, 174
+procedure, catalogued, 34
+producer, role of, 79, 236, 256
+product test, 69, 142, 234, 245
+product, exciting, 203
+programming system, 4, 230
+programming, 5, 288
+productivity equation, 197
+productivity, programming, 21,
+30, 88, 94, 135, 181, 186, 208,
+213, 217, 237, 244, 245, 273,
+276, 284
+program clerk, 33
+program library, 132
+program maintenance, 120
+318 Index
+program name, 174
+program products, 273
+program structure graph, 170,
+185
+program, 4
+auxiliary, 149
+self-documenting, 171
+programmer retraining, 220, 221
+programming environment, 187
+programming language, 221
+programming product, 5, 116,
+240
+programming system, 6
+programming systems product,
+4, 230
+programming systems project,
+237
+programming, automatic, 193
+graphical, 194
+visual, 194
+progressive refinement, 267, 299
+Project Mercury Real-Time
+System, 56
+project workbook, 235
+promotion, in rank, 120
+prototyping, rapid, 180,199, 270
+Publilius, 87
+purple-wire technique, 149
+purpose, of a program, 165, 249
+of a variable, 174
+Quadragesima Anno, Encyclical,
+277,308
+quality, 217
+quantization, of change, 62,118,
+150,246
+of demand for change, 117
+Raeder, G., 302
+raise in salary, 120
+Ralston, A., 300
+rapid prototyping, 180,199, 270
+real-time system, 301
+realism, 212, 226
+realization, step in creation, 49,
+143, 256, 266
+refinement, progressive, 143,
+267, 299
+requirements, 199
+regenerative schedule disaster, 21
+Reims Cathedral, 41
+release, program, 121, 185, 217,
+243, 244
+reliability, 186
+remote job entry, 58
+repartitioning, 24, 232, 275
+representation, of information,
+102, 239
+requirements refinement, 199
+rescheduling, 24
+responsibility, versus authority,
+8,231
+Restaurant Antoine, 13 /
+reusable component, 210/
+reuse, 222, 224, 269, 273, 285
+Reynolds, C. H., 294, 301
+role conflict, reducing, 157
+ROM, read-only memory, 234
+Roosevelt, F. D., 115, 298
+Rosen, S., 300
+Royce, W. W., 265, 307
+Rustin, R., 300, 303, 307
+Ruth, G. H. (Babe), 87
+Sackman, H., 20, 29, 88, 294, 296
+Salieri, A., 202
+Saltzer, J. H., 298, 299
+Sayderman, B. B., 210, 304
+Sayers, D. L., 15, 209, 303
+scaffolding, 34, 148, 246
+Index 319
+scaling up, 36,116, 240, 288
+Scalzi, C A., 300
+schedule, 79,108, 111, 154, 239,
+244, 247, 265, 273, See Late
+project
+cost-optimum, 274
+scheduler, 57
+scheduling, 14, 129
+Schumacher, E. F., 277, 279,
+308
+screen, 194, 201, 268, 287, 308
+second-system effect, 51, 234,
+257,259
+secretary, 33
+security, 183
+self-documenting program, 118,
+171, 249
+Selin, I., 219
+semantics, 44, 64, 66, 225, 261,
+272
+Shakespeare, W., 141, 255
+Shannon, E. C. , 212
+Share 709 Operating System
+(SOS), 295
+Share Operating System for the
+IBM 709, 57
+Shell, D. L., 295
+Sherman, M., 189
+Sherman, R., 305
+short cuts, 263
+shrink-wrapped software, 218,
+219, 223, 257, 279, 282, 284
+Shtul-Trauring, A,, 305
+side effect, 65, 122, 243
+silver bullet, 179, 207, 212, 214,
+226, 303, 304
+simplicity, 44, 181, 186
+Simula-67, 189, 308
+simulator, 234, 244
+environment, 131
+logic, 65, 131
+performance, 99
+size, program, 30, 98,129,135,
+175
+Skwiersky, B. M., 303
+slippage, schedule, See Late
+project
+Sloane, J. C., xii
+Small is Beautiful, 277
+Smalltalk, 203, 220
+Smith, S., 97
+snapshot, 145
+Snyder, Van, 222
+sociological barrier, 119
+Sedahl, L., 211
+Software Engineering Economics,
+273
+Software Engineering Institute,
+202
+software industry, 282
+Software Project Dynamics, 274
+Sophocles, 153,155
+space allocation, 108, 111
+space, memory, 238
+office, 203, 276
+program, See size, program,
+specialization of function, 35, 79,
+236
+specification, 195, 200, 245, 256,
+266, 301, 304
+architectural, 43, 142, 245
+functional, 32, 48, 49, 62, 75,
+108, 110
+interface, 75
+internal, 75
+performance, 32
+testing the, 142
+speed, program, 30, 98,135
+spiral, pricing-forecasting, 109
+spreadsheet, 198, 280, 281
+320 Index
+staff group, 79
+staffing, project, 21, 273
+Stalnaker, A. W., 297
+standard, 75, 168, 249, 283
+standard, de facto, 264
+Stanford Research Institute, 78,
+260
+Stanton, N., ix
+start-up firm, 278, 284
+Statemate design tool, 305
+status control, 108
+status report, 157, 247
+status review meeting, 157
+status symbol, 81
+Steel, T. B., Jr., 295
+Strachey, C, 56, 146, 295, 300
+straightforwardness, 44
+Strategic Defense Initiative, 257
+Stretch Operating System, 56, 99
+structured programming, 32,144,
+218, 241, 245
+stub, 267
+Stutzke, R. D., 275, 308
+subroutine, 182, 272
+Subsidiary Function, Principle of,
+277
+superior-subordinate
+relationship, 35
+supervisory program, 146
+support cost, 218
+surgical team, 27, 120, 232
+Sussenguth, E. H., 296
+Swift, J., 115
+synchronism in file, 171
+syntax, 44, 64, 66, 225, 262
+abstract, 64
+system build, 147, 246, 301
+system debugging, 132, 147
+System Development
+Corporation, 88, 297
+system integration sublibrary, 133
+system test, 19, 122,133,147
+system, large, 31
+programming, 6, 288
+System/360 computer family, 296,
+301
+systems product, programming,
+4,288
+Tacoma Narrows Bridge, 115, 264
+Taliaffero, W. M., 297
+target machine, 129, 243, 244
+Taub, A. H., 301
+Taylor, B., 260
+team, small, sharp, 30
+technical director, role of, 79,
+236, 256
+technology, programming, 49,
+102,128
+telephone log, 68, 234
+test case, 6, 34, 147, 166, 192,
+248, 270
+test, component, 20
+system, 19, 122,133,147
+tester, 34
+testing advisor, 192
+testing, 6
+regression, 122, 242, 268
+specification, 142
+TESTRAN debugging facility, 57,
+146
+text-editing system, 134, 244
+Thompson, K., 308
+throw-away, 116, 241, 264
+time, calendar, 14, 231
+machine, 180
+Time-Sharing System, PDP-10,
+43
+Time-Sharing System/360, 136,
+146
+Index 321
+time-sharing, 187, 280, 282, 300
+tool, 125,196, 243, 258, 280
+power, for the mind, 219
+toolsmith, 34, 128
+top-down design, 220, 134, 143,
+245
+top-down programming, 303
+Tower of Babel, 72, 235
+TRAC language, 44
+tracing, program 146
+trade-off, size-function, 101
+size-speed, 99, 101
+training, time for, 18
+transient area, 101, 238
+Trapnell, F. M., 301, x, xi
+tree organization, 79
+Truman, H. S., 61
+TRW, Inc. , 273
+Tukey, J. W., 102
+turnaround time, 136, 187, 245,
+281
+turnover, personnel, 184
+Turski, W. M., 213, 304
+two-cursor problem, 261
+two-handed operation, 262
+type, abstract data, 188
+type-checking, 220
+Univac computer, 215
+Unix workstation, 282
+Unix, 187, 197, 203, 244, 284, 287,
+308
+University of North Carolina at
+Chapel Hill, i
+user, 45, 117, 121, 165, 255, 258,
+261, 266, 268, 271, 286
+novice, 263
+power, 263
+USSR Academy of Sciences, xi
+utility program, 34, 128, 134
+Vanilla Framework design
+methodology, 216
+vehicle machine, 131
+verification, 195
+version, 118, 185, 217, 241, 268,
+270
+alpha, 240
+beta 240
+Vessey, 214
+virtual environment, 281, i, viii
+virtual memory, 238
+visual programming, 302
+visual representation, 216
+vocabularies, large, 224
+Voice Navigator voice recognition
+system, 264
+von Neumann, J., 170, 194, 301
+Vyssotsky, V. A., 142, 158, 179,
+185, 245, 248, 293, 299, xi
+Walk, K. 295
+Walter, A. B., 302
+Ward, F., viii
+waterfall model, 264, 307
+Watson, T. J., Jr., v, xi
+Watson, T. J., Sr., 164
+Weinberg, G. M., 302
+Weinwurm, G. F., 88, 295, 296,
+301
+Weiss, E. A., 303
+Wells Apocalypse, The, 61
+werewolf, 178, 180, 208
+Wheeler, E., 279, viii
+William III of England, Prince of
+Orange, 207
+Wilson, T. A., 301
+WIMP interface, 234, 260, 263
+window, 260
+Windows NT operating system,
+234
+322 Index
+Windows operating system, 284
+Wirth, N., 143, 245, 299, 306
+Witterrongel, D. M., 301
+Wizard-of-Oz technique, 271
+Wolverton, R. W., 293, 297
+workbook, 75
+workstation, 196
+World-Wide Web, 235, 281
+wormhole, 287
+Wright, W. V., 167
+Xerox Palo Alto Research Center,
+260
+Yourdon, E., 218, 223, 224, 305,
+viii
+zoom, 165, 248
+Zraket, C. A., 305
