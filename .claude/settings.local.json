@@ -11,9 +11,11 @@
       "Bash(git log:*)",
       "WebSearch",
       "Bash(markdownlint-cli2:*)",
-      "Bash(identify:*)"
+      "Bash(identify:*)",
+      "Bash(pdftotext:*)"
     ],
     "deny": [],
     "ask": []
-  }
+  },
+  "outputStyle": "default"
 }
