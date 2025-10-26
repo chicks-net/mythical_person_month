@@ -18,7 +18,7 @@ that it is uncomfortable to encourage our female colleagues to read the book.
 
 ## Notes
 
-- [Our modernation analysis](Modernization_Analysis.md) is the core reason
+- [Our modernization analysis](Modernization_Analysis.md) is the core reason
   for this project and repo.  It details the concerns with examples and
   recommendations for solutions.  Upcoming PRs will implement most of
   these recommendations in logical phases.
@@ -31,7 +31,7 @@ that it is uncomfortable to encourage our female colleagues to read the book.
 
 - [Code of Conduct](.github/CODE_OF_CONDUCT.md)
 - [Contributing Guide](.github/CONTRIBUTING.md) includes a step-by-step guide to our
-  [development processs](.github/CONTRIBUTING.md#development-process).
+  [development process](.github/CONTRIBUTING.md#development-process).
 
 ## Support & Security
 
