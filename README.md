@@ -22,10 +22,10 @@ that it is uncomfortable to encourage our female colleagues to read the book.
   for this project and repo.  It details the concerns with examples and
   recommendations for solutions.  Upcoming PRs will implement most of
   these recommendations in logical phases.
-- [Claude's guide for itself](CLAUDE.md) explains what's going on int this
-  repo in more detail than I'm willing to put the effort into.
 - [Figures and Visuals](Figures_and_Visuals.md) summarize the non-text
   elements of the book that we will find some way to handle.
+- [Claude's guide for itself](CLAUDE.md) explains what's going on in this
+  repo in more detail than I'm willing to put the effort into.
 
 ## Contributing
 
