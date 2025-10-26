@@ -16,6 +16,17 @@ technology projects.  Yet it is also a product of its times and the stories
 [reflect so much sexism](https://psychsafety.com/psychological-safety-66-the-mythical-man-month/)
 that it is uncomfortable to encourage our female colleagues to read the book.
 
+## Notes
+
+- [Our modernation analysis](Modernization_Analysis.md) is the core reason
+  for this project and repo.  It details the concerns with examples and
+  recommendations for solutions.  Upcoming PRs will implement most of
+  these recommendations in logical phases.
+- [Claude's guide for itself](CLAUDE.md) explains what's going on int this
+  repo in more detail than I'm willing to put the effort into.
+- [Figures and Visuals](Figures_and_Visuals.md) summarize the non-text
+  elements of the book that we will find some way to handle.
+
 ## Contributing
 
 - [Code of Conduct](.github/CODE_OF_CONDUCT.md)
