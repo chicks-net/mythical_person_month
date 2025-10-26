@@ -10,6 +10,13 @@ This file provides guidance to Claude Code (claude.ai/code) when working with co
 
 This repo uses `just` (command runner) for all development tasks. The workflow is entirely command-line based using `just` and the GitHub CLI (`gh`).
 
+### Requirements
+
+- `just` - Command runner
+- `gh` - GitHub CLI
+- `bash` - Shell for scripts
+- `markdownlint-cli2` - Markdown linting (used by CI)
+
 ### Standard development cycle
 
 1. `just branch <name>` - Create a new feature branch (format: `$USER/YYYY-MM-DD-<name>`)
@@ -46,12 +53,14 @@ The main `justfile` imports two modules:
 
 ### GitHub Actions
 
-Four workflows run on PRs and pushes to main:
+Six workflows run on PRs and pushes to main:
 
 - **markdownlint** - Enforces markdown standards using `markdownlint-cli2`
 - **checkov** - Security scanning for GitHub Actions
 - **actionlint** - Lints GitHub Actions workflow files
 - **auto-assign** - Automatically assigns issues
+- **claude.yml** - Claude Code integration workflow
+- **claude-code-review.yml** - Automated code review via Claude Code
 
 ### Markdown linting
 
@@ -65,7 +74,30 @@ Configuration in `.markdownlint.yml`:
 
 Run locally: `markdownlint-cli2 **/*.md`
 
-## Project specifics
+## Content Structure
+
+### Directories
+
+- `source_material/` - Original PDFs and text conversion of _The Mythical Man-Month_
+- `chapters/` - Individual chapter files in both PDF and Markdown formats
+  - Naming: `##-chapter-##-title.{md,pdf}` or `##-preface-*.{md,pdf}`
+  - Front matter, contents, epilogue, notes, and index also included
+- `bin/` - Python scripts for splitting the source text into chapters
+
+### Content Processing Workflow
+
+**Splitting chapters from source:**
+
+- `bin/split_chapters_v2.py` - Splits source text into individual chapter files
+  - Uses manually identified line number boundaries
+  - Creates numbered files in `chapters/` directory
+
+**PDF extraction (reference only):**
+
+- Original PDFs split using `qpdf` commands (see `source_material/README.md`)
+- PDF page numbers don't align with table of contents initially
+
+## Working with Content
 
 This is a documentation/writing project rather than a software project. The primary content will be markdown files containing the modernized text. When working on the content:
 
@@ -73,3 +105,4 @@ This is a documentation/writing project rather than a software project. The prim
 - Update gendered language (e.g., "man-month" → "person-month", "manpower" → "workforce")
 - Preserve the technical accuracy and management wisdom
 - Keep references to historical context but make them more inclusive where appropriate
+- Chapter files exist in both PDF (original) and Markdown (modernized) formats
