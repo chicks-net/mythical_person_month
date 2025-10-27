@@ -1,6 +1,6 @@
 # Chapter 12: Sharp Tools
 
-> A good workman is known by his tools.
+> A good worker is known by their tools.
 > — PROVERB
 
 *A. Pisano, "Lo Scultore," from the Campanile di Santa Maria del Fiore, Florence, c. 1335*

@@ -34,7 +34,7 @@ about documentation that would inspire for a lifetime, overcoming sloth and sche
 think we have used wrong methods.
 
 Thomas J. Watson, Sr. told the story of his first experience as
-a cash register salesman in upstate New York. Charged with enthusiasm, he sallied out with his wagon loaded with cash registers.
+a cash register salesperson in upstate New York. Charged with enthusiasm, he sallied out with his wagon loaded with cash registers.
 He worked his territory diligently but without selling a one.
 Downcast, he reported to his boss. The sales manager listened a
 while, then said, "Help me load some registers into the wagon,
