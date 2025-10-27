@@ -16,7 +16,9 @@ technology projects.  Yet it is also a product of its times and the stories
 [reflect so much sexism](https://psychsafety.com/psychological-safety-66-the-mythical-man-month/)
 that it is uncomfortable to encourage our female colleagues to read the book.
 
-Harris, Biencowe, and Telem state it well when they conclude:
+Harris, Biencowe, and Telem
+([PMC5774006](https://pmc.ncbi.nlm.nih.gov/articles/PMC5774006/))
+state it well when they conclude:
 
 > Ultimately, in language, as in medicine, taking the position that our current approach is
 > justified because ‘it has always been our approach’ is not tenable. Much like the adoption of
@@ -29,9 +31,9 @@ Harris, Biencowe, and Telem state it well when they conclude:
 > good faith effort, seek consultation when you are unsure, and admit humbly and openly
 > when you have erred. The onus is on all of us to challenge our biases and do better.
 
-I could not agree more.  This advice applies just as well to technologists as
-surgeons as it does to any other profession you can imagine.  This repo is
-part of my effort to contributing to the "do better" side of the equation.
+I could not agree more.  This advice applies just as well to surgeons,
+technologists, and any other profession you can imagine.  This repo is
+part of my effort to contribute to the "do better" side of the equation.
 
 ## Notes
 
