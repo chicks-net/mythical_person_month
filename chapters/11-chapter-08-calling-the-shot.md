@@ -58,11 +58,11 @@ Joel Aron, manager of Systems Technology at IBM in Gaithersburg, Maryland, has s
 
 [^7]: Reference to Joel Aron's productivity study at IBM.
 
-- Very few interactions: 10,000 instructions per man-year
+- Very few interactions: 10,000 instructions per person-year
 - Some interactions: 5,000
 - Many interactions: 1,500
 
-The man-years do not include support and system test activities, only design and programming. When these figures are diluted by a factor of two to cover system test, they closely match Harr's data.
+The person-years do not include support and system test activities, only design and programming. When these figures are diluted by a factor of two to cover system test, they closely match Harr's data.
 
 ## Harr's Data
 
@@ -70,18 +70,18 @@ John Harr, manager of programming for the Bell Telephone Laboratories' Electroni
 
 [^8]: Reference to John Harr's 1969 SJCC paper.
 
-Of these, Fig. 8.2 is the most detailed and the most useful. The first two jobs are basically control programs; the second two are basically language translators. Productivity is stated in terms of debugged words per man-year. This includes programming, component test, and system test. It is not clear how much of the planning effort, or effort in machine support, writing, and the like, is included.
+Of these, Fig. 8.2 is the most detailed and the most useful. The first two jobs are basically control programs; the second two are basically language translators. Productivity is stated in terms of debugged words per person-year. This includes programming, component test, and system test. It is not clear how much of the planning effort, or effort in machine support, writing, and the like, is included.
 
 ### Fig. 8.2: Summary of four No. 1 ESS program jobs
 
-| Program | Number of programmers | Years | Man-years | Program words | Words/man-year |
+| Program | Number of programmers | Years | Person-years | Program words | Words/person-year |
 |---------|----------------------|-------|-----------|---------------|----------------|
 | Operational units | 50 | 4 | 101 | 52,000 | 515 |
 | Maintenance | 36 | 4 | 81 | 51,000 | 630 |
 | Compiler | 13 | 2½ | 12 | 38,000 | 2270 |
 | Translator (Data assembler) | 15 | 2½ | 11 | 25,000 | - |
 
-The productivities likewise fall into two classifications; those for control programs are about 600 words per man-year; those for translators are about 2200 words per man-year. Note that all four programs are of similar size—the variation is in size of the work groups, length of time, and number of modules. Which is cause and which is effect? Did the control programs require more people because they were more complicated? Or did they require more modules and more man-months because they were assigned more people? Did they take longer because of the greater complexity, or because more people were assigned? One can't be sure. The control programs were surely more complex. These uncertainties aside, the numbers describe the real productivities achieved on a large system, using present-day programming techniques. As such they are a real contribution.
+The productivities likewise fall into two classifications; those for control programs are about 600 words per person-year; those for translators are about 2200 words per person-year. Note that all four programs are of similar size—the variation is in size of the work groups, length of time, and number of modules. Which is cause and which is effect? Did the control programs require more people because they were more complicated? Or did they require more modules and more person-months because they were assigned more people? Did they take longer because of the greater complexity, or because more people were assigned? One can't be sure. The control programs were surely more complex. These uncertainties aside, the numbers describe the real productivities achieved on a large system, using present-day programming techniques. As such they are a real contribution.
 
 Figures 8.3 and 8.4 show some interesting data on programming and debugging rates as compared to predicted rates.
 
@@ -101,7 +101,7 @@ Shows actual rates varying from predicted estimates
 
 ## OS/360 Data
 
-IBM OS/360 experience, while not available in the detail of Harr's data, confirms it. Productivities in range of 600-800 debugged instructions per man-year were experienced by control program groups. Productivities in the 2000-3000 debugged instructions per man-year were achieved by language translator groups. These include planning done by the group, coding component test, system test, and some support activities. They are comparable to Harr's data, so far as I can tell.
+IBM OS/360 experience, while not available in the detail of Harr's data, confirms it. Productivities in range of 600-800 debugged instructions per person-year were experienced by control program groups. Productivities in the 2000-3000 debugged instructions per person-year were achieved by language translator groups. These include planning done by the group, coding component test, system test, and some support activities. They are comparable to Harr's data, so far as I can tell.
 
 Aron's data, Harr's data, and the OS/360 data all confirm striking differences in productivity related to the complexity and difficulty of the task itself. My guideline in the morass of estimating complexity is that compilers are three times as bad as normal batch application programs, and operating systems are three times as bad as compilers.[^9]
 
@@ -109,13 +109,13 @@ Aron's data, Harr's data, and the OS/360 data all confirm striking differences i
 
 ## Corbató's Data
 
-Both Harr's data and OS/360 data are for assembly language programming. Little data seem to have been published on system programming productivity using higher-level languages. Corbató of MIT's Project MAC reports, however, a mean productivity of 1200 lines of debugged PL/I statements per man-year on the MULTICS system (between 1 and 2 million words).[^10]
+Both Harr's data and OS/360 data are for assembly language programming. Little data seem to have been published on system programming productivity using higher-level languages. Corbató of MIT's Project MAC reports, however, a mean productivity of 1200 lines of debugged PL/I statements per person-year on the MULTICS system (between 1 and 2 million words).[^10]
 
 [^10]: Reference to Corbató's MULTICS productivity data.
 
 This number is very exciting. Like the other projects, MULTICS includes control programs and language translators. Like the others, it is producing a system programming product, tested and documented. The data seem to be comparable in terms of kind of effort included. And the productivity number is a good average between the control program and translator productivities of other projects.
 
-But Corbató's number is lines per man-year, not words! Each statement in his system corresponds to about three to five words of handwritten code! This suggests two important conclusions.
+But Corbató's number is lines per person-year, not words! Each statement in his system corresponds to about three to five words of handwritten code! This suggests two important conclusions.
 
 - Productivity seems constant in terms of elementary statements, a conclusion that is reasonable in terms of the thought a statement requires and the errors it may include.[^11]
 - Programming productivity may be increased as much as five times when a suitable high-level language is used.[^12]
