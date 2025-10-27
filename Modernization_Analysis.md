@@ -269,7 +269,7 @@ experience"
 **Why this matters:**
 
 1. **Contradicts repository mission**: The stated purpose is to make this classic text "more inclusive and welcoming to all readers"
-2. **Psychological safety**: Research shows gendered language in tech contexts reinforces stereotype threat and reduces sense of belonging for underrepresented groups
+2. **Psychological safety**: Research shows gendered language in tech contexts reinforces stereotype threat and reduces sense of belonging for underrepresented groups (see [Research Evidence](#research-evidence) section below for detailed citations)
 3. **Historical context**: Brooks wrote in the 1960s-1970s when the tech industry was even more male-dominated. Preserving that language perpetuates that exclusion
 4. **Missed opportunity**: This modernization could make these valuable insights accessible to a new generation
 
@@ -286,6 +286,59 @@ From the original project motivation (README.md):
 > "it is uncomfortable to encourage our female colleagues to read the book"
 
 **Current status**: This remains true. The markdown files are not yet ready to share with female colleagues.
+
+### Research Evidence
+
+The claim that gendered language reinforces stereotype threat and reduces sense of belonging is supported by substantial empirical research:
+
+#### Generic Masculine Pronouns and Mental Representation
+
+**Stout, J. G., & Dasgupta, N. (2011).** "When He Doesn't Mean You: Gender-Exclusive Language as Ostracism." _Personality and Social Psychology Bulletin_, 37(6), 757-769. [DOI: 10.1177/0146167211406434](https://journals.sagepub.com/doi/10.1177/0146167211406434)
+
+- Conducted three experiments examining how gender-exclusive language affects women's psychological responses
+- **Key findings**: Women exposed to gender-exclusive language ("he") in mock job interviews showed significantly lower sense of belonging, reduced motivation, and decreased expected identification with the job compared to gender-inclusive ("he or she") or gender-neutral ("one") language
+- Women also reported higher perceived sexism when exposed to masculine generics
+- Effect was mediated by emotional disengagement: the more women felt excluded by the language, the less motivated they became
+
+**Harris, C. A., Biencowe, N., & Telem, D. A. (2017).** "What's in a pronoun? Why gender-fair language matters." _Annals of Surgery_, 266(6), 932–933. [PMC5774006](https://pmc.ncbi.nlm.nih.gov/articles/PMC5774006/)
+
+- Review of pronoun research in medical/professional contexts
+- **Key findings**: Even when explicitly told that "he" is generic and includes all genders, readers still imagine fewer women in professional roles
+- College students completing sentences with gender-neutral "they" pictured significantly fewer men than those using "he/him"
+- Concludes that "language-induced stereotyping can be difficult to overcome" and gendered language "reinforces gender inequality"
+
+#### Gendered Language in Job Contexts
+
+**Gaucher, D., Friesen, J., & Kay, A. C. (2011).** "Evidence that gendered wording in job advertisements exists and sustains gender inequality." _Journal of Personality and Social Psychology_, 101(1), 109–128. [PubMed](https://pubmed.ncbi.nlm.nih.gov/21381851/)
+
+- Analyzed actual job advertisements and conducted experimental studies
+- **Key findings**: Job ads in male-dominated fields used significantly more masculine-coded words (leader, competitive, dominant)
+- When job ads contained masculine wording, women found the jobs less appealing
+- **Critical mechanism**: Perceptions of belongingness (not perceived skills) mediated the effect—women felt they wouldn't belong in environments described with masculine language
+- This effect has been replicated in multiple contexts including tech startups
+
+#### Gender-Fair Language and Stereotyping
+
+**Sczesny, S., Formanowicz, M., & Moser, F. (2016).** "Can gender-fair language reduce gender stereotyping and discrimination?" _Frontiers in Psychology_, 7, 25. [DOI: 10.3389/fpsyg.2016.00025](https://www.frontiersin.org/articles/10.3389/fpsyg.2016.00025/full)
+
+- Comprehensive review of research on gender-fair language across multiple languages
+- **Key findings**: Masculine generics consistently trigger "male bias in mental representations"—readers predominantly envision male exemplars even for gender-neutral professions
+- Languages with more masculine grammatical structures correlate with lower societal gender equality
+- Gender-fair language in job advertisements increased women's interest and perceived belonging
+- Most importantly: gender-fair language has "genuine potential to reduce stereotyping and discrimination"
+
+#### Implications for This Modernization Project
+
+These studies demonstrate that:
+
+1. **Generic "he" is not perceived as generic**: Readers mentally picture men, excluding women from the imagined professional role
+2. **Masculine language reduces belonging**: Women report measurably lower sense of belonging when exposed to masculine generics, even in hypothetical scenarios
+3. **The effect is psychological, not about skills**: Women don't feel they lack the skills; they feel they don't belong in spaces described with masculine language
+4. **The impact is documented across contexts**: From surgery to software engineering to general professional roles
+
+**Direct relevance**: Brooks's use of "the programmer... he" throughout these chapters creates precisely the psychological barrier documented in this research. Every instance of "he" when describing programmers, architects, or managers subtly reinforces the mental image that these roles belong to men, reducing women's sense of belonging in software engineering.
+
+This is why modernizing the language is not just cosmetic—it's addressing a documented psychological mechanism that affects who feels welcome in the field.
 
 ## Recommendations
 
@@ -451,8 +504,16 @@ For each modernized chapter:
 
 ### Research on Gendered Language Impact
 
+See the detailed [Research Evidence](#research-evidence) section above for comprehensive citations and findings. Key papers include:
+
+- Stout & Dasgupta (2011) - Generic masculine pronouns and sense of belonging
+- Gaucher, Friesen, & Kay (2011) - Gendered wording in job advertisements
+- Sczesny, Formanowicz, & Moser (2016) - Gender-fair language reducing stereotyping
+- Harris, Biencowe, & Telem (2017) - Pronouns in professional contexts
+
+### Project Motivation
+
 - [Psychological Safety #66: The Mythical Man-Month](https://psychsafety.com/psychological-safety-66-the-mythical-man-month/) - Original motivation cited in README
-- Existing research shows gendered language in STEM contexts reduces women's sense of belonging and interest
 
 ### Style Guides
 

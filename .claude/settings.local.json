@@ -12,7 +12,8 @@
       "WebSearch",
       "Bash(markdownlint-cli2:*)",
       "Bash(identify:*)",
-      "Bash(pdftotext:*)"
+      "Bash(pdftotext:*)",
+      "WebFetch(domain:pmc.ncbi.nlm.nih.gov)"
     ],
     "deny": [],
     "ask": []
