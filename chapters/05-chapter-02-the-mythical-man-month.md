@@ -38,7 +38,7 @@ In a single task, the assumption that all will go well has a probabilistic effec
 
 ## The Person-Month
 
-The second fallacious thought mode is expressed in the very unit of effort used in estimating and scheduling: the person-month. Cost does indeed vary as the product of the number of men and the number of months. Progress does not. Hence the person-month as a unit for measuring the size of a job is a dangerous and deceptive myth. It implies that men and months are interchangeable.
+The second fallacious thought mode is expressed in the very unit of effort used in estimating and scheduling: the person-month. Cost does indeed vary as the product of the number of people and the number of months. Progress does not. Hence the person-month as a unit for measuring the size of a job is a dangerous and deceptive myth. It implies that people and months are interchangeable.
 
 Men and months are interchangeable commodities only when a task can be partitioned among many workers with no communication among them (Fig. 2.1). This is true of reaping wheat or picking cotton; it is not even approximately true of systems programming.
 
