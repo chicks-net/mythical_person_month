@@ -71,7 +71,6 @@ Available recipes:
     sync                # escape from branch, back to starting point
 
     [Utility]
-    clean_readme        # generate a clean README
     utcdate             # print UTC date in ISO format
 
     [example]

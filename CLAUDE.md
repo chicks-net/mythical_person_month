@@ -30,7 +30,6 @@ This repo uses `just` (command runner) for all development tasks. The workflow i
 - `just` or `just list` - Show all available recipes
 - `just prweb` - Open current PR in browser
 - `just release <version>` - Create a GitHub release with auto-generated notes
-- `just clean_readme` - Generate a clean README from template (strips template documentation)
 - `just compliance_check` - Run custom repo compliance checks
 - `just utcdate` - Print UTC date in ISO format (used in branch names)
 
