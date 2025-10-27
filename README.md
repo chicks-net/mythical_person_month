@@ -16,6 +16,23 @@ technology projects.  Yet it is also a product of its times and the stories
 [reflect so much sexism](https://psychsafety.com/psychological-safety-66-the-mythical-man-month/)
 that it is uncomfortable to encourage our female colleagues to read the book.
 
+Harris, Biencowe, and Telem state it well when they conclude:
+
+> Ultimately, in language, as in medicine, taking the position that our current approach is
+> justified because ‘it has always been our approach’ is not tenable. Much like the adoption of
+> any new technology or technique, evolving our terminology will almost certainly cause
+> growing pains. However, surgical workforce demographics have changed and are going to
+> keep changing. Thus, we must be rigorous in establishing a nomenclature that promotes not
+> only gender-inclusive language, but processes that represent the broad racial, social, and
+> sexual identities of our colleagues. In the end, achieving linguistic perfection may not be
+> possible, but we should strive for the same standards applied to all surgical trainees: make a
+> good faith effort, seek consultation when you are unsure, and admit humbly and openly
+> when you have erred. The onus is on all of us to challenge our biases and do better.
+
+I could not agree more.  This advice applies just as well to technologists as
+surgeons as it does to any other profession you can imagine.  This repo is
+part of my effort to contributing to the "do better" side of the equation.
+
 ## Notes
 
 - [Our modernization analysis](Modernization_Analysis.md) is the core reason
