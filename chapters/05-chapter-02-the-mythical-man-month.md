@@ -8,7 +8,7 @@ More software projects have gone awry for lack of calendar time than for all oth
 
 First, our techniques of estimating are poorly developed. More seriously, they reflect an unvoiced assumption which is quite untrue, i.e., that all will go well.
 
-Second, our estimating techniques fallaciously confuse effort with progress, hiding the assumption that men and months are interchangeable.
+Second, our estimating techniques fallaciously confuse effort with progress, hiding the assumption that people and months are interchangeable.
 
 Third, because we are uncertain of our estimates, software managers often lack the courteous stubbornness of Antoine's chef.
 
@@ -40,7 +40,7 @@ In a single task, the assumption that all will go well has a probabilistic effec
 
 The second fallacious thought mode is expressed in the very unit of effort used in estimating and scheduling: the person-month. Cost does indeed vary as the product of the number of people and the number of months. Progress does not. Hence the person-month as a unit for measuring the size of a job is a dangerous and deceptive myth. It implies that people and months are interchangeable.
 
-Men and months are interchangeable commodities only when a task can be partitioned among many workers with no communication among them (Fig. 2.1). This is true of reaping wheat or picking cotton; it is not even approximately true of systems programming.
+People and months are interchangeable commodities only when a task can be partitioned among many workers with no communication among them (Fig. 2.1). This is true of reaping wheat or picking cotton; it is not even approximately true of systems programming.
 
 ### Fig. 2.1: Time versus number of workers—perfectly partitionable task
 
@@ -58,7 +58,7 @@ Time remains constant regardless of number of workers
 (Horizontal line showing no improvement)
 ```
 
-In tasks that can be partitioned but which require communication among the subtasks, the effort of communication must be added to the amount of work to be done. Therefore the best that can be done is somewhat poorer than an even trade of men for months (Fig. 2.3).
+In tasks that can be partitioned but which require communication among the subtasks, the effort of communication must be added to the amount of work to be done. Therefore the best that can be done is somewhat poorer than an even trade of people for months (Fig. 2.3).
 
 ### Fig. 2.3: Time versus number of workers—partitionable task requiring communication
 
@@ -80,7 +80,7 @@ Time may actually increase as workers are added
 (Curve showing negative returns beyond optimal point)
 ```
 
-Since software construction is inherently a systems effort—an exercise in complex interrelationships—communication effort is great, and it quickly dominates the decrease in individual task time brought about by partitioning. Adding more men then lengthens, not shortens, the schedule.
+Since software construction is inherently a systems effort—an exercise in complex interrelationships—communication effort is great, and it quickly dominates the decrease in individual task time brought about by partitioning. Adding more people then lengthens, not shortens, the schedule.
 
 ## Systems Test
 
