@@ -16,7 +16,7 @@ md2pdf markdown_file:
 	set -euo pipefail # strict mode
 
 	# deal with dirname of markdown_file
-	output_pdf="$(dirname {{markdown_file}})/$(basename {{ markdown_file}} .md).pdf"
+	output_pdf="$(dirname {{ markdown_file }})/$(basename {{ markdown_file }} .md).pdf"
 
 	if [[ -e "$output_pdf" ]]; then
 		echo "{{RED}}$output_pdf {{BLUE}}already exists, aborting.{{NORMAL}}"
