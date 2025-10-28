@@ -55,7 +55,7 @@ Finally, there is the delight of working in such a tractable medium. The program
 
 Yet the program construct, unlike the poet's words, is real in the sense that it moves and works, producing visible outputs separate from the construct itself. It prints results, draws pictures, produces sounds, moves arms. The magic of myth and legend has come true in our time. One types the correct incantation on a keyboard, and a display screen comes to life, showing things that never were nor could be.
 
-Programming then is fun because it gratifies creative longings built deep within us and delights sensibilities we have in common with all men.
+Programming then is fun because it gratifies creative longings built deep within us and delights sensibilities we have in common with all people.
 
 ## The Woes of the Craft
 
