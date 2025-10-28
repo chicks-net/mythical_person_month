@@ -6,7 +6,7 @@
 ![GitHub watchers](https://img.shields.io/github/watchers/chicks-net/mythical_person_month)
 
 _The Mythical Person Month_ is a modernized version of the
-renowned  _Mythical Man Month_ book.
+renowned _Mythical Man Month_ book.
 
 ## Motivation
 
@@ -43,7 +43,7 @@ this project and repo.  It details the concerns about word choices with
 examples and recommendations for solutions.  I have started implementing these
 ideas.  Upcoming pull requests will continue this process in logical phases.
 
-Other notes:
+### Other Notes
 
 - [Figures and Visuals](Figures_and_Visuals.md) summarize the non-text
   elements of the book that we will find some way to handle.
