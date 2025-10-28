@@ -63,7 +63,8 @@ Not all is delight, however, and knowing the inherent woes makes it easier to be
 
 First, one must perform perfectly. The computer resembles the magic of legend in this respect, too. If one character, one pause, of the incantation is not strictly in proper form, the magic doesn't work. Human beings are not accustomed to being perfect, and few areas of human activity demand it. Adjusting to the requirement for perfection is, I think, the most difficult part of learning to program.[^1]
 
-# TODO: where did this come from?  It looks like it should be replaced with the note from the notes file.
+> # TODO: where did this come from?  It looks like it should be replaced with the note from the notes file.
+
 [^1]: This difficulty is also a joy, as we noted earlier, for it means that debugging is a learning experience.
 
 Next, other people set one's objectives, provide one's resources, and furnish one's information. One rarely controls the circumstances of his work, or even its goal. In management terms, one's authority is not sufficient for his responsibility. It seems that in all fields, however, the jobs where things get done never have formal authority commensurate with responsibility. In practice, actual (as opposed to formal) authority is acquired from the very momentum of accomplishment.
