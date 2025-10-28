@@ -16,6 +16,7 @@ This repo uses `just` (command runner) for all development tasks. The workflow i
 - `gh` - GitHub CLI
 - `bash` - Shell for scripts
 - `markdownlint-cli2` - Markdown linting (used by CI)
+- `pandoc` - Document converter (for MD to PDF conversion)
 
 ### Standard development cycle
 
@@ -32,6 +33,7 @@ This repo uses `just` (command runner) for all development tasks. The workflow i
 - `just release <version>` - Create a GitHub release with auto-generated notes
 - `just compliance_check` - Run custom repo compliance checks
 - `just utcdate` - Print UTC date in ISO format (used in branch names)
+- `just md2pdf <markdown_file>` - Convert a Markdown file to PDF using pandoc (aborts if PDF already exists)
 
 ### Git aliases used
 
@@ -105,3 +107,11 @@ This is a documentation/writing project rather than a software project. The prim
 - Preserve the technical accuracy and management wisdom
 - Keep references to historical context but make them more inclusive where appropriate
 - Chapter files exist in both PDF (original) and Markdown (modernized) formats
+
+**Reference:** See `Modernization_Analysis.md` for comprehensive documentation of language modernization goals, including:
+
+- 150+ specific instances of gendered language requiring attention
+- Research evidence on the psychological impact of gendered language
+- Detailed recommendations organized by category (compound terms, generic pronouns, occupational terms)
+- Implementation strategy with phases and timeline
+- Quality assurance checklist
