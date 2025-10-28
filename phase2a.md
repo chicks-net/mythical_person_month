@@ -21,6 +21,7 @@ This document provides a detailed task list for Phase 2 modernization of chapter
 **Line:** 17
 
 **Current text:**
+
 ```markdown
 And every programmer is prepared to believe such tales, for he knows that he could build any program much faster
 ```
@@ -30,11 +31,13 @@ And every programmer is prepared to believe such tales, for he knows that he cou
 **Recommended strategy:** Plural reframing
 
 **Suggested replacement:**
+
 ```markdown
 And programmers are prepared to believe such tales, for they know they could build any program much faster
 ```
 
 **Alternative:** Keep singular with they
+
 ```markdown
 And every programmer is prepared to believe such tales, for they know they could build any program much faster
 ```
@@ -46,6 +49,7 @@ And every programmer is prepared to believe such tales, for they know they could
 **Line:** 44
 
 **Current text:**
+
 ```markdown
 Why is programming fun? What delights may its practitioner expect as his reward?
 ```
@@ -55,11 +59,13 @@ Why is programming fun? What delights may its practitioner expect as his reward?
 **Recommended strategy:** Noun repetition or second person
 
 **Suggested replacement (noun repetition):**
+
 ```markdown
 Why is programming fun? What delights may its practitioner expect as their reward?
 ```
 
 **Alternative (second person):**
+
 ```markdown
 Why is programming fun? What delights may you expect as your reward?
 ```
@@ -71,6 +77,7 @@ Why is programming fun? What delights may you expect as your reward?
 **Line:** 45
 
 **Current text:**
+
 ```markdown
 As the child delights in his mud pie, so the adult enjoys building things, especially things of his own design.
 ```
@@ -80,11 +87,13 @@ As the child delights in his mud pie, so the adult enjoys building things, espec
 **Recommended strategy:** Singular they (both instances)
 
 **Suggested replacement:**
+
 ```markdown
 As the child delights in their mud pie, so the adult enjoys building things, especially things of their own design.
 ```
 
 **Alternative (plural):**
+
 ```markdown
 As children delight in their mud pies, so adults enjoy building things, especially things of their own design.
 ```
@@ -96,6 +105,7 @@ As children delight in their mud pies, so adults enjoy building things, especial
 **Line:** 54
 
 **Current text:**
+
 ```markdown
 The programmer, like the poet, works only slightly removed from pure thought-stuff. He builds his castles in the air
 ```
@@ -105,11 +115,13 @@ The programmer, like the poet, works only slightly removed from pure thought-stu
 **Recommended strategy:** Singular they
 
 **Suggested replacement:**
+
 ```markdown
 The programmer, like the poet, works only slightly removed from pure thought-stuff. They build their castles in the air
 ```
 
 **Alternative (noun repetition):**
+
 ```markdown
 The programmer, like the poet, works only slightly removed from pure thought-stuff. The programmer builds castles in the air
 ```
@@ -121,6 +133,7 @@ The programmer, like the poet, works only slightly removed from pure thought-stu
 **Line:** 70
 
 **Current text:**
+
 ```markdown
 One rarely controls the circumstances of his work, or even its goal. In management terms, one's authority is not sufficient for his responsibility.
 ```
@@ -130,6 +143,7 @@ One rarely controls the circumstances of his work, or even its goal. In manageme
 **Recommended strategy:** Replace "his" with "their" (works with "one")
 
 **Suggested replacement:**
+
 ```markdown
 One rarely controls the circumstances of their work, or even its goal. In management terms, one's authority is not sufficient for their responsibility.
 ```
@@ -143,6 +157,7 @@ One rarely controls the circumstances of their work, or even its goal. In manage
 **Line:** 72
 
 **Current text:**
+
 ```markdown
 The dependence upon others has a particular case that is especially painful for the system programmer. He depends upon other people's programs.
 ```
@@ -152,11 +167,13 @@ The dependence upon others has a particular case that is especially painful for 
 **Recommended strategy:** Singular they
 
 **Suggested replacement:**
+
 ```markdown
 The dependence upon others has a particular case that is especially painful for the system programmer. They depend upon other people's programs.
 ```
 
 **Alternative (noun repetition):**
+
 ```markdown
 The dependence upon others has a particular case that is especially painful for the system programmer. System programmers depend upon other people's programs.
 ```
@@ -168,6 +185,7 @@ The dependence upon others has a particular case that is especially painful for 
 **Line:** 80
 
 **Current text:**
+
 ```markdown
 The new and better product is generally not available when one completes his own; it is only talked about.
 ```
@@ -177,6 +195,7 @@ The new and better product is generally not available when one completes his own
 **Recommended strategy:** Replace "his" with "their"
 
 **Suggested replacement:**
+
 ```markdown
 The new and better product is generally not available when one completes their own; it is only talked about.
 ```
@@ -187,15 +206,16 @@ The new and better product is generally not available when one completes their o
 
 **File:** `chapters/05-chapter-02-the-mythical-man-month.md`
 
-**Note:** This chapter has already been partially modernized - the title and many instances of "man-month" have been changed to "person-month". However, there are still 4 instances of generic "men" that need attention.
+**Note:** This chapter has already been partially modernized - the title and many instances of "man-month" have been changed to "person-month". However, there are still multiple instances of generic "men" that need attention throughout the chapter.
 
-**Total instances:** 4 uses of "men" as generic term for people
+**Total instances:** 11 uses of "men" as generic term for people (including 7 additional instances from line 126 onwards)
 
 ### Instance 1: Confusion of effort with progress
 
 **Line:** 11
 
 **Current text:**
+
 ```markdown
 Second, our estimating techniques fallaciously confuse effort with progress, hiding the assumption that men and months are interchangeable.
 ```
@@ -205,6 +225,7 @@ Second, our estimating techniques fallaciously confuse effort with progress, hid
 **Recommended strategy:** Replace "men" with "people"
 
 **Suggested replacement:**
+
 ```markdown
 Second, our estimating techniques fallaciously confuse effort with progress, hiding the assumption that people and months are interchangeable.
 ```
@@ -216,6 +237,7 @@ Second, our estimating techniques fallaciously confuse effort with progress, hid
 **Line:** 43
 
 **Current text:**
+
 ```markdown
 Men and months are interchangeable commodities only when a task can be partitioned among many workers with no communication among them (Fig. 2.1).
 ```
@@ -225,6 +247,7 @@ Men and months are interchangeable commodities only when a task can be partition
 **Recommended strategy:** Replace "Men" with "People"
 
 **Suggested replacement:**
+
 ```markdown
 People and months are interchangeable commodities only when a task can be partitioned among many workers with no communication among them (Fig. 2.1).
 ```
@@ -236,6 +259,7 @@ People and months are interchangeable commodities only when a task can be partit
 **Line:** 61
 
 **Current text:**
+
 ```markdown
 In tasks that can be partitioned but which require communication among the subtasks, the effort of communication must be added to the amount of work to be done. Therefore the best that can be done is somewhat poorer than an even trade of men for months (Fig. 2.3).
 ```
@@ -245,6 +269,7 @@ In tasks that can be partitioned but which require communication among the subta
 **Recommended strategy:** Replace "men" with "people"
 
 **Suggested replacement:**
+
 ```markdown
 In tasks that can be partitioned but which require communication among the subtasks, the effort of communication must be added to the amount of work to be done. Therefore the best that can be done is somewhat poorer than an even trade of people for months (Fig. 2.3).
 ```
@@ -256,6 +281,7 @@ In tasks that can be partitioned but which require communication among the subta
 **Line:** 83
 
 **Current text:**
+
 ```markdown
 Since software construction is inherently a systems effort—an exercise in complex interrelationships—communication effort is great, and it quickly dominates the decrease in individual task time brought about by partitioning. Adding more men then lengthens, not shortens, the schedule.
 ```
@@ -265,8 +291,163 @@ Since software construction is inherently a systems effort—an exercise in comp
 **Recommended strategy:** Replace "men" with "people"
 
 **Suggested replacement:**
+
 ```markdown
 Since software construction is inherently a systems effort—an exercise in complex interrelationships—communication effort is great, and it quickly dominates the decrease in individual task time brought about by partitioning. Adding more people then lengthens, not shortens, the schedule.
+```
+
+---
+
+### Instance 5: Example scenario team size
+
+**Line:** 126
+
+**Current text:**
+
+```markdown
+Let us consider an example.[^3] Suppose a task is estimated at 12 person-months and assigned to three men for four months, and that there are measurable mileposts A, B, C, D, which are scheduled to fall at the end of each month (Fig. 2.5).
+```
+
+**Context:** Example project team composition
+
+**Recommended strategy:** Replace "men" with "people"
+
+**Suggested replacement:**
+
+```markdown
+Let us consider an example.[^3] Suppose a task is estimated at 12 person-months and assigned to three people for four months, and that there are measurable mileposts A, B, C, D, which are scheduled to fall at the end of each month (Fig. 2.5).
+```
+
+---
+
+### Instance 6: First alternative staffing (multiple uses)
+
+**Line:** 132
+
+**Current text:**
+
+```markdown
+1. Assume that the task must be done on time. Assume that only the first part of the task was misestimated, so Fig. 2.6 tells the story accurately. Then 9 person-months of effort remain, and two months, so 4½ men will be needed. Add 2 men to the 3 assigned.
+```
+
+**Context:** Calculating staffing needs
+
+**Recommended strategy:** Replace "men" with "people" (both instances)
+
+**Suggested replacement:**
+
+```markdown
+1. Assume that the task must be done on time. Assume that only the first part of the task was misestimated, so Fig. 2.6 tells the story accurately. Then 9 person-months of effort remain, and two months, so 4½ people will be needed. Add 2 people to the 3 assigned.
+```
+
+---
+
+### Instance 7: Second alternative staffing (multiple uses)
+
+**Line:** 133
+
+**Current text:**
+
+```markdown
+2. Assume that the task must be done on time. Assume that the whole estimate was uniformly low, so that Fig. 2.7 really describes the situation. Then 18 person-months of effort remain, and two months, so 9 men will be needed. Add 6 men to the 3 assigned.
+```
+
+**Context:** Calculating staffing needs for second alternative
+
+**Recommended strategy:** Replace "men" with "people" (both instances)
+
+**Suggested replacement:**
+
+```markdown
+2. Assume that the task must be done on time. Assume that the whole estimate was uniformly low, so that Fig. 2.7 really describes the situation. Then 18 person-months of effort remain, and two months, so 9 people will be needed. Add 6 people to the 3 assigned.
+```
+
+---
+
+### Instance 8: Training new team members
+
+**Line:** 137
+
+**Current text:**
+
+```markdown
+In the first two cases, insisting that the unaltered task be completed in four months is disastrous. Consider the regenerative effects, for example, for the first alternative (Fig. 2.8). The two new men, however competent and however quickly recruited, will require training in the task by one of the experienced men.
+```
+
+**Context:** Discussion of adding team members mid-project
+
+**Recommended strategy:** Replace "men" with "people" (both instances)
+
+**Suggested replacement:**
+
+```markdown
+In the first two cases, insisting that the unaltered task be completed in four months is disastrous. Consider the regenerative effects, for example, for the first alternative (Fig. 2.8). The two new people, however competent and however quickly recruited, will require training in the task by one of the experienced people.
+```
+
+---
+
+### Instance 9: Four-month completion requirements (multiple uses)
+
+**Line:** 139
+
+**Current text:**
+
+```markdown
+To hope to get done in four months, considering only training time and not repartitioning and extra systems test, would require adding 4 men, not 2, at the end of the second month. To cover repartitioning and system test effects, one would have to add still other men.
+```
+
+**Context:** Calculating required additions to meet deadlines
+
+**Recommended strategy:** Replace "men" with "people" (both instances)
+
+**Suggested replacement:**
+
+```markdown
+To hope to get done in four months, considering only training time and not repartitioning and extra systems test, would require adding 4 people, not 2, at the end of the second month. To cover repartitioning and system test effects, one would have to add still other people.
+```
+
+---
+
+### Instance 10: Conservative assumption staffing
+
+**Line:** 143
+
+**Current text:**
+
+```markdown
+The foregoing assumed that only the first milestone was misestimated. If on March 1 one makes the conservative assumption that the whole schedule was optimistic, as Fig. 2.7 depicts, one wants to add 6 men just to the original task.
+```
+
+**Context:** Alternative calculation for staffing
+
+**Recommended strategy:** Replace "men" with "people"
+
+**Suggested replacement:**
+
+```markdown
+The foregoing assumed that only the first milestone was misestimated. If on March 1 one makes the conservative assumption that the whole schedule was optimistic, as Fig. 2.7 depicts, one wants to add 6 people just to the original task.
+```
+
+---
+
+### Instance 11: Demythologizing the person-month (multiple uses)
+
+**Line:** 149
+
+**Current text:**
+
+```markdown
+This then is the demythologizing of the person-month. The number of months of a project depends upon its sequential constraints. The maximum number of men depends upon the number of independent subtasks. From these two quantities one can derive schedules using fewer men and more months. (The only risk is product obsolescence.) One cannot, however, get workable schedules using more men and fewer months.
+```
+
+**Context:** Summary of scheduling constraints
+
+**Recommended strategy:** Replace "men" with "people" (all three instances)
+
+**Suggested replacement:**
+
+```markdown
+This then is the demythologizing of the person-month. The number of months of a project depends upon its sequential constraints. The maximum number of people depends upon the number of independent subtasks. From these two quantities one can derive schedules using fewer people and more months. (The only risk is product obsolescence.) One cannot, however, get workable schedules using more people and fewer months.
 ```
 
 ---
@@ -297,6 +478,13 @@ Since software construction is inherently a systems effort—an exercise in comp
 - [ ] Instance 2: Line 43 - interchangeable commodities (Men → People)
 - [ ] Instance 3: Line 61 - trade-offs (men → people)
 - [ ] Instance 4: Line 83 - adding workers (men → people)
+- [ ] Instance 5: Line 126 - example scenario team size (men → people)
+- [ ] Instance 6: Line 132 - first alternative staffing (men → people, 2 instances)
+- [ ] Instance 7: Line 133 - second alternative staffing (men → people, 2 instances)
+- [ ] Instance 8: Line 137 - training new team members (men → people, 2 instances)
+- [ ] Instance 9: Line 139 - four-month completion requirements (men → people, 2 instances)
+- [ ] Instance 10: Line 143 - conservative assumption staffing (men → people)
+- [ ] Instance 11: Line 149 - demythologizing the person-month (men → people, 3 instances)
 - [ ] Read full chapter aloud to check flow
 - [ ] Verify markdown formatting with `markdownlint-cli2`
 
