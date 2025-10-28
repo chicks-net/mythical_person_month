@@ -1,11 +1,12 @@
-# Mythical Person-Month
+# The Mythical Person-Month
 
 ![GitHub Issues](https://img.shields.io/github/issues/chicks-net/mythical_person_month)
 ![GitHub Pull Requests](https://img.shields.io/github/issues-pr/chicks-net/mythical_person_month)
 ![GitHub License](https://img.shields.io/github/license/chicks-net/mythical_person_month)
 ![GitHub watchers](https://img.shields.io/github/watchers/chicks-net/mythical_person_month)
 
-_Mythical Person Month_ is a modernized version of the _Mythical Man Month_ book.
+_The Mythical Person Month_ is a modernized version of the
+renowned  _Mythical Man Month_ book.
 
 ## Motivation
 
@@ -35,12 +36,15 @@ I could not agree more.  This advice applies just as well to surgeons,
 technologists, and any other profession you can imagine.  This repo is
 part of my effort to contribute to the "do better" side of the equation.
 
-## Notes
+## Process, Plan and Notes
 
-- [Our modernization analysis](Modernization_Analysis.md) is the core reason
-  for this project and repo.  It details the concerns with examples and
-  recommendations for solutions.  Upcoming PRs will implement most of
-  these recommendations in logical phases.
+[Our modernization analysis](Modernization_Analysis.md) is the core reason for
+this project and repo.  It details the concerns about word choices with
+examples and recommendations for solutions.  I have started implementing these
+ideas.  Upcoming pull requests will continue this process in logical phases.
+
+Other notes:
+
 - [Figures and Visuals](Figures_and_Visuals.md) summarize the non-text
   elements of the book that we will find some way to handle.
 - [Claude's guide for itself](CLAUDE.md) explains what's going on in this
