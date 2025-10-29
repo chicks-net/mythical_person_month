@@ -12,26 +12,27 @@ The fundamental answer is thoroughgoing, careful, and sympathetic communication 
 
 ## Interactive Discipline for the Architect
 
-The architect of a building works against a budget, using estimating techniques that are later confirmed or corrected by the contractors' bids. It often happens that all the bids exceed the budget. The architect then revises his estimating technique upward and his design downward for another iteration. He may perhaps suggest to the contractors ways to implement his design more cheaply than they had devised.
+The architect of a building works against a budget, using estimating techniques that are later confirmed or corrected by the contractors' bids. It often happens that all the bids exceed the budget. The architect then revises their estimating technique upward and their design downward for another iteration. They may perhaps suggest to the contractors ways to implement their design more cheaply than they had devised.
 
-An analogous process governs the architect of a computer system or a programming system. He has, however, the advantage of getting bids from the contractor at many early points in his design, almost any time he asks for them. He usually has the disadvantage of working with only one contractor, who can raise or lower his estimates to reflect his pleasure with the design. In practice, early and continuous communication can give the architect good cost readings and the builder confidence in the design without blurring the clear division of responsibilities.
+An analogous process governs the architect of a computer system or a programming system. They have, however, the advantage of getting bids from the contractor at many early points in their design, almost any time they ask for them.
+The architect usually has the disadvantage of working with only one contractor, who can raise or lower their estimates to reflect their pleasure with the design. In practice, early and continuous communication can give the architect good cost readings and the builder confidence in the design without blurring the clear division of responsibilities.
 
 The architect has two possible answers when confronted with an estimate that is too high: cut the design or challenge the estimate by suggesting cheaper implementations. This latter is inherently an emotion-generating activity. The architect is now challenging the builder's way of doing the builder's job. For it to be successful, the architect must
 
 - remember that the builder has the inventive and creative responsibility for the implementation; so the architect suggests, not dictates;
-- always be prepared to suggest a way of implementing anything he specifies, and be prepared to accept any other way that meets the objectives as well;
+- always be prepared to suggest a way of implementing anything they specify, and be prepared to accept any other way that meets the objectives as well;
 - deal quietly and privately in such suggestions;
 - be ready to forego credit for suggested improvements.
 
-Normally the builder will counter by suggesting changes to the architecture. Often he is right—some minor feature may have unexpectedly large costs when the implementation is worked out.
+Normally the builder will counter by suggesting changes to the architecture. Often they are right—some minor feature may have unexpectedly large costs when the implementation is worked out.
 
 ## Self-Discipline—The Second-System Effect
 
-An architect's first work is apt to be spare and clean. He knows he doesn't know what he's doing, so he does it carefully and with great restraint.
+An architect's first work is apt to be spare and clean. They know they don't know what they're doing, so they do it carefully and with great restraint.
 
-As he designs the first work, frill after frill and embellishment after embellishment occur to him. These get stored away to be used "next time." Sooner or later the first system is finished, and the architect, with firm confidence and a demonstrated mastery of that class of systems, is ready to build a second system.
+As they design the first work, frill after frill and embellishment after embellishment occur to them. These get stored away to be used "next time." Sooner or later the first system is finished, and the architect, with firm confidence and a demonstrated mastery of that class of systems, is ready to build a second system.
 
-This second is the most dangerous system a man ever designs. When he does his third and later ones, his prior experiences will confirm each other as to the general characteristics of such systems, and their differences will identify those parts of his experience that are particular and not generalizable.
+This second is the most dangerous system anyone ever designs. When they do their third and later ones, their prior experiences will confirm each other as to the general characteristics of such systems, and their differences will identify those parts of their experience that are particular and not generalizable.
 
 The general tendency is to over-design the second system, using all the ideas and frills that were cautiously sidetracked on the first one. The result, as Ovid says, is a "big pile." For example, consider the IBM 709 architecture, later embodied in the 7090. This is an upgrade, a second system for the very successful and clean 704. The operation set is so rich and profuse that only about half of it was regularly used.
 
@@ -53,7 +54,7 @@ Consider the linkage editor, designed to load separately-compiled programs and r
 
 Yet it is also the last and finest of the dinosaurs, for it belongs to a system in which multiprogramming is the normal mode and dynamic core allocation the basic assumption. This is in direct conflict with the notion of using static overlays. How much better the system would work if the efforts devoted to overlay management had been spent on making the dynamic core allocation and the dynamic cross-referencing facilities really fast!
 
-Furthermore, the linkage editor requires so much space and itself contains many overlays that even when it is used just for linkage without overlay management, it is slower than most of the system compilers. The irony of this is that the purpose of the linker is to avoid recompilation. Like a skater whose stomach gets ahead of his feet, refinement proceeded until the system assumptions had been quite outrun.
+Furthermore, the linkage editor requires so much space and itself contains many overlays that even when it is used just for linkage without overlay management, it is slower than most of the system compilers. The irony of this is that the purpose of the linker is to avoid recompilation. Like a skater whose stomach gets ahead of their feet, refinement proceeded until the system assumptions had been quite outrun.
 
 The TESTRAN debugging facility is another example of this tendency. It is the culmination of batch debugging facilities, furnishing truly elegant snapshot and core dump capabilities. It uses the control section concept and an ingenious generator technique to allow selective tracing and snapshotting without interpretive overhead or recompilation. The imaginative concepts of the Share Operating System[^3] for the 709 have been brought to full bloom.
 
@@ -63,8 +64,8 @@ Meanwhile, the whole notion of batch debugging without recompilation was becomin
 
 Yet another example is the scheduler, which provides truly excellent facilities for managing a fixed-batch job stream. In a real sense, this scheduler is the refined, improved, and embellished second system succeeding the 1410-7010 Disk Operating System, a batch system unmultiprogrammed except for input-output and intended chiefly for business applications. As such, the OS/360 scheduler is good. But it is almost totally uninfluenced by the OS/360 needs of remote job entry, multiprogramming, and permanently resident interactive subsystems. Indeed, the scheduler's design makes these hard.
 
-How does the architect avoid the second-system effect? Well, obviously he can't skip his second system. But he can be conscious of the peculiar hazards of that system, and exert extra self-discipline to avoid functional ornamentation and to avoid extrapolation of functions that are obviated by changes in assumptions and purposes.
+How does the architect avoid the second-system effect? Well, obviously they can't skip their second system. But they can be conscious of the peculiar hazards of that system, and exert extra self-discipline to avoid functional ornamentation and to avoid extrapolation of functions that are obviated by changes in assumptions and purposes.
 
 A discipline that will open an architect's eyes is to assign each little function a value: capability x is worth not more than m bytes of memory and n microseconds per invocation. These values will guide initial decisions and serve during implementation as a guide and warning to all.
 
-How does the project manager avoid the second-system effect? By insisting on a senior architect who has at least two systems under his belt. Too, by staying aware of the special temptations, he can ask the right questions to ensure that the philosophical concepts and objectives are fully reflected in the detailed design.
+How does the project manager avoid the second-system effect? By insisting on a senior architect who has at least two systems under their belt. Too, by staying aware of the special temptations, they can ask the right questions to ensure that the philosophical concepts and objectives are fully reflected in the detailed design.
