@@ -692,6 +692,7 @@ For each change, verify:
 #### Historical Quotes
 
 This phase includes several direct quotations that should be preserved:
+
 - **Harry S. Truman** (Chapter 6, line 3): Presidential quote - preserve
 - **Genesis 11:1-8** (Chapter 7, lines 2-5): Biblical text - preserve
 - **Robert Heinlein excerpt** (Chapter 7, lines 116-142): Published fiction - preserve
@@ -703,17 +704,19 @@ Line 81 in Chapter 7 ("no man can serve two masters") is an allusion to Matthew 
 #### Published Work Titles
 
 Keep all book/story titles unchanged:
+
 - "_The Man Who Sold the Moon_" (Heinlein)
 
 ## Notes
 
-### Chapter 6: Passing the Word
+### Chapter 6: Passing the Word (notes)
 
 This chapter focuses on communication mechanisms (manuals, specifications, meetings, logs). The generic pronouns are relatively straightforward to modernize, mostly involving architects, implementers, and programmers.
 
 ### Chapter 7: Why Did the Tower of Babel Fail? - Most Intensive
 
 This chapter requires the most extensive editing with 20+ instances. The producer/technical director section (lines 94-114) is particularly dense with pronouns. Special care needed to:
+
 - Distinguish clearly between producer and director roles despite changing pronouns
 - Preserve the Heinlein literary excerpt exactly as published
 - Handle the biblical allusion ("no man can serve two masters") appropriately
@@ -723,6 +726,7 @@ This chapter requires the most extensive editing with 20+ instances. The produce
 This chapter is remarkably clean! It already uses "their" in one instance (line 19) and mostly discusses specific named individuals. The few changes needed are minimal.
 
 Most references in Chapter 8 are to specific people:
+
 - Charles Portman (line 51)
 - Joel Aron (line 57)
 - John Harr (line 69)
