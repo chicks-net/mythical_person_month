@@ -42,7 +42,7 @@ Since this is so, and since tomorrow's product-quality manuals will grow from to
 
 The second reason for the project workbook is control of the distribution of information. The problem is not to restrict information, but to ensure that relevant information gets to all the people who need it.
 
-The first step is to number all memoranda, so that ordered lists of titles are available and each worker can see if they has what they want. The organization of the workbook goes well beyond this to establish a tree-structure of memoranda. The tree-structure allows distribution lists to be maintained by subtree, if that is desirable.
+The first step is to number all memoranda, so that ordered lists of titles are available and each worker can see if they have what they want. The organization of the workbook goes well beyond this to establish a tree-structure of memoranda. The tree-structure allows distribution lists to be maintained by subtree, if that is desirable.
 
 **Mechanics.** As with so many programming management problems, the technical memorandum problem gets worse nonlinearly as size increases. With 10 people, documents can simply be numbered. With 100 people, several linear sequences will often suffice. With 1000, scattered inevitably over several physical locations, the need for a structured workbook increases and the size of the workbook increases. How then shall the mechanics be handled?
 
@@ -93,7 +93,7 @@ All of this is obvious and conventional except the distinction between the produ
 
 What is the role of the producer? They assemble the team, divide the work, and establish the schedule. They acquire and keep on acquiring the necessary resources. This means that a major part of their role is communication outside the team, upwards and sideways. They establish the pattern of communication and reporting within the team. Finally, they ensure that the schedule is met, shifting resources and organization to respond to changing circumstances.
 
-How about the technical director? They conceive of the design to be built, identify its subparts, specify how it will look from outside, and sketch its internal structure. They provide unity and conceptual integrity to the whole design; thus they serve as a limit on system complexity. As individual technical problems arise, they invent solutions for them or shift the system design as required. They are, in Al Capp's lovely phrase, "the inside person at the skunk works." Their communications are chiefly within the team. Their work is almost completely technical.
+How about the technical director? They conceive of the design to be built, identify its subparts, specify how it will look from outside, and sketch its internal structure. They provide unity and conceptual integrity to the whole design; thus they serve as a limit on system complexity. As individual technical problems arise, they invent solutions for them or shift the system design as required. They are, in Al Capp's lovely phrase, "the inside man at the skunk works." Their communications are chiefly within the team. Their work is almost completely technical.
 
 Now it is clear that the talents required for these two roles are quite different. Talents come in many different combinations; and the particular combination embodied in the producer and the director must govern the relationship between them. Organizations must be designed around the people available; not people fitted into pure-theory organizations.
 

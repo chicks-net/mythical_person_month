@@ -100,7 +100,7 @@ As implementation proceeds, countless questions of architectural interpretation 
 
 It is essential, however, to encourage the puzzled implementer to telephone the responsible architect and ask their question, rather than to guess and proceed. It is just as vital to recognize that the answers to such questions are ex cathedra architectural pronouncements that must be told to everyone.
 
-One useful mechanism is a telephone log kept by the architect. In it they records every question and every answer. Each week the logs of the several architects are concatenated, reproduced, and distributed to the users and implementers. While this mechanism is quite informal, it is both quick and comprehensive.
+One useful mechanism is a telephone log kept by the architect. In it they record every question and every answer. Each week the logs of the several architects are concatenated, reproduced, and distributed to the users and implementers. While this mechanism is quite informal, it is both quick and comprehensive.
 
 ## Product Test
 
