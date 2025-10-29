@@ -25,6 +25,7 @@ This document provides a detailed task list for Phase 2 modernization of chapter
 **Line:** 24
 
 **Current text:**
+
 ```markdown
 Our postulated 200-person team would have taken 25 years to have brought the product to its present stage, if men and months traded evenly!
 ```
@@ -34,6 +35,7 @@ Our postulated 200-person team would have taken 25 years to have brought the pro
 **Recommended strategy:** Replace "men" with "people"
 
 **Suggested replacement:**
+
 ```markdown
 Our postulated 200-person team would have taken 25 years to have brought the product to its present stage, if people and months traded evenly!
 ```
@@ -45,6 +47,7 @@ Our postulated 200-person team would have taken 25 years to have brought the pro
 **Line:** 31
 
 **Current text:**
+
 ```markdown
 That is, instead of each member cutting away on the problem, one does the cutting and the others give him every support that will enhance his effectiveness and productivity.
 ```
@@ -54,6 +57,7 @@ That is, instead of each member cutting away on the problem, one does the cuttin
 **Recommended strategy:** Singular they (both instances)
 
 **Suggested replacement:**
+
 ```markdown
 That is, instead of each member cutting away on the problem, one does the cutting and the others give them every support that will enhance their effectiveness and productivity.
 ```
@@ -65,6 +69,7 @@ That is, instead of each member cutting away on the problem, one does the cuttin
 **Line:** 39-40
 
 **Current text:**
+
 ```markdown
 **The surgeon.** Mills calls him a chief programmer. He personally defines the functional and performance specifications, designs the program, codes it, tests it, and writes its documentation. He writes in a structured programming language such as PL/I, and has effective access to a computing system which not only runs his tests but also stores the various versions of his programs, allows easy file updating, and provides text editing for his documentation. He needs great talent, ten years experience, and considerable systems and application knowledge, whether in applied mathematics, business data handling, or whatever.
 ```
@@ -74,6 +79,7 @@ That is, instead of each member cutting away on the problem, one does the cuttin
 **Recommended strategy:** Singular they throughout
 
 **Suggested replacement:**
+
 ```markdown
 **The surgeon.** Mills calls them a chief programmer. They personally define the functional and performance specifications, design the program, code it, test it, and write its documentation. They write in a structured programming language such as PL/I, and have effective access to a computing system which not only runs their tests but also stores the various versions of their programs, allows easy file updating, and provides text editing for their documentation. They need great talent, ten years experience, and considerable systems and application knowledge, whether in applied mathematics, business data handling, or whatever.
 ```
@@ -87,6 +93,7 @@ That is, instead of each member cutting away on the problem, one does the cuttin
 **Line:** 41
 
 **Current text:**
+
 ```markdown
 **The copilot.** He is the alter ego of the surgeon, able to do any part of the job, but is less experienced. His main function is to share in the design as a thinker, discussant, and evaluator. The surgeon tries ideas on him, but is not bound by his advice. The copilot often represents his team in discussions of function and interface with other teams. He knows all the code intimately. He researches alternative design strategies. He obviously serves as insurance against disaster to the surgeon. He may even write code, but he is not responsible for any part of the code.
 ```
@@ -96,6 +103,7 @@ That is, instead of each member cutting away on the problem, one does the cuttin
 **Recommended strategy:** Singular they throughout (9 instances)
 
 **Suggested replacement:**
+
 ```markdown
 **The copilot.** They are the alter ego of the surgeon, able to do any part of the job, but are less experienced. Their main function is to share in the design as a thinker, discussant, and evaluator. The surgeon tries ideas on them, but is not bound by their advice. The copilot often represents the team in discussions of function and interface with other teams. They know all the code intimately. They research alternative design strategies. They obviously serve as insurance against disaster to the surgeon. They may even write code, but are not responsible for any part of the code.
 ```
@@ -109,6 +117,7 @@ That is, instead of each member cutting away on the problem, one does the cuttin
 **Line:** 43
 
 **Current text:**
+
 ```markdown
 **The administrator.** The surgeon is boss, and he must have the last word on personnel, raises, space, and so on, but he must spend almost none of his time on these matters. Thus he needs a professional administrator who handles money, people, space, and machines, and who interfaces with the administrative machinery of the rest of the organization.
 ```
@@ -118,6 +127,7 @@ That is, instead of each member cutting away on the problem, one does the cuttin
 **Recommended strategy:** Singular they for surgeon references
 
 **Suggested replacement:**
+
 ```markdown
 **The administrator.** The surgeon is boss, and must have the last word on personnel, raises, space, and so on, but must spend almost none of their time on these matters. Thus they need a professional administrator who handles money, people, space, and machines, and who interfaces with the administrative machinery of the rest of the organization.
 ```
@@ -131,6 +141,7 @@ That is, instead of each member cutting away on the problem, one does the cuttin
 **Line:** 49
 
 **Current text:**
+
 ```markdown
 **The program clerk.** He is responsible for maintaining all the technical records of the team in a programming-product library.
 ```
@@ -140,6 +151,7 @@ That is, instead of each member cutting away on the problem, one does the cuttin
 **Recommended strategy:** Singular they
 
 **Suggested replacement:**
+
 ```markdown
 **The program clerk.** They are responsible for maintaining all the technical records of the team in a programming-product library.
 ```
@@ -151,6 +163,7 @@ That is, instead of each member cutting away on the problem, one does the cuttin
 **Line:** 51
 
 **Current text:**
+
 ```markdown
 All computer input goes to the clerk, who logs and keys it if required. The output listings go back to him to be filed and indexed.
 ```
@@ -160,6 +173,7 @@ All computer input goes to the clerk, who logs and keys it if required. The outp
 **Recommended strategy:** Singular they
 
 **Suggested replacement:**
+
 ```markdown
 All computer input goes to the clerk, who logs and keys it if required. The output listings go back to them to be filed and indexed.
 ```
@@ -171,6 +185,7 @@ All computer input goes to the clerk, who logs and keys it if required. The outp
 **Line:** 53
 
 **Current text:**
+
 ```markdown
 When interactive terminals are used, particularly those with no hard-copy output, the program clerk's functions do not diminish, but they change. Now he logs all updates of team program copies from private working copies, still handles all batch runs, and uses his own interactive facility to control the integrity and availability of the growing product.
 ```
@@ -180,6 +195,7 @@ When interactive terminals are used, particularly those with no hard-copy output
 **Recommended strategy:** Singular they (already has "they" for functions, need to change "he" and "his")
 
 **Suggested replacement:**
+
 ```markdown
 When interactive terminals are used, particularly those with no hard-copy output, the program clerk's functions do not diminish, but they change. Now the clerk logs all updates of team program copies from private working copies, still handles all batch runs, and uses their own interactive facility to control the integrity and availability of the growing product.
 ```
@@ -193,6 +209,7 @@ When interactive terminals are used, particularly those with no hard-copy output
 **Line:** 55
 
 **Current text:**
+
 ```markdown
 But these services must be available with unquestionably satisfactory response and reliability; and the surgeon must be sole judge of the adequacy of the service available to him. He needs a toolsmith, responsible for ensuring this adequacy of the basic service and for constructing, maintaining, and upgrading special tools—mostly interactive computer services—needed by his team. Each team will need its own toolsmith, regardless of the excellence and reliability of any centrally provided service, for his job is to see to the tools needed or wanted by his surgeon, without regard to any other team's needs.
 ```
@@ -202,6 +219,7 @@ But these services must be available with unquestionably satisfactory response a
 **Recommended strategy:** Singular they for surgeon, restructure to avoid gendered pronouns for toolsmith
 
 **Suggested replacement:**
+
 ```markdown
 But these services must be available with unquestionably satisfactory response and reliability; and the surgeon must be sole judge of the adequacy of the service available to them. They need a toolsmith, responsible for ensuring this adequacy of the basic service and for constructing, maintaining, and upgrading special tools—mostly interactive computer services—needed by the team. Each team will need its own toolsmith, regardless of the excellence and reliability of any centrally provided service, for the toolsmith's job is to see to the tools needed or wanted by the surgeon, without regard to any other team's needs.
 ```
@@ -215,6 +233,7 @@ But these services must be available with unquestionably satisfactory response a
 **Line:** 57
 
 **Current text:**
+
 ```markdown
 **The tester.** The surgeon will need a bank of suitable test cases for testing pieces of his work as he writes it, and then for testing the whole thing.
 ```
@@ -224,6 +243,7 @@ But these services must be available with unquestionably satisfactory response a
 **Recommended strategy:** Singular they
 
 **Suggested replacement:**
+
 ```markdown
 **The tester.** The surgeon will need a bank of suitable test cases for testing pieces of their work as they write it, and then for testing the whole thing.
 ```
@@ -235,6 +255,7 @@ But these services must be available with unquestionably satisfactory response a
 **Line:** 59
 
 **Current text:**
+
 ```markdown
 **The language lawyer.** By the time Algol came along, people began to recognize that most computer installations have one or two people who delight in mastery of the intricacies of a programming language. And these experts turn out to be very useful and very widely consulted. The talent here is rather different from that of the surgeon, who is primarily a system designer and who thinks representations. The language lawyer can find a neat and efficient way to use the language to do difficult, obscure, or tricky things. Often he will need to do small studies (two or three days) on good technique.
 ```
@@ -244,6 +265,7 @@ But these services must be available with unquestionably satisfactory response a
 **Recommended strategy:** Singular they
 
 **Suggested replacement:**
+
 ```markdown
 **The language lawyer.** By the time Algol came along, people began to recognize that most computer installations have one or two people who delight in mastery of the intricacies of a programming language. And these experts turn out to be very useful and very widely consulted. The talent here is rather different from that of the surgeon, who is primarily a system designer and who thinks representations. The language lawyer can find a neat and efficient way to use the language to do difficult, obscure, or tricky things. Often they will need to do small studies (two or three days) on good technique.
 ```
@@ -261,6 +283,7 @@ But these services must be available with unquestionably satisfactory response a
 **Line:** 15
 
 **Current text:**
+
 ```markdown
 The joy that stirs the beholder comes as much from the integrity of the design as from any particular excellences. As the guidebook tells, this integrity was achieved by the self-abnegation of eight generations of builders, each of whom sacrificed some of his ideas so that the whole might be of pure design.
 ```
@@ -270,6 +293,7 @@ The joy that stirs the beholder comes as much from the integrity of the design a
 **Recommended strategy:** Singular they
 
 **Suggested replacement:**
+
 ```markdown
 The joy that stirs the beholder comes as much from the integrity of the design as from any particular excellences. As the guidebook tells, this integrity was achieved by the self-abnegation of eight generations of builders, each of whom sacrificed some of their ideas so that the whole might be of pure design.
 ```
@@ -281,6 +305,7 @@ The joy that stirs the beholder comes as much from the integrity of the design a
 **Line:** 17
 
 **Current text:**
+
 ```markdown
 Usually this arises not from a serial succession of master designers, but from the separation of design into many tasks done by many men.
 ```
@@ -290,6 +315,7 @@ Usually this arises not from a serial succession of master designers, but from t
 **Recommended strategy:** Replace "men" with "people"
 
 **Suggested replacement:**
+
 ```markdown
 Usually this arises not from a serial succession of master designers, but from the separation of design into many tasks done by many people.
 ```
@@ -301,6 +327,7 @@ Usually this arises not from a serial succession of master designers, but from t
 **Line:** 24
 
 **Current text:**
+
 ```markdown
 How does one ensure that every trifling detail of an architectural specification gets communicated to the implementer, properly understood by him, and accurately incorporated into the product?
 ```
@@ -310,6 +337,7 @@ How does one ensure that every trifling detail of an architectural specification
 **Recommended strategy:** Singular they
 
 **Suggested replacement:**
+
 ```markdown
 How does one ensure that every trifling detail of an architectural specification gets communicated to the implementer, properly understood by them, and accurately incorporated into the product?
 ```
@@ -321,6 +349,7 @@ How does one ensure that every trifling detail of an architectural specification
 **Line:** 46
 
 **Current text:**
+
 ```markdown
 For the entire system it is the union of the manuals the user must consult to do his entire job.
 ```
@@ -330,6 +359,7 @@ For the entire system it is the union of the manuals the user must consult to do
 **Recommended strategy:** Singular they
 
 **Suggested replacement:**
+
 ```markdown
 For the entire system it is the union of the manuals the user must consult to do their entire job.
 ```
@@ -341,6 +371,7 @@ For the entire system it is the union of the manuals the user must consult to do
 **Line:** 48
 
 **Current text:**
+
 ```markdown
 The architect of a system, like the architect of a building, is the user's agent. It is his job to bring professional and technical knowledge to bear in the unalloyed interest of the user, as opposed to the interests of the salesperson, the fabricator, etc.
 ```
@@ -350,11 +381,13 @@ The architect of a system, like the architect of a building, is the user's agent
 **Recommended strategy:** Singular they or restructure
 
 **Suggested replacement:**
+
 ```markdown
 The architect of a system, like the architect of a building, is the user's agent. It is the architect's job to bring professional and technical knowledge to bear in the unalloyed interest of the user, as opposed to the interests of the salesperson, the fabricator, etc.
 ```
 
 **Alternative (singular they):**
+
 ```markdown
 The architect of a system, like the architect of a building, is the user's agent. It is their job to bring professional and technical knowledge to bear in the unalloyed interest of the user, as opposed to the interests of the salesperson, the fabricator, etc.
 ```
@@ -366,6 +399,7 @@ The architect of a system, like the architect of a building, is the user's agent
 **Line:** 107
 
 **Current text:**
+
 ```markdown
 In computer design, for example, the implementer can start as soon as he has relatively vague assumptions about the manual, somewhat clearer ideas about the technology, and well-defined cost and performance objectives. He can begin designing data flows, control sequences, gross packaging concepts, and so on. He devises or adapts the tools he will need, especially the record-keeping system, including the design automation system.
 ```
@@ -375,6 +409,7 @@ In computer design, for example, the implementer can start as soon as he has rel
 **Recommended strategy:** Singular they (5 instances)
 
 **Suggested replacement:**
+
 ```markdown
 In computer design, for example, the implementer can start as soon as they have relatively vague assumptions about the manual, somewhat clearer ideas about the technology, and well-defined cost and performance objectives. They can begin designing data flows, control sequences, gross packaging concepts, and so on. They devise or adapt the tools they will need, especially the record-keeping system, including the design automation system.
 ```
@@ -386,6 +421,7 @@ In computer design, for example, the implementer can start as soon as they have 
 **Line:** 110
 
 **Current text:**
+
 ```markdown
 Long before the external specifications are complete, the implementer has plenty to do. Given some rough approximations as to the function of the system that will be ultimately embodied in the external specifications, he can proceed. He must have well-defined space and time objectives. He must know the system configuration on which his product must run. Then he can begin designing module boundaries, table structures, pass or phase breakdowns, algorithms, and all kinds of tools.
 ```
@@ -395,6 +431,7 @@ Long before the external specifications are complete, the implementer has plenty
 **Recommended strategy:** Singular they (6 instances)
 
 **Suggested replacement:**
+
 ```markdown
 Long before the external specifications are complete, the implementer has plenty to do. Given some rough approximations as to the function of the system that will be ultimately embodied in the external specifications, they can proceed. They must have well-defined space and time objectives. They must know the system configuration on which their product must run. Then they can begin designing module boundaries, table structures, pass or phase breakdowns, algorithms, and all kinds of tools.
 ```
@@ -414,6 +451,7 @@ Long before the external specifications are complete, the implementer has plenty
 **Line:** 15-16
 
 **Current text:**
+
 ```markdown
 The architect of a building works against a budget, using estimating techniques that are later confirmed or corrected by the contractors' bids. It often happens that all the bids exceed the budget. The architect then revises his estimating technique upward and his design downward for another iteration. He may perhaps suggest to the contractors ways to implement his design more cheaply than they had devised.
 ```
@@ -423,6 +461,7 @@ The architect of a building works against a budget, using estimating techniques 
 **Recommended strategy:** Singular they throughout
 
 **Suggested replacement:**
+
 ```markdown
 The architect of a building works against a budget, using estimating techniques that are later confirmed or corrected by the contractors' bids. It often happens that all the bids exceed the budget. The architect then revises their estimating technique upward and their design downward for another iteration. They may perhaps suggest to the contractors ways to implement their design more cheaply than they had devised.
 ```
@@ -434,6 +473,7 @@ The architect of a building works against a budget, using estimating techniques 
 **Line:** 17
 
 **Current text:**
+
 ```markdown
 An analogous process governs the architect of a computer system or a programming system. He has, however, the advantage of getting bids from the contractor at many early points in his design, almost any time he asks for them.
 ```
@@ -443,6 +483,7 @@ An analogous process governs the architect of a computer system or a programming
 **Recommended strategy:** Singular they
 
 **Suggested replacement:**
+
 ```markdown
 An analogous process governs the architect of a computer system or a programming system. They have, however, the advantage of getting bids from the contractor at many early points in their design, almost any time they ask for them.
 ```
@@ -454,6 +495,7 @@ An analogous process governs the architect of a computer system or a programming
 **Line:** 22
 
 **Current text:**
+
 ```markdown
 always be prepared to suggest a way of implementing anything he specifies, and be prepared to accept any other way that meets the objectives as well;
 ```
@@ -463,6 +505,7 @@ always be prepared to suggest a way of implementing anything he specifies, and b
 **Recommended strategy:** Singular they
 
 **Suggested replacement:**
+
 ```markdown
 always be prepared to suggest a way of implementing anything they specify, and be prepared to accept any other way that meets the objectives as well;
 ```
@@ -474,6 +517,7 @@ always be prepared to suggest a way of implementing anything they specify, and b
 **Line:** 26
 
 **Current text:**
+
 ```markdown
 Normally the builder will counter by suggesting changes to the architecture. Often he is right—some minor feature may have unexpectedly large costs when the implementation is worked out.
 ```
@@ -483,6 +527,7 @@ Normally the builder will counter by suggesting changes to the architecture. Oft
 **Recommended strategy:** Singular they
 
 **Suggested replacement:**
+
 ```markdown
 Normally the builder will counter by suggesting changes to the architecture. Often they are right—some minor feature may have unexpectedly large costs when the implementation is worked out.
 ```
@@ -494,6 +539,7 @@ Normally the builder will counter by suggesting changes to the architecture. Oft
 **Line:** 30-32
 
 **Current text:**
+
 ```markdown
 An architect's first work is apt to be spare and clean. He knows he doesn't know what he's doing, so he does it carefully and with great restraint.
 
@@ -505,6 +551,7 @@ As he designs the first work, frill after frill and embellishment after embellis
 **Recommended strategy:** Singular they throughout
 
 **Suggested replacement:**
+
 ```markdown
 An architect's first work is apt to be spare and clean. They know they don't know what they're doing, so they do it carefully and with great restraint.
 
@@ -518,6 +565,7 @@ As they design the first work, frill after frill and embellishment after embelli
 **Line:** 34
 
 **Current text:**
+
 ```markdown
 This second is the most dangerous system a man ever designs. When he does his third and later ones, his prior experiences will confirm each other as to the general characteristics of such systems, and their differences will identify those parts of his experience that are particular and not generalizable.
 ```
@@ -527,11 +575,13 @@ This second is the most dangerous system a man ever designs. When he does his th
 **Recommended strategy:** Replace "a man" with "anyone" or "an architect", use singular they
 
 **Suggested replacement:**
+
 ```markdown
 This second is the most dangerous system anyone ever designs. When they do their third and later ones, their prior experiences will confirm each other as to the general characteristics of such systems, and their differences will identify those parts of their experience that are particular and not generalizable.
 ```
 
 **Alternative:**
+
 ```markdown
 This second is the most dangerous system an architect ever designs. When they do their third and later ones, their prior experiences will confirm each other as to the general characteristics of such systems, and their differences will identify those parts of their experience that are particular and not generalizable.
 ```
@@ -543,6 +593,7 @@ This second is the most dangerous system an architect ever designs. When they do
 **Line:** 70
 
 **Current text:**
+
 ```markdown
 How does the project manager avoid the second-system effect? By insisting on a senior architect who has at least two systems under his belt.
 ```
@@ -552,6 +603,7 @@ How does the project manager avoid the second-system effect? By insisting on a s
 **Recommended strategy:** Singular they
 
 **Suggested replacement:**
+
 ```markdown
 How does the project manager avoid the second-system effect? By insisting on a senior architect who has at least two systems under their belt.
 ```
