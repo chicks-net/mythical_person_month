@@ -83,7 +83,7 @@ It is a very humbling experience to make a multimillion-dollar mistake, but it i
 
 The architecture manager had 10 good people. The architect asserted that they could write the specifications and do it right. It would take ten months, three more than the schedule allowed.
 
-The control program manager had 150 people. The manager asserted that they could prepare the specifications, with the architecture team coordinating; it would be well-done and practical, and they could do it on schedule. Furthermore, if the architecture team did it, his 150 people would sit twiddling their thumbs for ten months.
+The control program manager had 150 people. The manager asserted that they could prepare the specifications, with the architecture team coordinating; it would be well-done and practical, and they could do it on schedule. Furthermore, if the architecture team did it, their 150 people would sit twiddling their thumbs for ten months.
 
 To this the architecture manager responded that if I gave the control program team the responsibility, the result would not in fact be on time, but would also be three months late, and of much lower quality. I did, and it was. They were right on both counts. Moreover, the lack of conceptual integrity made the system far more costly to build and change, and I would estimate that it added a year to debugging time.
 

@@ -46,8 +46,7 @@ A little thought shows that this concept meets the desiderata, if it can be made
 
 **Two secretaries.** The administrator and the editor will each need a secretary; the administrator's secretary will handle project correspondence and non-product files.
 
-**The program clerk.** They are responsible for maintaining all the technical records of the
-  team in a programming-product library. The clerk is trained as a secretary and has responsibility for both machine-readable and human-readable files.
+**The program clerk.** They are responsible for maintaining all the technical records of the team in a programming-product library. The clerk is trained as a secretary and has responsibility for both machine-readable and human-readable files.
 
 All computer input goes to the clerk, who logs and keys it if required. The output listings go back to them to be filed and indexed. The most recent runs of any model are kept in a status notebook; all previous ones are filed in a chronological archive. Absolutely vital to Mills's concept is the transformation of programming "from private art to public practice" by making all the computer runs visible to all team members and identifying all programs and data as team property, not private property.
 
