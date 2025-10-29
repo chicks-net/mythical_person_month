@@ -22,7 +22,7 @@ In OS/360, even though all of this was done very carefully, still other lessons 
 
 First, setting size targets for core is not enough; one has to budget all aspects of size. In most previous operating systems, systems residence had been on tape, and the long search times of tape meant that one was not tempted to use it casually to bring in program segments. OS/360 was disk-resident, like its immediate predecessors, the Stretch Operating System and the 1410-7010 Disk Operating System. Its builders rejoiced in the freedom of cheap disk accesses. The initial result was disastrous to performance.
 
-In setting core sizes for each component, we had not simultaneously set access budgets. As anyone with 20-20 hindsight would expect, a programmer who found their program slopping over their core target broke it into overlays. This process in itself added to the total size and slowed execution down. Most seriously, our management control system neither measured nor caught this. Each person reported as to how much core he was using, and since they were within target, no one worried.
+In setting core sizes for each component, we had not simultaneously set access budgets. As anyone with 20-20 hindsight would expect, a programmer who found their program slopping over their core target broke it into overlays. This process in itself added to the total size and slowed execution down. Most seriously, our management control system neither measured nor caught this. Each person reported as to how much core they were using, and since they were within target, no one worried.
 
 Fortunately, there came a day early in the effort when the OS/360 performance simulator began to work. The first result indicated deep trouble. Fortran H, on a Model 65 with drums, simulated compiling at five statements per minute! Digging-in showed that the control program modules were each making many, many disk accesses. Even high-frequency supervisor modules were making many trips to the well, and the result was quite analogous to page thrashing.
 
@@ -60,4 +60,4 @@ It is easy to multiply examples of the power of representations. I recall a youn
 
 [^2]: Reference to Knuth's exercises on data representation.
 
-The programmer at wit's end for lack of space can often do best by disentangling himself from their code, rearing back, and contemplating their data. Representation is the essence of programming.
+The programmer at wit's end for lack of space can often do best by disentangling themselves from their code, rearing back, and contemplating their data. Representation is the essence of programming.
