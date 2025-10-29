@@ -6,7 +6,7 @@
 
 [^1]: Reference to Harry S. Truman's comment on presidential power.
 
-Assuming that he has the disciplined, experienced architects and that there are many implementers, how shall the manager ensure that everyone hears, understands, and implements the architects' decisions? How can a group of 10 architects maintain the conceptual integrity of a system which 1000 men are building? A whole technology for doing this was worked out for the System/360 hardware design effort, and it is equally applicable to software projects.
+Assuming that they have the disciplined, experienced architects and that there are many implementers, how shall the manager ensure that everyone hears, understands, and implements the architects' decisions? How can a group of 10 architects maintain the conceptual integrity of a system which 1000 people are building? A whole technology for doing this was worked out for the System/360 hardware design effort, and it is equally applicable to software projects.
 
 ## Written Specifications—the Manual
 
@@ -14,11 +14,11 @@ The manual, or written specification, is a necessary tool, though not a sufficie
 
 Round and round goes its preparation cycle, as feedback from users and implementers shows where the design is awkward to use or build. For the sake of implementers it is important that the changes be quantized—that there be dated versions appearing on a schedule.
 
-The manual must not only describe everything the user does see, including all interfaces; it must also refrain from describing what the user does not see. That is the implementer's business, and there his design freedom must be unconstrained. The architect must always be prepared to show an implementation for any feature he describes, but he must not attempt to dictate the implementation.
+The manual must not only describe everything the user does see, including all interfaces; it must also refrain from describing what the user does not see. That is the implementer's business, and there the implementer's design freedom must be unconstrained. The architect must always be prepared to show an implementation for any feature they describe, but must not attempt to dictate the implementation.
 
 The style must be precise, full, and accurately detailed. A user will often refer to a single definition, so each one must repeat all the essentials and yet all must agree. This tends to make manuals dull reading, but precision is more important than liveliness.
 
-The unity of System/360's Principles of Operation springs from the fact that only two pens wrote it: Gerry Blaauw's and Andris Padegs'. The ideas are those of about ten men, but the casting of those decisions into prose specifications must be done by only one or two, if the consistency of prose and product is to be maintained. For the writing of a definition will necessitate a host of mini-decisions which are not of full-debate importance. An example in System/360 is the detail of how the Condition Code is set after each operation. Not trivial, however, is the principle that such mini-decisions be made consistently throughout.
+The unity of System/360's Principles of Operation springs from the fact that only two pens wrote it: Gerry Blaauw's and Andris Padegs'. The ideas are those of about ten people, but the casting of those decisions into prose specifications must be done by only one or two, if the consistency of prose and product is to be maintained. For the writing of a definition will necessitate a host of mini-decisions which are not of full-debate importance. An example in System/360 is the detail of how the Condition Code is set after each operation. Not trivial, however, is the principle that such mini-decisions be made consistently throughout.
 
 I think the finest piece of manual writing I have ever seen is Blaauw's Appendix to System/360 Principles of Operation. This describes with care and precision the limits of System/360 compatibility. It defines compatibility, prescribes what is to be achieved, and enumerates those areas of external appearance where the architecture is intentionally silent and where results from one model may differ from those of another, where one copy of a given model may differ from another copy, or where a copy may differ even from itself after an engineering change. This is the level of precision to which manual writers aspire, and they must define what is not prescribed as carefully as what is.
 
@@ -98,9 +98,9 @@ This notion can be fruitfully applied whenever a programming language is being d
 
 As implementation proceeds, countless questions of architectural interpretation arise, no matter how precise the specification. Obviously many such questions require amplifications and clarifications in the text. Others merely reflect misunderstandings.
 
-It is essential, however, to encourage the puzzled implementer to telephone the responsible architect and ask his question, rather than to guess and proceed. It is just as vital to recognize that the answers to such questions are ex cathedra architectural pronouncements that must be told to everyone.
+It is essential, however, to encourage the puzzled implementer to telephone the responsible architect and ask their question, rather than to guess and proceed. It is just as vital to recognize that the answers to such questions are ex cathedra architectural pronouncements that must be told to everyone.
 
-One useful mechanism is a telephone log kept by the architect. In it he records every question and every answer. Each week the logs of the several architects are concatenated, reproduced, and distributed to the users and implementers. While this mechanism is quite informal, it is both quick and comprehensive.
+One useful mechanism is a telephone log kept by the architect. In it they records every question and every answer. Each week the logs of the several architects are concatenated, reproduced, and distributed to the users and implementers. While this mechanism is quite informal, it is both quick and comprehensive.
 
 ## Product Test
 
