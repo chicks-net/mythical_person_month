@@ -16,7 +16,7 @@ This document provides a detailed task list for Phase 2 modernization of chapter
 
 **File:** `chapters/12-chapter-09-ten-pounds-in-a-five-pound-sack.md`
 
-**Total instances:** 4 generic pronoun uses requiring attention
+**Total instances:** 9 generic pronoun uses requiring attention (across 7 sentences)
 
 ### Instance 1: System designer resource allocation (two pronouns)
 
@@ -46,25 +46,59 @@ System designers put part of their total hardware resources into resident-progra
 
 ---
 
-### Instance 2: Programmer overlaying code (two pronouns)
+### Instance 2: Manager saving kitty (reflexive pronoun)
+
+**Line:** 19
+
+**Current text:**
+
+```markdown
+The wise manager also saves himself a kitty, to be allocated as work proceeds.
+```
+
+**Context:** Generic manager setting aside resources
+
+**Recommended strategy:** Singular they (reflexive)
+
+**Suggested replacement:**
+
+```markdown
+The wise manager also saves themselves a kitty, to be allocated as work proceeds.
+```
+
+**Alternative (remove reflexive):**
+
+```markdown
+The wise manager also saves a kitty, to be allocated as work proceeds.
+```
+
+---
+
+### Instance 3: Programmer overlaying code (four pronouns/terms)
 
 **Line:** 25
 
 **Current text:**
 
 ```markdown
-As anyone with 20-20 hindsight would expect, a programmer who found his program slopping over his core target broke it into overlays.
+As anyone with 20-20 hindsight would expect, a programmer who found his program slopping over his core target broke it into overlays. This process in itself added to the total size and slowed execution down. Most seriously, our management control system neither measured nor caught this. Each man reported as to how much core he was using, and since he was within target, no one worried.
 ```
 
-**Context:** Generic programmer dealing with memory constraints
+**Context:** Generic programmer dealing with memory constraints, then team members reporting on resource usage
 
-**Recommended strategy:** Singular they
+**Recommended strategy:** Singular they for all instances, "person" for "man"
 
 **Suggested replacement:**
 
 ```markdown
-As anyone with 20-20 hindsight would expect, a programmer who found their program slopping over their core target broke it into overlays.
+As anyone with 20-20 hindsight would expect, a programmer who found their program slopping over their core target broke it into overlays. This process in itself added to the total size and slowed execution down. Most seriously, our management control system neither measured nor caught this. Each person reported as to how much core they were using, and since they were within target, no one worried.
 ```
+
+**Changes made:**
+- "his program" → "their program"
+- "his core target" → "their core target"
+- "Each man" → "Each person"
+- "he was using" → "they were using"
 
 **Alternative (avoid repetition with noun):**
 
@@ -74,7 +108,7 @@ As anyone with 20-20 hindsight would expect, a programmer whose program was slop
 
 ---
 
-### Instance 3: Programmer examining code (two pronouns)
+### Instance 4: Programmer examining code (two pronouns)
 
 **Line:** 31
 
@@ -96,7 +130,29 @@ As a result, any programmer in size trouble examined their code to see what they
 
 ---
 
-### Instance 4: Manager helping team
+### Instance 5: Team member suboptimization (two pronouns)
+
+**Line:** 35
+
+**Current text:**
+
+```markdown
+Each suboptimized his piece to meet his targets; few stopped to think about the total effect on the customer.
+```
+
+**Context:** Team members individually optimizing their work without considering the whole system
+
+**Recommended strategy:** Singular they (both instances)
+
+**Suggested replacement:**
+
+```markdown
+Each suboptimized their piece to meet their targets; few stopped to think about the total effect on the customer.
+```
+
+---
+
+### Instance 6: Manager helping team
 
 **Line:** 47
 
@@ -115,6 +171,30 @@ The manager can do two things to help his team make good space-time trade-offs.
 ```markdown
 The manager can do two things to help their team make good space-time trade-offs.
 ```
+
+---
+
+### Instance 7: Programmer contemplating data (two pronouns)
+
+**Line:** 63
+
+**Current text:**
+
+```markdown
+The programmer at wit's end for lack of space can often do best by disentangling himself from his code, rearing back, and contemplating his data.
+```
+
+**Context:** Generic programmer needing to step back and reconsider their approach
+
+**Recommended strategy:** Singular they (all three instances)
+
+**Suggested replacement:**
+
+```markdown
+The programmer at wit's end for lack of space can often do best by disentangling themselves from their code, rearing back, and contemplating their data.
+```
+
+**Note:** This sentence actually has **three** pronouns that need updating: "himself" and "his" (twice).
 
 ---
 
@@ -191,10 +271,13 @@ This chapter has also been comprehensively modernized with gender-neutral pronou
 
 ### Chapter 9 Implementation
 
-- [ ] Instance 1: Line 13 - system designer (singular they, both instances)
-- [ ] Instance 2: Line 25 - programmer overlaying (singular they, both instances)
-- [ ] Instance 3: Line 31 - programmer examining code (singular they, both instances)
-- [ ] Instance 4: Line 47 - manager helping team (singular they)
+- [ ] Instance 1: Line 13 - system designer (singular they, two pronouns)
+- [ ] Instance 2: Line 19 - manager saving kitty (singular they reflexive)
+- [ ] Instance 3: Line 25 - programmer overlaying + team reporting (four pronouns/terms)
+- [ ] Instance 4: Line 31 - programmer examining code (singular they, two pronouns)
+- [ ] Instance 5: Line 35 - team member suboptimization (singular they, two pronouns)
+- [ ] Instance 6: Line 47 - manager helping team (singular they)
+- [ ] Instance 7: Line 63 - programmer contemplating data (singular they, three pronouns)
 - [ ] Read full chapter aloud to check flow
 - [ ] Verify markdown formatting with `markdownlint-cli2`
 
@@ -274,7 +357,7 @@ This phase is significantly lighter than previous phases:
 - **Phase 2a** (Ch 1-2): 11 instances, ~2 hours
 - **Phase 2b** (Ch 3-5): 51+ instances, ~5.5 hours
 - **Phase 2c** (Ch 6-8): 30+ instances, ~4 hours
-- **Phase 2d** (Ch 9-11): 4 instances, ~30 minutes (plus optional review)
+- **Phase 2d** (Ch 9-11): 9 instances (7 sentences), ~1 hour (plus optional review)
 
 ### Consistency Check for Future Phases
 
@@ -339,6 +422,6 @@ This would help understand the history and potentially identify the author's app
 
 - **Document prepared by:** Claude Code analysis
 - **Analysis scope:** Chapters 9, 10, and 11
-- **Total issues identified:** 4 instances in Chapter 9 requiring attention
+- **Total issues identified:** 9 instances (7 sentences) in Chapter 9 requiring attention
 - **Status:** Chapters 10 and 11 already modernized
 - **Recommendation:** Light implementation load; excellent opportunity to verify consistency with already-modernized chapters
