@@ -95,6 +95,7 @@ As anyone with 20-20 hindsight would expect, a programmer who found their progra
 ```
 
 **Changes made:**
+
 - "his program" → "their program"
 - "his core target" → "their core target"
 - "Each man" → "Each person"
