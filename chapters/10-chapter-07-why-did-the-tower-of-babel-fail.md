@@ -6,7 +6,7 @@
 
 ## A Management Audit of the Babel Project
 
-According to the Genesis account, the tower of Babel was man's second major engineering undertaking, after Noah's ark. Babel was the first engineering fiasco.
+According to the Genesis account, the tower of Babel was humanity's second major engineering undertaking, after Noah's ark. Babel was the first engineering fiasco.
 
 The story is deep and instructive on several levels. Let us, however, examine it purely as an engineering project, and see what management lessons can be learned. How well was their project equipped with the prerequisites for success? Did they have:
 
@@ -22,7 +22,7 @@ Well, if they had all of these things, why did the project fail? Where did they 
 
 So it is today. Schedule disaster, functional misfits, and system bugs all arise because the left hand doesn't know what the right hand is doing. As work proceeds, the several teams slowly change the functions, sizes, and speeds of their own programs, and they explicitly or implicitly change their assumptions about the inputs available and the uses to be made of the outputs.
 
-For example, the implementer of a program-overlaying function may run into problems and reduce speed, relying on statistics that show how rarely this function will arise in application programs. Meanwhile, back at the ranch, his neighbor may be designing a major part of the supervisor so that it critically depends upon the speed of this function. This change in speed itself becomes a major specification change, and it needs to be proclaimed abroad and weighed from a system point of view.
+For example, the implementer of a program-overlaying function may run into problems and reduce speed, relying on statistics that show how rarely this function will arise in application programs. Meanwhile, back at the ranch, their neighbor may be designing a major part of the supervisor so that it critically depends upon the speed of this function. This change in speed itself becomes a major specification change, and it needs to be proclaimed abroad and weighed from a system point of view.
 
 How, then, shall teams communicate with one another? In as many ways as possible.
 
@@ -42,15 +42,15 @@ Since this is so, and since tomorrow's product-quality manuals will grow from to
 
 The second reason for the project workbook is control of the distribution of information. The problem is not to restrict information, but to ensure that relevant information gets to all the people who need it.
 
-The first step is to number all memoranda, so that ordered lists of titles are available and each worker can see if he has what he wants. The organization of the workbook goes well beyond this to establish a tree-structure of memoranda. The tree-structure allows distribution lists to be maintained by subtree, if that is desirable.
+The first step is to number all memoranda, so that ordered lists of titles are available and each worker can see if they have what they want. The organization of the workbook goes well beyond this to establish a tree-structure of memoranda. The tree-structure allows distribution lists to be maintained by subtree, if that is desirable.
 
 **Mechanics.** As with so many programming management problems, the technical memorandum problem gets worse nonlinearly as size increases. With 10 people, documents can simply be numbered. With 100 people, several linear sequences will often suffice. With 1000, scattered inevitably over several physical locations, the need for a structured workbook increases and the size of the workbook increases. How then shall the mechanics be handled?
 
 I think this was well done on the OS/360 project. The need for a well-structured workbook was strongly urged by O. S. Locken, who had seen its effectiveness on his previous project, the 1410-7010 operating system.
 
-We quickly decided that each programmer should see all the material, i.e., should have a copy of the workbook in his own office.
+We quickly decided that each programmer should see all the material, i.e., should have a copy of the workbook in their own office.
 
-Of critical importance is timely updating. The workbook must be current. This is very difficult to do if whole documents must be retyped for changes. In a looseleaf book, however, only pages need to be changed. We had available a computer-driven text-editing system, and this proved invaluable for timely maintenance. Offset masters were prepared directly on the computer printer, and turnaround time was less than a day. The recipient of all these updated pages has an assimilation problem, however. When he first receives a changed page, he wants to know, "What has been changed?" When he later consults it, he wants to know, "What is the definition today?"
+Of critical importance is timely updating. The workbook must be current. This is very difficult to do if whole documents must be retyped for changes. In a looseleaf book, however, only pages need to be changed. We had available a computer-driven text-editing system, and this proved invaluable for timely maintenance. Offset masters were prepared directly on the computer printer, and turnaround time was less than a day. The recipient of all these updated pages has an assimilation problem, however. When they first receive a changed page, they want to know, "What has been changed?" When they later consult it, they want to know, "What is the definition today?"
 
 The latter need is met by the continually maintained document. Highlighting of changes requires other steps. First, one must mark changed text on the page, e.g., by a vertical bar in the margin alongside every altered line. Second, one needs to distribute with the new pages a short, separately written change summary that lists the changes and remarks on their significance.
 
@@ -64,7 +64,7 @@ Also, a microfiche cannot readily be highlighted, marked, and commented by the r
 
 On balance I think the microfiche was a very happy mechanism, and I would recommend it over a paper workbook for very large projects.
 
-How would one do it today? With today's system technology available, I think the technique of choice is to keep the workbook on the direct-access file, marked with change bars and revision dates. Each user would consult it from a display terminal (typewriters are too slow). A change summary, prepared daily, would be stored in LIFO fashion at a fixed access point. The programmer would probably read that daily, but if he missed a day he would need only read longer the next day. As he read the change summary, he could interrupt to consult the changed text itself.
+How would one do it today? With today's system technology available, I think the technique of choice is to keep the workbook on the direct-access file, marked with change bars and revision dates. Each user would consult it from a display terminal (typewriters are too slow). A change summary, prepared daily, would be stored in LIFO fashion at a fixed access point. The programmer would probably read that daily, but if they missed a day they would need only read longer the next day. As they read the change summary, they could interrupt to consult the changed text itself.
 
 Notice that the workbook itself is not changed. It is still the assemblage of all project documentation, structured according to a careful design. The only change is in the mechanics of distribution and consultation. D. C. Engelbart and his colleagues at the Stanford Research Institute have built such a system and are using it to build and maintain documentation for the ARPA network.
 
@@ -78,7 +78,7 @@ If there are n workers on a project, there are (n²-n)/2 interfaces across which
 
 The means by which communication is obviated are division of labor and specialization of function. The tree-like structure of organizations reflects the diminishing need for detailed communication when division and specialization of labor are applied.
 
-In fact, a tree organization really arises as a structure of authority and responsibility. The principle that no man can serve two masters dictates that the authority structure be tree-like. But the communication structure is not so restricted, and the tree is a barely passable approximation to the communication structure, which is a network. The inadequacies of the tree approximation give rise to staff groups, task forces, committees, and even the matrix-type organization used in many engineering laboratories.
+In fact, a tree organization really arises as a structure of authority and responsibility. The principle that no one can serve two masters dictates that the authority structure be tree-like. But the communication structure is not so restricted, and the tree is a barely passable approximation to the communication structure, which is a network. The inadequacies of the tree approximation give rise to staff groups, task forces, committees, and even the matrix-type organization used in many engineering laboratories.
 
 Let us consider a tree-like programming organization, and examine the essentials which any subtree must have in order to be effective. They are:
 
@@ -91,27 +91,27 @@ Let us consider a tree-like programming organization, and examine the essentials
 
 All of this is obvious and conventional except the distinction between the producer and the technical director. Let us first consider the two roles, then their relationship.
 
-What is the role of the producer? He assembles the team, divides the work, and establishes the schedule. He acquires and keeps on acquiring the necessary resources. This means that a major part of his role is communication outside the team, upwards and sideways. He establishes the pattern of communication and reporting within the team. Finally, he ensures that the schedule is met, shifting resources and organization to respond to changing circumstances.
+What is the role of the producer? They assemble the team, divide the work, and establish the schedule. They acquire and keep on acquiring the necessary resources. This means that a major part of their role is communication outside the team, upwards and sideways. They establish the pattern of communication and reporting within the team. Finally, they ensure that the schedule is met, shifting resources and organization to respond to changing circumstances.
 
-How about the technical director? He conceives of the design to be built, identifies its subparts, specifies how it will look from outside, and sketches its internal structure. He provides unity and conceptual integrity to the whole design; thus he serves as a limit on system complexity. As individual technical problems arise, he invents solutions for them or shifts the system design as required. He is, in Al Capp's lovely phrase, "inside-man at the skunk works." His communications are chiefly within the team. His work is almost completely technical.
+How about the technical director? They conceive of the design to be built, identify its subparts, specify how it will look from outside, and sketch its internal structure. They provide unity and conceptual integrity to the whole design; thus they serve as a limit on system complexity. As individual technical problems arise, they invent solutions for them or shift the system design as required. They are, in Al Capp's lovely phrase, "the inside man at the skunk works." Their communications are chiefly within the team. Their work is almost completely technical.
 
 Now it is clear that the talents required for these two roles are quite different. Talents come in many different combinations; and the particular combination embodied in the producer and the director must govern the relationship between them. Organizations must be designed around the people available; not people fitted into pure-theory organizations.
 
 Three relationships are possible, and all three are found in successful practice.
 
-**The producer and the technical director may be the same man.** This is readily workable on very small teams, perhaps three to six programmers. On larger projects it is very rarely workable, for two reasons. First, the man with strong management talent and strong technical talent is rarely found. Thinkers are rare; doers are rarer; and thinker-doers are rarest.
+**The producer and the technical director may be the same person.** This is readily workable on very small teams, perhaps three to six programmers. On larger projects it is very rarely workable, for two reasons. First, the person with strong management talent and strong technical talent is rarely found.
 
-Second, on the larger project each of the roles is necessarily a full-time job, or more. It is hard for the producer to delegate enough of his duties to give him any technical time. It is impossible for the director to delegate his without compromising the conceptual integrity of the design.
+Second, on the larger project each of the roles is necessarily a full-time job, or more. It is hard for the producer to delegate enough of their duties to give them any technical time. It is impossible for the director to delegate theirs without compromising the conceptual integrity of the design.
 
-**The producer may be boss, the director his right-hand man.** The difficulty here is to establish the director's authority to make technical decisions without impacting his time as would putting him in the management chain-of-command.
+**The producer may be boss, the director their right hand.** The difficulty here is to establish the director's authority to make technical decisions without impacting their time as would putting them in the management chain-of-command.
 
-Obviously the producer must proclaim the director's technical authority, and he must back it in an extremely high proportion of the test cases that will arise. For this to be possible, the producer and the director must see alike on fundamental technical philosophy; they must talk out the main technical issues privately, before they really become timely; and the producer must have a high respect for the director's technical prowess.
+Obviously the producer must proclaim the director's technical authority, and must back it in an extremely high proportion of the test cases that will arise. For this to be possible, the producer and the director must see alike on fundamental technical philosophy; they must talk out the main technical issues privately, before they really become timely; and the producer must have a high respect for the director's technical prowess.
 
 Less obviously, the producer can do all sorts of subtle things with the symbols of status (office size, carpet, furnishing, carbon copies, etc.) to proclaim that the director, although outside the management line, is a source of decision power.
 
 This can be made to work very effectively. Unfortunately it is rarely tried. The job done least well by project managers is to utilize the technical genius who is not strong on management talent.
 
-**The director may be boss, and the producer his right-hand man.** Robert Heinlein, in _The Man Who Sold the Moon_, describes such an arrangement in a graphic for-instance:
+**The director may be boss, and the producer their right hand.** Robert Heinlein, in _The Man Who Sold the Moon_, describes such an arrangement in a graphic for-instance:
 
 > Coster buried his face in his hands, then looked up. "I know it. I know what needs to be done—but every time I try to tackle a technical problem some bloody fool wants me to make a decision about trucks—or telephones—or some damn thing. I'm sorry, Mr. Harriman. I thought I could do it."
 >
