@@ -40,8 +40,17 @@ part of my effort to contribute to the "do better" side of the equation.
 
 [Our modernization analysis](Modernization_Analysis.md) is the core reason for
 this project and repo.  It details the concerns about word choices with
-examples and recommendations for solutions.  I have started implementing these
-ideas.  Upcoming pull requests will continue this process in logical phases.
+examples and recommendations for solutions.  This led to an analysis of the
+individual chapters with details about each issue and options considered
+to improve the text:
+
+- [Phase 2a](phase2a.md) covers chapters 1-2
+- [Phase 2b](phase2b.md) covers chapters 3-5
+- [Phase 2c](phase2c.md) covers chapters 6-8
+- [Phase 2d](phase2d.md) covers chapters 9-11 and only chapter 9 had issues
+- [Phase 2e](phase2e.md) covers chapters 12-14 which had no issues
+- [Phase 2f](phase2f.md) covers chapters 15-17 which had no issues
+- [Phase 2g](phase2g.md) covers chapters 18-20 which had no issues
 
 ### Other Notes
 
