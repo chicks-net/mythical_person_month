@@ -25,6 +25,7 @@ This document provides a detailed task list for Phase 2 modernization of chapter
 **Line:** 9
 
 **Current text:**
+
 ```markdown
 Assuming that he has the disciplined, experienced architects and that there are many implementers, how shall the manager ensure that everyone hears, understands, and implements the architects' decisions? How can a group of 10 architects maintain the conceptual integrity of a system which 1000 men are building?
 ```
@@ -34,11 +35,13 @@ Assuming that he has the disciplined, experienced architects and that there are 
 **Recommended strategy:** Singular they for manager, replace "men" with "people"
 
 **Suggested replacement:**
+
 ```markdown
 Assuming that they have the disciplined, experienced architects and that there are many implementers, how shall the manager ensure that everyone hears, understands, and implements the architects' decisions? How can a group of 10 architects maintain the conceptual integrity of a system which 1000 people are building?
 ```
 
 **Alternative (restructure):**
+
 ```markdown
 Assuming the manager has disciplined, experienced architects and many implementers, how shall they ensure that everyone hears, understands, and implements the architects' decisions? How can a group of 10 architects maintain the conceptual integrity of a system which 1000 people are building?
 ```
@@ -50,6 +53,7 @@ Assuming the manager has disciplined, experienced architects and many implemente
 **Line:** 17
 
 **Current text:**
+
 ```markdown
 The manual must not only describe everything the user does see, including all interfaces; it must also refrain from describing what the user does not see. That is the implementer's business, and there his design freedom must be unconstrained. The architect must always be prepared to show an implementation for any feature he describes, but he must not attempt to dictate the implementation.
 ```
@@ -59,6 +63,7 @@ The manual must not only describe everything the user does see, including all in
 **Recommended strategy:** Singular they for architect
 
 **Suggested replacement:**
+
 ```markdown
 The manual must not only describe everything the user does see, including all interfaces; it must also refrain from describing what the user does not see. That is the implementer's business, and there the implementer's design freedom must be unconstrained. The architect must always be prepared to show an implementation for any feature they describe, but must not attempt to dictate the implementation.
 ```
@@ -72,6 +77,7 @@ The manual must not only describe everything the user does see, including all in
 **Line:** 21
 
 **Current text:**
+
 ```markdown
 The ideas are those of about ten men, but the casting of those decisions into prose specifications must be done by only one or two, if the consistency of prose and product is to be maintained.
 ```
@@ -81,6 +87,7 @@ The ideas are those of about ten men, but the casting of those decisions into pr
 **Recommended strategy:** Replace "men" with "people"
 
 **Suggested replacement:**
+
 ```markdown
 The ideas are those of about ten people, but the casting of those decisions into prose specifications must be done by only one or two, if the consistency of prose and product is to be maintained.
 ```
@@ -92,6 +99,7 @@ The ideas are those of about ten people, but the casting of those decisions into
 **Line:** 51
 
 **Current text:**
+
 ```markdown
 We quickly decided that each programmer should see all the material, i.e., should have a copy of the workbook in his own office.
 ```
@@ -101,6 +109,7 @@ We quickly decided that each programmer should see all the material, i.e., shoul
 **Recommended strategy:** Singular they
 
 **Suggested replacement:**
+
 ```markdown
 We quickly decided that each programmer should see all the material, i.e., should have a copy of the workbook in their own office.
 ```
@@ -112,6 +121,7 @@ We quickly decided that each programmer should see all the material, i.e., shoul
 **Line:** 53
 
 **Current text:**
+
 ```markdown
 The recipient of all these updated pages has an assimilation problem, however. When he first receives a changed page, he wants to know, "What has been changed?" When he later consults it, he wants to know, "What is the definition today?"
 ```
@@ -121,6 +131,7 @@ The recipient of all these updated pages has an assimilation problem, however. W
 **Recommended strategy:** Singular they throughout
 
 **Suggested replacement:**
+
 ```markdown
 The recipient of all these updated pages has an assimilation problem, however. When they first receive a changed page, they want to know, "What has been changed?" When they later consult it, they want to know, "What is the definition today?"
 ```
@@ -132,6 +143,7 @@ The recipient of all these updated pages has an assimilation problem, however. W
 **Line:** 67
 
 **Current text:**
+
 ```markdown
 The programmer would probably read that daily, but if he missed a day he would need only read longer the next day.
 ```
@@ -141,6 +153,7 @@ The programmer would probably read that daily, but if he missed a day he would n
 **Recommended strategy:** Singular they
 
 **Suggested replacement:**
+
 ```markdown
 The programmer would probably read that daily, but if they missed a day they would need only read longer the next day.
 ```
@@ -152,6 +165,7 @@ The programmer would probably read that daily, but if they missed a day they wou
 **Line:** 101
 
 **Current text:**
+
 ```markdown
 It is essential, however, to encourage the puzzled implementer to telephone the responsible architect and ask his question, rather than to guess and proceed.
 ```
@@ -161,6 +175,7 @@ It is essential, however, to encourage the puzzled implementer to telephone the 
 **Recommended strategy:** Singular they
 
 **Suggested replacement:**
+
 ```markdown
 It is essential, however, to encourage the puzzled implementer to telephone the responsible architect and ask their question, rather than to guess and proceed.
 ```
@@ -172,6 +187,7 @@ It is essential, however, to encourage the puzzled implementer to telephone the 
 **Line:** 103
 
 **Current text:**
+
 ```markdown
 One useful mechanism is a telephone log kept by the architect. In it he records every question and every answer.
 ```
@@ -181,6 +197,7 @@ One useful mechanism is a telephone log kept by the architect. In it he records 
 **Recommended strategy:** Singular they
 
 **Suggested replacement:**
+
 ```markdown
 One useful mechanism is a telephone log kept by the architect. In it they record every question and every answer.
 ```
@@ -200,6 +217,7 @@ One useful mechanism is a telephone log kept by the architect. In it they record
 **Line:** 9
 
 **Current text:**
+
 ```markdown
 According to the Genesis account, the tower of Babel was man's second major engineering undertaking, after Noah's ark.
 ```
@@ -209,11 +227,13 @@ According to the Genesis account, the tower of Babel was man's second major engi
 **Recommended strategy:** Replace "man's" with "humanity's" or "humankind's"
 
 **Suggested replacement:**
+
 ```markdown
 According to the Genesis account, the tower of Babel was humanity's second major engineering undertaking, after Noah's ark.
 ```
 
 **Alternative:**
+
 ```markdown
 According to the Genesis account, the tower of Babel was humankind's second major engineering undertaking, after Noah's ark.
 ```
@@ -225,6 +245,7 @@ According to the Genesis account, the tower of Babel was humankind's second majo
 **Line:** 25
 
 **Current text:**
+
 ```markdown
 Meanwhile, back at the ranch, his neighbor may be designing a major part of the supervisor so that it critically depends upon the speed of this function.
 ```
@@ -234,6 +255,7 @@ Meanwhile, back at the ranch, his neighbor may be designing a major part of the 
 **Recommended strategy:** Singular they
 
 **Suggested replacement:**
+
 ```markdown
 Meanwhile, back at the ranch, their neighbor may be designing a major part of the supervisor so that it critically depends upon the speed of this function.
 ```
@@ -247,6 +269,7 @@ Meanwhile, back at the ranch, their neighbor may be designing a major part of th
 **Line:** 45
 
 **Current text:**
+
 ```markdown
 The first step is to number all memoranda, so that ordered lists of titles are available and each worker can see if he has what he wants.
 ```
@@ -256,6 +279,7 @@ The first step is to number all memoranda, so that ordered lists of titles are a
 **Recommended strategy:** Singular they
 
 **Suggested replacement:**
+
 ```markdown
 The first step is to number all memoranda, so that ordered lists of titles are available and each worker can see if they have what they want.
 ```
@@ -267,6 +291,7 @@ The first step is to number all memoranda, so that ordered lists of titles are a
 **Line:** 51
 
 **Current text:**
+
 ```markdown
 We quickly decided that each programmer should see all the material, i.e., should have a copy of the workbook in his own office.
 ```
@@ -276,6 +301,7 @@ We quickly decided that each programmer should see all the material, i.e., shoul
 **Recommended strategy:** Singular they
 
 **Suggested replacement:**
+
 ```markdown
 We quickly decided that each programmer should see all the material, i.e., should have a copy of the workbook in their own office.
 ```
@@ -287,6 +313,7 @@ We quickly decided that each programmer should see all the material, i.e., shoul
 **Line:** 53
 
 **Current text:**
+
 ```markdown
 The recipient of all these updated pages has an assimilation problem, however. When he first receives a changed page, he wants to know, "What has been changed?" When he later consults it, he wants to know, "What is the definition today?"
 ```
@@ -296,6 +323,7 @@ The recipient of all these updated pages has an assimilation problem, however. W
 **Recommended strategy:** Singular they throughout
 
 **Suggested replacement:**
+
 ```markdown
 The recipient of all these updated pages has an assimilation problem, however. When they first receive a changed page, they want to know, "What has been changed?" When they later consult it, they want to know, "What is the definition today?"
 ```
@@ -307,6 +335,7 @@ The recipient of all these updated pages has an assimilation problem, however. W
 **Line:** 67
 
 **Current text:**
+
 ```markdown
 The programmer would probably read that daily, but if he missed a day he would need only read longer the next day.
 ```
@@ -316,6 +345,7 @@ The programmer would probably read that daily, but if he missed a day he would n
 **Recommended strategy:** Singular they
 
 **Suggested replacement:**
+
 ```markdown
 The programmer would probably read that daily, but if they missed a day they would need only read longer the next day.
 ```
@@ -327,6 +357,7 @@ The programmer would probably read that daily, but if they missed a day they wou
 **Line:** 81
 
 **Current text:**
+
 ```markdown
 The principle that no man can serve two masters dictates that the authority structure be tree-like.
 ```
@@ -336,11 +367,13 @@ The principle that no man can serve two masters dictates that the authority stru
 **Recommended strategy:** Replace "man" with "one" or "person"
 
 **Suggested replacement:**
+
 ```markdown
 The principle that no one can serve two masters dictates that the authority structure be tree-like.
 ```
 
 **Alternative (preserving formality):**
+
 ```markdown
 The principle that no person can serve two masters dictates that the authority structure be tree-like.
 ```
@@ -354,6 +387,7 @@ The principle that no person can serve two masters dictates that the authority s
 **Line:** 94
 
 **Current text:**
+
 ```markdown
 What is the role of the producer? He assembles the team, divides the work, and establishes the schedule. He acquires and keeps on acquiring the necessary resources. This means that a major part of his role is communication outside the team, upwards and sideways. He establishes the pattern of communication and reporting within the team. Finally, he ensures that the schedule is met, shifting resources and organization to respond to changing circumstances.
 ```
@@ -363,6 +397,7 @@ What is the role of the producer? He assembles the team, divides the work, and e
 **Recommended strategy:** Singular they throughout (6 instances)
 
 **Suggested replacement:**
+
 ```markdown
 What is the role of the producer? They assemble the team, divide the work, and establish the schedule. They acquire and keep on acquiring the necessary resources. This means that a major part of their role is communication outside the team, upwards and sideways. They establish the pattern of communication and reporting within the team. Finally, they ensure that the schedule is met, shifting resources and organization to respond to changing circumstances.
 ```
@@ -374,6 +409,7 @@ What is the role of the producer? They assemble the team, divide the work, and e
 **Line:** 96
 
 **Current text:**
+
 ```markdown
 How about the technical director? He conceives of the design to be built, identifies its subparts, specifies how it will look from outside, and sketches its internal structure. He provides unity and conceptual integrity to the whole design; thus he serves as a limit on system complexity. As individual technical problems arise, he invents solutions for them or shifts the system design as required. He is, in Al Capp's lovely phrase, "inside-man at the skunk works." His communications are chiefly within the team. His work is almost completely technical.
 ```
@@ -383,6 +419,7 @@ How about the technical director? He conceives of the design to be built, identi
 **Recommended strategy:** Singular they throughout; also change "inside-man" to "inside person" or similar
 
 **Suggested replacement:**
+
 ```markdown
 How about the technical director? They conceive of the design to be built, identify its subparts, specify how it will look from outside, and sketch its internal structure. They provide unity and conceptual integrity to the whole design; thus they serve as a limit on system complexity. As individual technical problems arise, they invent solutions for them or shift the system design as required. They are, in Al Capp's lovely phrase, "the inside person at the skunk works." Their communications are chiefly within the team. Their work is almost completely technical.
 ```
@@ -396,6 +433,7 @@ How about the technical director? They conceive of the design to be built, ident
 **Line:** 102
 
 **Current text:**
+
 ```markdown
 **The producer and the technical director may be the same man.** This is readily workable on very small teams, perhaps three to six programmers. On larger projects it is very rarely workable, for two reasons. First, the man with strong management talent and strong technical talent is rarely found.
 ```
@@ -405,6 +443,7 @@ How about the technical director? They conceive of the design to be built, ident
 **Recommended strategy:** Replace "man" with "person"
 
 **Suggested replacement:**
+
 ```markdown
 **The producer and the technical director may be the same person.** This is readily workable on very small teams, perhaps three to six programmers. On larger projects it is very rarely workable, for two reasons. First, the person with strong management talent and strong technical talent is rarely found.
 ```
@@ -416,6 +455,7 @@ How about the technical director? They conceive of the design to be built, ident
 **Line:** 104
 
 **Current text:**
+
 ```markdown
 It is hard for the producer to delegate enough of his duties to give him any technical time. It is impossible for the director to delegate his without compromising the conceptual integrity of the design.
 ```
@@ -425,6 +465,7 @@ It is hard for the producer to delegate enough of his duties to give him any tec
 **Recommended strategy:** Singular they for each role
 
 **Suggested replacement:**
+
 ```markdown
 It is hard for the producer to delegate enough of their duties to give them any technical time. It is impossible for the director to delegate theirs without compromising the conceptual integrity of the design.
 ```
@@ -438,6 +479,7 @@ It is hard for the producer to delegate enough of their duties to give them any 
 **Line:** 106
 
 **Current text:**
+
 ```markdown
 **The producer may be boss, the director his right-hand man.** The difficulty here is to establish the director's authority to make technical decisions without impacting his time as would putting him in the management chain-of-command.
 ```
@@ -447,11 +489,13 @@ It is hard for the producer to delegate enough of their duties to give them any 
 **Recommended strategy:** Replace "right-hand man" with "right hand" or "second-in-command"; use singular they
 
 **Suggested replacement:**
+
 ```markdown
 **The producer may be boss, the director their right hand.** The difficulty here is to establish the director's authority to make technical decisions without impacting their time as would putting them in the management chain-of-command.
 ```
 
 **Alternative (more explicit):**
+
 ```markdown
 **The producer may be boss, the director their second-in-command.** The difficulty here is to establish the director's authority to make technical decisions without impacting their time as would putting them in the management chain-of-command.
 ```
@@ -463,6 +507,7 @@ It is hard for the producer to delegate enough of their duties to give them any 
 **Line:** 108
 
 **Current text:**
+
 ```markdown
 Obviously the producer must proclaim the director's technical authority, and he must back it in an extremely high proportion of the test cases that will arise.
 ```
@@ -472,6 +517,7 @@ Obviously the producer must proclaim the director's technical authority, and he 
 **Recommended strategy:** Singular they
 
 **Suggested replacement:**
+
 ```markdown
 Obviously the producer must proclaim the director's technical authority, and must back it in an extremely high proportion of the test cases that will arise.
 ```
@@ -485,6 +531,7 @@ Obviously the producer must proclaim the director's technical authority, and mus
 **Line:** 114
 
 **Current text:**
+
 ```markdown
 **The director may be boss, and the producer his right-hand man.** Robert Heinlein, in _The Man Who Sold the Moon_, describes such an arrangement in a graphic for-instance:
 ```
@@ -494,6 +541,7 @@ Obviously the producer must proclaim the director's technical authority, and mus
 **Recommended strategy:** Replace "right-hand man" with "right hand" or "second-in-command"
 
 **Suggested replacement:**
+
 ```markdown
 **The director may be boss, and the producer their right hand.** Robert Heinlein, in _The Man Who Sold the Moon_, describes such an arrangement in a graphic for-instance:
 ```
@@ -515,6 +563,7 @@ Obviously the producer must proclaim the director's technical authority, and mus
 **Line:** 19
 
 **Current text:**
+
 ```markdown
 Before dismissing them, however, let us note that these numbers, although not for strictly comparable problems, suggest that effort goes as a power of size even when no communication is involved except that of someone with their memories.
 ```
@@ -532,6 +581,7 @@ Before dismissing them, however, let us note that these numbers, although not fo
 **Line:** 51
 
 **Current text:**
+
 ```markdown
 He found his programming teams missing schedules by about one-half—each job was taking approximately twice as long as estimated.
 ```
@@ -541,6 +591,7 @@ He found his programming teams missing schedules by about one-half—each job wa
 **Recommended strategy:** This refers to a specific historical person. If we know Portman's gender, we can keep the pronoun. If restructuring is preferred for consistency:
 
 **Suggested replacement (restructure):**
+
 ```markdown
 Portman found his programming teams missing schedules by about one-half—each job was taking approximately twice as long as estimated.
 ```
