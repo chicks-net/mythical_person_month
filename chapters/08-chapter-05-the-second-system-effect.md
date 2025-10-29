@@ -26,7 +26,6 @@ The architect has two possible answers when confronted with an estimate that is 
 
 Normally the builder will counter by suggesting changes to the architecture. Often they are right—some minor feature may have unexpectedly large costs when the implementation is worked out.
 
-
 ## Self-Discipline—The Second-System Effect
 
 An architect's first work is apt to be spare and clean. They know they don't know what they're doing, so they do it carefully and with great restraint.
