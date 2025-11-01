@@ -18,7 +18,7 @@ md2pdf markdown_file:
 	# deal with dirname of markdown_file
 	output_pdf="$(dirname {{ markdown_file }})/$(basename {{ markdown_file }} .md).pdf"
 
-	WAIT_SECONDS=2
+	WAIT_SECONDS=3
 	if [[ -e "$output_pdf" ]]; then
 		echo "{{RED}}$output_pdf {{BLUE}}already exists, deleting in {{RED}}$WAIT_SECONDS {{BLUE}}seconds.{{NORMAL}}"
 		sleep "$WAIT_SECONDS"
