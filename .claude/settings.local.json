@@ -13,7 +13,8 @@
       "Bash(markdownlint-cli2:*)",
       "Bash(identify:*)",
       "Bash(pdftotext:*)",
-      "WebFetch(domain:pmc.ncbi.nlm.nih.gov)"
+      "WebFetch(domain:pmc.ncbi.nlm.nih.gov)",
+      "Bash(just md2pdf:*)"
     ],
     "deny": [],
     "ask": []
