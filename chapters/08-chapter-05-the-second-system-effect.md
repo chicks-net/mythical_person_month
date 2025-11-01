@@ -40,11 +40,11 @@ Consider as a stronger case the architecture, implementation, and even the reali
 
 > I get the impression that Stretch is in some way the end of one line of development. Like some early computer programs it is immensely ingenious, immensely complicated, and extremely effective, but somehow at the same time crude, wasteful, and inelegant, and one feels that there must be a better way of doing things.[^1]
 
-[^1]: Reference to Strachey's review of the Stretch computer.
+[^1]: Strachey, C., "Review of Planning a Computer System," *Comp. J.*, 5, 2 (July, 1962), pp. 152-153.
 
 Operating System/360 was the second system for most of its designers. Groups of its designers came from building the 1410-7010 disk operating system, the Stretch operating system, the Project Mercury real-time system, and IBSYS for the 7090. Hardly anyone had experience with two previous operating systems.[^2] So OS/360 is a prime example of the second-system effect, a Stretch of the software art to which both the commendations and the reproaches of Strachey's critique apply unchanged.
 
-[^2]: Reference to the limited experience with multiple operating systems among OS/360 designers.
+[^2]: This applies only to the control programs. Some of the compiler teams in the OS/360 effort were building their third or fourth systems, and the excellence of their products shows it.
 
 For example, OS/360 devotes 26 bytes of the permanently resident date-turnover routine to the proper handling of December 31 on leap years (when it is Day 366). That might have been left to the operator.
 
@@ -58,7 +58,7 @@ Furthermore, the linkage editor requires so much space and itself contains many 
 
 The TESTRAN debugging facility is another example of this tendency. It is the culmination of batch debugging facilities, furnishing truly elegant snapshot and core dump capabilities. It uses the control section concept and an ingenious generator technique to allow selective tracing and snapshotting without interpretive overhead or recompilation. The imaginative concepts of the Share Operating System[^3] for the 709 have been brought to full bloom.
 
-[^3]: Reference to the Share Operating System for the 709.
+[^3]: Shell, D. L., "The Share 709 system: a cooperative effort"; Greenwald, I. D., and M. Kane, "The Share 709 system: programming and modification"; Boehm, E. M., and T. B. Steel, Jr., "The Share 709 system: machine implementation of symbolic programming"; all in *JACM*, 6, 2 (April, 1959), pp. 123-140.
 
 Meanwhile, the whole notion of batch debugging without recompilation was becoming obsolete. Interactive computing systems, using language interpreters or incremental compilers have provided the most fundamental challenge. But even in batch systems, the appearance of fast-compile/slow-execute compilers has made source-level debugging and snapshotting the preferred technique. How much better the system would have been if the TESTRAN effort had been devoted instead to building the interactive and fast-compile facilities earlier and better!
 

@@ -69,7 +69,9 @@ Time decreases, but less than proportionally
 
 The added burden of communication is made up of two parts, training and intercommunication. Each worker must be trained in the technology, the goals of the effort, the overall strategy, and the plan of work. This training cannot be partitioned, so this part of the added effort varies linearly with the number of workers.[^1]
 
-[^1]: Reference to linear scaling of training effort.
+[^1]: V. A. Vyssotsky of Bell Telephone Laboratories estimates that a large project can sustain a workforce buildup of 30 percent per year. More than that strains and even inhibits the evolution of the essential informal structure and its communication pathways discussed in Chapter 7.
+
+    F. J. Corbató of MIT points out that a long project must anticipate a turnover of 20 percent per year, and these must be both technically trained and integrated into the formal structure.
 
 Intercommunication is worse. If each part of the task must be separately coordinated with each other part, the effort increases as n(n-1)/2. Three workers require three times as much pairwise intercommunication as two; four require six times as much as two. If, moreover, there need to be conferences among three, four, etc., workers to resolve things jointly, matters get worse yet. The added effort of communicating may fully counteract the division of the original task and bring us to the situation of Fig. 2.4.
 
@@ -101,7 +103,7 @@ This differs from conventional scheduling in several important ways:
 
 In examining conventionally scheduled projects, I have found that few allowed one-half of the projected schedule for testing, but that most did indeed spend half of the actual schedule for that purpose. Many of these were on schedule until and except in system testing.[^2]
 
-[^2]: Reference to projects being on schedule until system testing.
+[^2]: C. Portman of International Computers Limited says, "When everything has been seen to work, all integrated, you have four more months work to do." Several other sets of schedule divisions are given in Wolverton, R. W., "The cost of developing large-scale software," *IEEE Trans, on Computers*, C-23, 6 (June, 1974) pp. 615-636.
 
 Failure to allow enough time for system test, in particular, is peculiarly disastrous. Since the delay comes at the end of the schedule, no one is aware of schedule trouble until almost the delivery date. Bad news, late and without warning, is unsettling to customers and to managers.
 
@@ -125,7 +127,7 @@ What does one do when an essential software project is behind schedule? Add peop
 
 Let us consider an example.[^3] Suppose a task is estimated at 12 person-months and assigned to three people for four months, and that there are measurable mileposts A, B, C, D, which are scheduled to fall at the end of each month (Fig. 2.5).
 
-[^3]: Reference to example project scenario.
+[^3]: Figures 2.5 through 2.8 are due to Jerry Ogdin, who in quoting my example from an earlier publication of this chapter much improved its illustration. Ogdin, J. L., "The Mongolian hordes versus superprogrammer," *Infosystems* (Dec., 1972), pp. 20-23.
 
 Now suppose the first milepost is not reached until two months have elapsed (Fig. 2.6). What are the alternatives facing the manager?
 

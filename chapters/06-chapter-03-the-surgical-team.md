@@ -4,7 +4,7 @@
 >
 > SACKMAN, ERIKSON, AND GRANT[^1]
 
-[^1]: Reference to studies by Sackman, Erikson, and Grant on programmer productivity differences.
+[^1]: Sackman, H., W. J. Erikson, and E. E. Grant, "Exploratory experimental studies comparing online and offline programming performance," *CACM*, 11, 1 (Jan., 1968), pp. 3-11.
 
 At computer society meetings one continually hears young programming managers assert that they favor a small, sharp team of first-class people, rather than a project with hundreds of programmers, and those by implication mediocre. So do we all.
 
@@ -30,9 +30,9 @@ The dilemma is a cruel one. For efficiency and conceptual integrity, one prefers
 
 A proposal by Harlan Mills offers a fresh and creative solution.[^2][^3] Mills proposes that each segment of a large job be tackled by a team, but that the team be organized like a surgical team rather than a hog-butchering team. That is, instead of each member cutting away on the problem, one does the cutting and the others give them every support that will enhance their effectiveness and productivity.
 
-[^2]: Reference to Mills's proposal for surgical teams.
+[^2]: Mills, H., "Chief programmer teams, principles, and procedures," IBM Federal Systems Division Report FSC 71-5108, Gaithersburg, Md., 1971.
 
-[^3]: Additional reference to Mills's work on team organization.
+[^3]: Baker, F. T., "Chief programmer team management of production programming," *IBM Sys. J.*, 11, 1 (1972).
 
 A little thought shows that this concept meets the desiderata, if it can be made to work. Few minds are involved in design and construction, yet many hands are brought to bear. Can it work? Who are the anesthesiologists and nurses on a programming team, and how is the work divided? Let me freely mix metaphors to suggest how such a team might work if enlarged to include all conceivable support.
 
