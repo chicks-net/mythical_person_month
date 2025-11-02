@@ -4,7 +4,7 @@
 >
 > HARRY S. TRUMAN, ON PRESIDENTIAL POWER[^1]
 
-[^1]: Reference to Harry S. Truman's comment on presidential power.
+[^1]: Neustadt, R. E., *Presidential Power*. New York: Wiley, 1960, Chapter 2.
 
 Assuming that they have the disciplined, experienced architects and that there are many implementers, how shall the manager ensure that everyone hears, understands, and implements the architects' decisions? How can a group of 10 architects maintain the conceptual integrity of a system which 1000 people are building? A whole technology for doing this was worked out for the System/360 hardware design effort, and it is equally applicable to software projects.
 
@@ -32,19 +32,19 @@ An ancient adage warns, "Never go to sea with two chronometers; take one or thre
 
 Many tools are available for formal definition. The Backus-Naur Form is familiar for language definition, and it is amply discussed in the literature.[^2] The formal description of PL/I uses new notions of abstract syntax, and it is adequately described.[^3] Iverson's APL has been used to describe machines, most notably the IBM 7090[^4] and System/360.[^5]
 
-[^2]: Reference to literature on Backus-Naur Form.
+[^2]: Backus, J. W., "The syntax and semantics of the proposed international algebraic language." *Proc. Intl. Conf. Inf. Proc.* UNESCO, Paris, 1959, published by R. Oldenbourg, Munich, and Butterworth, London. Besides this, a whole collection of papers on the subject is contained in T. B. Steel, Jr. (ed.), *Formal Language Description Languages for Computer Programming*. Amsterdam: North Holland, (1966).
 
-[^3]: Reference to formal description of PL/I using abstract syntax.
+[^3]: Lucas, P., and K. Walk, "On the formal description of PL/I," *Annual Review in Automatic Programming Language*. New York: Wiley, 1962, Chapter 2, p. 2.
 
-[^4]: Reference to APL description of IBM 7090.
+[^4]: Iverson, K. E., *A Programming Language*. New York: Wiley, 1962, Chapter 2.
 
-[^5]: Reference to APL description of System/360.
+[^5]: Falkoff, A. D., K. E. Iverson, E. H. Sussenguth, "A formal description of System/360," *IBM Systems Journal*, 3, 3 (1964), pp. 198-261.
 
 Bell and Newell have proposed new notations for describing both configurations and machine architectures, and they have illustrated these with several machines, including the DEC PDP-8,[^6] the 7090,[^6] and System/360.[^7]
 
-[^6]: Reference to Bell and Newell's notation examples for DEC PDP-8 and 7090.
+[^6]: Bell, C. G., and A. Newell, *Computer Structures*. New York: McGraw-Hill, 1970, pp. 120-136, 517-541.
 
-[^7]: Reference to Bell and Newell's notation example for System/360.
+[^7]: Bell, C. G., private communication.
 
 Almost all formal definitions turn out to embody or describe an implementation of the hardware or software system whose externals they are prescribing. Syntax can be described without this, but semantics are usually defined by giving a program that carries out the defined operation. This is of course an implementation, and as such it over-prescribes the architecture. So one must take care to indicate that the formal definition applies only to externals, and one must say what these are.
 

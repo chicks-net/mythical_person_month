@@ -6,7 +6,7 @@
 >
 > REIMS CATHEDRAL GUIDEBOOK[^1]
 
-[^1]: Reference to the Reims Cathedral guidebook on architectural unity.
+[^1]: Eschapasse, M., *Reims Cathedral*, Caisse Nationale des Monuments Historiques, Paris, 1967.
 
 ## Conceptual Integrity
 
@@ -47,15 +47,15 @@ By the architecture of a system, I mean the complete and detailed specification 
 
 The architect of a system, like the architect of a building, is the user's agent. It is the architect's job to bring professional and technical knowledge to bear in the unalloyed interest of the user, as opposed to the interests of the salesperson, the fabricator, etc.[^2]
 
-[^2]: Reference to the architect's role as user advocate.
+[^2]: Brooks, F. P., "Architectural philosophy," in W. Buchholz (ed.), *Planning A Computer System*. New York: McGraw-Hill, 1962.
 
 Architecture must be carefully distinguished from implementation. As Blaauw has said, "Where architecture tells what happens, implementation tells how it is made to happen."[^3] He gives as a simple example a clock, whose architecture consists of the face, the hands, and the winding knob. When a child has learned this architecture, they can tell time as easily from a wristwatch as from a church tower. The implementation, however, and its realization, describe what goes on inside the case—powering by any of many mechanisms and accuracy control by any of many.
 
-[^3]: Reference to Blaauw's distinction between architecture and implementation.
+[^3]: Blaauw, G. A., "Hardware requirements for the fourth generation," in F. Gruenberger (ed.), *Fourth Generation Computers*. Englewood Cliffs, N.J.: Prentice-Hall, 1970.
 
 In System/360, for example, a single computer architecture is implemented quite differently in each of some nine models. Conversely, a single implementation, the Model 30 data flow, memory, and microcode, serves at different times for four different architectures: a System/360 computer, a multiplex channel with up to 224 logically independent subchannels, a selector channel, and a 1401 computer.[^4]
 
-[^4]: Reference to System/360 Model 30 implementation flexibility.
+[^4]: Brooks, F. P., and K. E. Iverson, *Automatic Data Processing, System/360 Edition*. New York: Wiley, 1969, Chapter 5.
 
 The same distinction is equally applicable to programming systems. There is a U.S. standard Fortran IV. This is the architecture for many compilers. Within this architecture many implementations are possible: text-in-core or compiler-in-core, fast-compile or optimizing, syntax-directed or ad-hoc. Likewise any assembler language or job-control language admits of many implementations of the assembler or scheduler.
 
@@ -71,11 +71,11 @@ There are many examples from other arts and crafts that lead one to believe that
 
 Similarly, I observe that the external provision of an architecture enhances, not cramps, the creative style of an implementing group. They focus at once on the part of the problem no one has addressed, and inventions begin to flow. In an unconstrained implementing group, most thought and debate goes into architectural decisions, and implementation proper gets short shrift.[^5]
 
-[^5]: Reference to the benefits of architectural constraints on implementation.
+[^5]: Glegg, G. L., *The Design of Design*. Cambridge: Cambridge Univ. Press, 1969, says "At first sight, the idea of any rules or principles being superimposed on the creative mind seems more likely to hinder than to help, but this is quite untrue in practice. Disciplined thinking focuses inspiration rather than blinkers it."
 
 This effect, which I have seen many times, is confirmed by R. W. Conway, whose group at Cornell built the PL/C compiler for the PL/I language. He says, "We finally decided to implement the language unchanged and unimproved, for the debates about language would have taken all our effort."[^6]
 
-[^6]: Quote from R. W. Conway about implementing PL/I without modification.
+[^6]: Conway, R. W., "The PL/C Compiler," *Proceedings of a Conf. on Definition and Implementation of Universal Programming Languages*. Stuttgart, 1970.
 
 ## What Does the Implementer Do While Waiting?
 
@@ -111,6 +111,6 @@ The same thing is true in programming system design. Long before the external sp
 
 Meanwhile, on the realization level there is much to be done also. Programming has a technology, too. If the machine is a new one, much work must be done on subroutine conventions, supervisory techniques, searching and sorting algorithms.[^7]
 
-[^7]: Reference to programming technology and foundational work.
+[^7]: For a good discussion of the necessity for programming technology, see C. H. Reynolds, "What's wrong with computer programming management?" in G. F. Weinwurm (ed.), *On the Management of Computer Programming*. Philadelphia: Auerbach, 1971, pp. 35-42.
 
 Conceptual integrity does require that a system reflect a single philosophy and that the specification as seen by the user flow from a few minds. Because of the real division of labor into architecture, implementation, and realization, however, this does not imply that a system so designed will take longer to build. Experience shows the opposite, that the integral system goes together faster and takes less time to test. In effect, a widespread horizontal division of labor has been sharply reduced by a vertical division of labor, and the result is radically simplified communications and improved conceptual integrity.

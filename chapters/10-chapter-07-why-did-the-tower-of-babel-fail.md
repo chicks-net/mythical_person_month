@@ -70,7 +70,7 @@ Notice that the workbook itself is not changed. It is still the assemblage of al
 
 D. L. Parnas of Carnegie-Mellon University has proposed a still more radical solution.[^1] His thesis is that the programmer is most effective if shielded from, rather than exposed to the details of construction of system parts other than his own. This presupposes that all interfaces are completely and precisely defined. While that is definitely sound design, dependence upon its perfect accomplishment is a recipe for disaster. A good information system both exposes interface errors and stimulates their correction.
 
-[^1]: Reference to D. L. Parnas's proposal for programmer information management.
+[^1]: Parnas, D. L., "Information distribution aspects of design methodology," Carnegie-Mellon Univ., Dept. of Computer Science Technical Report, February, 1971.
 
 ## Organization in the Large Programming Project
 
@@ -141,7 +141,7 @@ This can be made to work very effectively. Unfortunately it is rarely tried. The
 >
 > "That's good; he's your twin brother from now on. Stop worrying; I've used him before. You'll think you're living in a well-run hospital."[^2]
 
-[^2]: Excerpt from Robert Heinlein's _The Man Who Sold the Moon_.
+[^2]: Copyright 1939, 1940 Street & Smith Publications, Copyright 1950, 1967 by Robert A. Heinlein. Published by arrangement with Spectrum Literary Agency.
 
 This account hardly needs any analytic commentary. This arrangement, too, can be made to work effectively.
 
