@@ -84,7 +84,7 @@
 
 1. Neustadt, R. E., *Presidential Power*. New York: Wiley, 1960,
    Chapter 2.
-   <https://www.cambridge.org/core/journals/american-political-science-review/article/abs/presidential-power-by-richard-e-neustadt-new-york-john-wiley-sons-inc-1960-pp-xiii-224-595/723C52392557901359345F27B3CC59F7>
+   <https://archive.org/details/presidentialpowe00neus>
 
 2. Backus, J. W., "The syntax and semantics of the proposed
    international algebraic language." *Proc. Intl. Conf. Inf. Proc.*
@@ -140,6 +140,7 @@
    D. B. Mayer and A. W. Stalnaker, "Selection and evaluation
    of computer personnel," *Proc. 23rd ACM. Conf.*, 1968, p.
    661.)
+   <https://dl.acm.org/doi/proceedings/10.1145/800186>
 
 7. Aron, J., private communication.
 
