@@ -4,6 +4,7 @@
 
 1. Ershov considers this not only a woe, but also a part of the
    joy. A. P. Ershov, "Aesthetics and the human factor in programming," *CACM*, 15, 7 (July, 1972), pp. 501-505.
+   <https://dl.acm.org/doi/10.1145/361454.361458>
 
 ## Chapter 2
 
@@ -20,6 +21,7 @@
    four more months work to do." Several other sets of schedule
    divisions are given in Wolverton, R. W., "The cost of developing large-scale software," *IEEE Trans, on Computers*, C-23,
    6 (June, 1974) pp. 615-636.
+   <https://ieeexplore.ieee.org/document/1672595>
 
 3. Figures 2.5 through 2.8 are due to Jerry Ogdin, who in quoting my example from an earlier publication of this chapter
    much improved its illustration. Ogdin, J. L., "The Mongolian hordes versus superprogrammer," *Infosystems* (Dec.,
@@ -29,10 +31,12 @@
 
 1. Sackman, H., W. J. Erikson, and E. E. Grant, "Exploratory
    experimental studies comparing online and offline programming performance," *CACM*, 11, 1 (Jan., 1968), pp. 3-11.
+   <https://dl.acm.org/doi/10.1145/362851.362858>
 
 2. Mills, H., "Chief programmer teams, principles, and procedures," IBM Federal Systems Division Report FSC 71-5108, Gaithersburg, Md., 1971.
 
 3. Baker, F. T., "Chief programmer team management of production programming," *IBM Sys. J.*, 11, 1 (1972).
+   <https://ieeexplore.ieee.org/document/5388252>
 
 ## Chapter 4
 
@@ -64,6 +68,7 @@
 
 1. Strachey, C., "Review of Planning a Computer System," *Comp.
    J.*, 5, 2 (July, 1962), pp. 152-153.
+   <https://academic.oup.com/comjnl/article/5/2/152/365926>
 
 2. This applies only to the control programs. Some of the compiler teams in the OS/360 effort were building their third or
    fourth systems, and the excellence of their products shows
@@ -79,6 +84,7 @@
 
 1. Neustadt, R. E., *Presidential Power*. New York: Wiley, 1960,
    Chapter 2.
+   <https://archive.org/details/presidentialpowe00neus>
 
 2. Backus, J. W., "The syntax and semantics of the proposed
    international algebraic language." *Proc. Intl. Conf. Inf. Proc.*
@@ -92,6 +98,7 @@
 
 4. Iverson, K. E., *A Programming Language*. New York: Wiley,
    1962, Chapter 2.
+   <https://archive.org/details/aprogramminglanguage1962>
 
 5. Falkoff, A. D., K. E. Iverson, E. H. Sussenguth, "A formal
    description of System/360," *IBM Systems Journal*, 3, 3 (1964),
@@ -99,6 +106,7 @@
 
 6. Bell, C. G., and A. Newell, *Computer Structures*. New York:
    McGraw-Hill, 1970, pp. 120-136, 517-541.
+   <https://gordonbell.azurewebsites.net/cgb%20files/computer%20structures%20readings%20and%20examples%201971.pdf>
 
 7. Bell, C. G., private communication.
 
@@ -107,6 +115,7 @@
 1. Parnas, D. L., "Information distribution aspects of design
    methodology," Carnegie-Mellon Univ., Dept. of Computer
    Science Technical Report, February, 1971.
+   <https://cseweb.ucsd.edu/~wgg/CSE218/Parnas-IFIP71-information-distribution.PDF>
 
 2. Copyright 1939, 1940 Street & Smith Publications, Copyright 1950, 1967 by Robert A. Heinlein. Published by arrangement with Spectrum Literary Agency.
 
@@ -117,6 +126,7 @@
 
 2. Nanus, B., and L. Farr, "Some cost contributors to large-scale programs," *AFIPS Proc. SJCC*, 25 (Spring, 1964), pp.
    239-248.
+   <https://dblp.org/db/conf/afips/afips1964s.html>
 
 3. Weinwurm, G. F., "Research in the management of computer programming," Report SP-2059, System Development
    Corp., Santa Monica, 1965.
@@ -130,6 +140,7 @@
    D. B. Mayer and A. W. Stalnaker, "Selection and evaluation
    of computer personnel," *Proc. 23rd ACM. Conf.*, 1968, p.
    661.)
+   <https://dl.acm.org/doi/proceedings/10.1145/800186>
 
 7. Aron, J., private communication.
 
@@ -139,6 +150,7 @@
 9. Wolverton, R. W., "The cost of developing large-scale software," *IEEE Trans. on Computers*, C-23, 6 (June, 1974) pp.
    615-636. This important recent paper contains data on many
    of the issues of this chapter, as well as confirming the productivity conclusions.
+   <https://ieeexplore.ieee.org/document/1672595>
 
 10. Corbató, F. J., "Sensitive issues in the design of multi-use
     systems," lecture at the opening of the Honeywell EDP
@@ -160,15 +172,18 @@
 
 2. Knuth, D. E., *The Art of Computer Programming*, Vols. 1-3.
    Reading, Mass.: Addison-Wesley, 1968, ff.
+   <https://www-cs-faculty.stanford.edu/~knuth/taocp.html>
 
 ## Chapter 10
 
 1. Conway, M. E., "How do committees invent?" *Datamation*,
    14, 4 (April, 1968), pp. 28-31.
+   <https://www.melconway.com/Home/pdf/committees.pdf>
 
 ## Chapter 11
 
 1. Speech at Oglethorpe University, May 22, 1932.
+   <https://www.presidency.ucsb.edu/documents/address-oglethorpe-university-atlanta-georgia>
 
 2. An illuminating account of Multics experience on two successive systems is in F. J. Corbató, J. H. Saltzer, and C. T.
    Clingen, "Multics—the first seven years," *AFIPS Proc SJCC*,
@@ -191,6 +206,7 @@
 
 7. Lewis, C. S., *Mere Christianity*. New York: Macmillan, 1960,
    p. 54.
+   <https://en.wikipedia.org/wiki/Mere_Christianity>
 
 ## Chapter 12
 
@@ -230,18 +246,21 @@
    lecture is contained in Hetzel, W. C. (ed.), *Program Test
    Methods*. Englewood Cliffs, N.J.: Prentice-Hall, 1972, pp. 41-47.
 
-2. Wirth, N., "Program development by stepwise refinement," *CACM* 14, 4 (April, 1971), pp. 221-227. See also
-   Mills, H. "Top-down programming in large systems," in R.
+2. Wirth, N., "Program development by stepwise refinement," *CACM* 14, 4 (April, 1971), pp. 221-227.
+   <https://dl.acm.org/doi/10.1145/362575.362577>
+   See also Mills, H. "Top-down programming in large systems," in R.
    Rustin (ed.), *Debugging Techniques in Large Systems*. Englewood Cliffs, N.J.: Prentice-Hall, 1971, pp. 41-55 and Baker,
    F. T., "System quality through structured programming,"
    *AFIPS Proc FJCC*, 41-1 (1972), pp. 339-343.
 
 3. Dahl, O. J., E. W. Dijkstra, and C. A. R. Hoare, *Structured
    Programming*. London and New York: Academic Press, 1972.
+   <https://archive.org/details/Structured_Programming__Dahl_Dijkstra_Hoare>
    This volume contains the fullest treatment. See also Dijkstra's germinal letter, "GOTO statement considered harmful," *CACM*, 11, 3 (March, 1968), pp. 147-148.
 
 4. Bohm, C., and A. Jacopini, "Flow diagrams, Turing machines, and languages with only two formation rules,"
    *CACM*, 9, 5 (May, 1966), pp. 366-371.
+   <https://dl.acm.org/doi/10.1145/355592.365646>
 
 5. Codd, E. F., E. S. Lowry, E. McDonough, and C. A. Scalzi,
    "Multiprogramming STRETCH: Feasibility considerations,"
@@ -298,6 +317,7 @@
    II, Vol. 1, report prepared for the U.S. Army Ordnance Department, 1947; reprinted in J. von Neumann, *Collected
    Works*, A. H. Taub (ed.), Vol. V., New York: Macmillan, pp.
    80-151.
+   <https://www.historyofinformation.com/detail.php?id=658>
 
 2. Private communication, 1957. The argument is published in
    Iverson, K. E., "The Use of APL in Teaching," Yorktown,
@@ -319,9 +339,11 @@
    Computing Conference, edited by H.-J. Kugler (1986), pp.
    1069-76. Reprinted with the kind permission of IFIP and
    Elsevier Science B. V., Amsterdam, The Netherlands.
+   <https://worrydream.com/refs/Brooks_1986_-_No_Silver_Bullet.pdf>
 
 2. Parnas, D. L., "Designing software for ease of extension and
    contraction," *IEEE Trans. on SE*, 5, 2 (March, 1979), pp. 128-138.
+   <https://ieeexplore.ieee.org/document/1702607>
 
 3. Booch, G., "Object-oriented design," in *Software Engineering
    with Ada*. Menlo Park, Calif.: Benjamin/Cummings, 1983.
@@ -333,6 +355,7 @@
 5. Parnas, D. L., "Software aspects of strategic defense systems," *Communications of the ACM*, 28, 12 (Dec., 1985), pp.
    1326-1335. Also in *American Scientist*, 73, 5 (Sept.-Oct.,
    1985), pp. 432-440.
+   <https://dl.acm.org/doi/10.1145/214956.214961>
 
 6. Balzer, R., "A 15-year perspective on automatic programming," in Mostow, op. cit.
 
@@ -351,7 +374,8 @@
     *Debugging Techniques in Large Systems*, R. Rustin, ed., Englewood Cliffs, N.J., Prentice-Hall, 1971.
 
 12. Boehm, B. W., "A spiral model of software development
-    and enhancement," *Computer*, 20, 5 (May, 1985), pp. 43-57.
+    and enhancement," *Computer*, 21, 5 (May, 1988), pp. 61-72.
+    <https://dl.acm.org/doi/10.1109/2.59>
 
 ## Chapter 17
 
@@ -361,6 +385,7 @@ Material quoted without citation is from personal communications.
    software engineering," in *Information Processing 86*, H. J.
    Kugler, ed. Amsterdam: Elsevier Science (North Holland),
    1986, pp. 1069-1076.
+   <https://worrydream.com/refs/Brooks_1986_-_No_Silver_Bullet.pdf>
 
 2. Brooks, F. P., "No silver bullet—essence and accidents of
    software engineering," *Computer* 20, 4 (April, 1987), pp. 10-19.
@@ -381,6 +406,7 @@ Material quoted without citation is from personal communications.
    G. C. Merriam, 1960.
 
 5. Sayers, Dorothy L., *The Mind of the Maker*. New York: Harcourt, Brace, 1941.
+   <https://archive.org/details/mindofmaker0000saye>
 
 6. Glass, R. L., and S. A. Conger, "Research software tasks:
    Intellectual or clerical?" *Information and Management*, 23, 4
@@ -393,12 +419,15 @@ Material quoted without citation is from personal communications.
 
 8. Cox, B. J., "There is a silver bullet," *Byte* (Oct., 1990), pp.
    209-218.
+   <https://www.drdobbs.com/there-is-a-silver-bullet/184407534>
 
 9. Harel, D., "Biting the silver bullet: Toward a brighter future
    for system development," *Computer* (Jan., 1992), pp. 8-20.
+   <https://www.weizmann.ac.il/math/harel/sites/math.harel/files/users/user56/BitingTheSilverBullet.pdf>
 
 10. Parnas, D. L., "Software aspects of strategic defense systems," *Communications of the ACM*, 28, 12 (Dec., 1985), pp.
     1326-1335.
+    <https://dl.acm.org/doi/10.1145/214956.214961>
 
 11. Turski, W. M., "And no philosophers' stone, either," in *Information Processing 86*, H. J. Kugler, ed. Amsterdam: Elsevier Science (North Holland), 1986, pp. 1077-1080.
 
@@ -428,6 +457,7 @@ Material quoted without citation is from personal communications.
     *IEEE Trans. on SE*, 16, 4 (1990), pp. 403-414.
 
 19. Jones, C., *Assessment and Control of Software Risks*. Englewood Cliffs, N.J.: Prentice-Hall, 1994. p. 619.
+    <https://www.amazon.com/Assessment-Control-Software-Risks-Capers/dp/0137414064>
 
 20. Coqui, H., "Corporate survival: The software dimension,"
     Focus '89, Cannes, 1989.
@@ -451,6 +481,7 @@ Material quoted without citation is from personal communications.
 27. Jones, op. cit., p. 329.
 
 28. Yourdon, E., *Decline and Fall of the American Programmer*. Englewood Cliffs, N.J.: Yourdon Press, 1992, p. 221.
+    <https://en.wikipedia.org/wiki/Decline_and_Fall_of_the_American_Programmer>
 
 29. Glass, R. L., "Glass" (column), *System Development*, (January, 1988), pp. 4-5.
 
@@ -458,6 +489,7 @@ Material quoted without citation is from personal communications.
 
 1. Boehm, B. W., *Software Engineering Economics*, Englewood
    Cliffs, N.J.: Prentice-Hall, 1981, pp. 81-84.
+   <https://archive.org/details/softwareengineer0000boeh>
 
 2. McCarthy, J., "21 Rules for Delivering Great Software on
    Time," Software World USA Conference, Washington (Sept.,
@@ -469,6 +501,7 @@ Material quoted without citation is from personal communications.
 
 1. On this painful subject, see also Niklaus Wirth "A plea for
    lean software," *Computer*, 28, 2 (Feb., 1995), pp. 64-68.
+   <https://dl.acm.org/doi/10.1109/2.348001>
 
 2. Coleman, D., 1994, "Word 6.0 packs in features; update
    slowed by baggage," *MacWeek*, 8, 38 (Sept. 26, 1994), p. 1.
@@ -493,6 +526,7 @@ Material quoted without citation is from personal communications.
 
 6. Apple Computer, Inc., *Macintosh Human Interface Guidelines*,
    Reading, Mass.: Addison-Wesley, 1992.
+   <https://vintageapple.org/inside_r/pdf/Human_Interface_Guidelines_1992.pdf>
 
 7. It appears the Apple Desk Top Bus could handle two mice
    electronically, but the operating system provides no such
@@ -501,6 +535,7 @@ Material quoted without citation is from personal communications.
 8. Royce, W. W., 1970. "Managing the development of large
    software systems: Concepts and techniques," *Proceedings,
    WESCON* (Aug., 1970), reprinted in the ICSE 9 Proceedings.
+   <https://www.praxisframework.org/files/royce1970.pdf>
    Neither Royce nor others believed one could go through the
    software process without revising earlier documents; the
    model was put forth as an ideal and a conceptual aid. See
@@ -523,6 +558,7 @@ Material quoted without citation is from personal communications.
 
 12. D. Harel, "Biting the silver bullet," *Computer* (Jan., 1992),
     pp. 8-20.
+    <https://www.weizmann.ac.il/math/harel/sites/math.harel/files/users/user56/BitingTheSilverBullet.pdf>
 
 13. The seminal papers on information hiding are: Parnas,
     D. L., "Information distribution aspects of design methodology," Carnegie-Mellon, Dept. of Computer Science, Technical Report (Feb., 1971); Parnas, D. L., "A technique for
@@ -537,10 +573,12 @@ Material quoted without citation is from personal communications.
 
 15. Boehm, B. W., *Software Engineering Economics*, Englewood
     Cliffs, N.J.: Prentice-Hall, 1981, pp. 83-94; 470-472.
+    <https://archive.org/details/softwareengineer0000boeh>
 
 16. Abdel-Hamid, T., and S. Madnick, *Software Project Dynamics:
     An Integrated Approach*, ch. 19, "Model enhancement and
     Brooks's law." Englewood Cliffs, N.J.: Prentice Hall, 1991.
+    <https://www.amazon.com/Software-Project-Dynamics-Integrated-Approach/dp/0138220409>
 
 17. Stutzke, R. D., "A Mathematical Expression of Brooks's
     Law." In *Ninth International Forum on COCOMO and Cost
@@ -548,6 +586,7 @@ Material quoted without citation is from personal communications.
 
 18. DeMarco, T., and T. Lister, *Peopleware: Productive Projects and
     Teams*. New York: Dorset House, 1987.
+    <https://www.amazon.com/Peopleware-Productive-Projects-Teams-3rd/dp/0321934113>
 
 19. Pius XI, Encyclical Quadragesima Anno, [Ihm, Claudia Carlen, ed., *The Papal Encyclicals 1903-1939*, Raleigh, N.C.:
     McGrath, p. 428.]
@@ -555,14 +594,16 @@ Material quoted without citation is from personal communications.
 20. Schumacher, E. F., *Small Is Beautiful: Economics as if People
     Mattered*, Perennial Library Edition. New York: Harper and
     Row, 1973, p. 244.
+    <https://www.goodreads.com/book/show/2262077>
 
 21. Schumacher, op. cit., p. 34.
 
 22. A thought-provoking wall poster proclaims: "Freedom of
     the press belongs to him who has one."
 
-23. Bush, V., "That we may think," *Atlantic Monthly*, 176, 1
-    (April, 1945), pp. 101-108.
+23. Bush, V., "As We May Think," *Atlantic Monthly*, 176, 1
+    (July, 1945), pp. 101-108.
+    <https://www.theatlantic.com/magazine/archive/1945/07/as-we-may-think/303881/>
 
 24. Ken Thompson of Bell Labs, inventor of Unix, realized early
     the importance of big screens for programming. He devised
