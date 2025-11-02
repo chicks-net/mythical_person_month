@@ -430,7 +430,7 @@ All figures should include:
 
 ## Opening Chapter Illustrations
 
-### Chapter 1: The Tar Pit
+### Opening Illustration - Chapter 1: The Tar Pit
 
 **Image file:** `chapters/04-chapter-01-the-tar-pit-original-000.png`
 
@@ -444,6 +444,7 @@ All figures should include:
 **Historical context:** Knight's mural was considered highly accurate for its time and became hugely influential in shaping public understanding of prehistoric life at La Brea. The dramatic scene perfectly illustrates Brooks's metaphor of the "tar pit" that traps unwary software projects.
 
 **Related links:**
+
 - [Charles R. Knight - Wikipedia](https://en.wikipedia.org/wiki/Charles_R._Knight) - Biography of the renowned paleoartist (1874-1953)
 - [La Brea Tar Pits Paleoart](https://palaeo-electronica.org/content/2022/3524-la-brea-tar-pits-paleoart) - Academic article discussing Knight's 1925 mural and its influence
 - [La Brea Tar Pits and Museum](https://tarpits.org/) - Official museum website where the mural is housed
@@ -451,7 +452,7 @@ All figures should include:
 
 ---
 
-### Chapter 2: The Mythical Man-Month
+### Opening Illustration - Chapter 2: The Mythical Man-Month
 
 **Image file:** `chapters/05-chapter-02-the-mythical-man-month-original-000.png`
 
@@ -464,6 +465,7 @@ All figures should include:
 **Historical context:** Antoine's Restaurant was founded by Antoine Alciatore in 1840 and is the oldest family-run restaurant in the United States, having operated continuously for over 180 years through five generations. The restaurant is famous for creating Oysters Rockefeller and other iconic dishes. The philosophy expressed in the menu's opening quote - that good work cannot be rushed - directly parallels Brooks's argument about software development timelines.
 
 **Related links:**
+
 - [Antoine's Restaurant - Wikipedia](https://en.wikipedia.org/wiki/Antoine's) - History of America's oldest family-run restaurant
 - [Antoine's Official Website](https://antoines.com/) - The restaurant still operates at 713 St. Louis Street in New Orleans
 - [Antoine's Restaurant Collection - Historic New Orleans Collection](https://hnoc.org/research-collections/collection-highlights/the-antoines-restaurant-collection) - Archival materials documenting the restaurant's history
@@ -471,7 +473,7 @@ All figures should include:
 
 ---
 
-### Chapter 3: The Surgical Team
+### Opening Illustration - Chapter 3: The Surgical Team
 
 **Image file:** `chapters/06-chapter-03-the-surgical-team-original-000.png`
 
@@ -483,13 +485,14 @@ All figures should include:
 **Historical context:** This photograph is from the United Press International (UPI) collection, which was acquired by the Bettmann Archive in 1984. The Bettmann Archive comprises more than 11 million negatives and prints spanning the 19th and 20th centuries, and is currently managed by Getty Images. The image likely dates from the 1960s-1970s based on the UPI Los Angeles collection that covered this period.
 
 **Related links:**
+
 - [Bettmann Archive - Wikipedia](https://en.wikipedia.org/wiki/Bettmann_Archive) - History of the extensive photographic archive
 - [Getty Images - Bettmann Archive](https://www.gettyimages.com/bettmann) - Current repository of the Bettmann collection
 - [UPI Photo Collection - Chapman University](https://www.chapman.edu/) - Houses over 48,000 UPI photos from the 1960s-1970s
 
 ---
 
-### Chapter 4: Aristocracy, Democracy, and System Design
+### Opening Illustration - Chapter 4: Aristocracy, Democracy, and System Design
 
 **Image file:** `chapters/07-chapter-04-aristocracy-democracy-and-system-design-original-000.png`
 
@@ -504,6 +507,7 @@ All figures should include:
 **Historical context:** Reims Cathedral (Cathédrale Notre-Dame de Reims) was begun in 1211 under Archbishop Aubry de Humbert with Jean d'Orbais as the first architect. The cathedral was the site of 25 coronations of French kings from 1223 to 1825. Despite having four different architects over its construction period, the cathedral maintains remarkable unity because each architect respected Jean d'Orbais's original design vision. The cathedral is famous for being the first to use bar tracery with rose windows (1211), which became a defining characteristic of Gothic architecture. The Grande Rose was built around 1280 AD and contains tens of thousands of glass pieces in 492 panels.
 
 **Related links:**
+
 - [Reims Cathedral - Wikipedia](https://en.wikipedia.org/wiki/Reims_Cathedral) - Comprehensive history and architectural details
 - [Jean d'Orbais - Wikipedia](https://en.wikipedia.org/wiki/Jean_d'Orbais) - Biography of the cathedral's first architect
 - [Reims Cathedral - Britannica](https://www.britannica.com/topic/Reims-Cathedral) - Overview of Gothic architecture and significance
@@ -512,7 +516,7 @@ All figures should include:
 
 ---
 
-### Chapter 5: The Second-System Effect
+### Opening Illustration - Chapter 5: The Second-System Effect
 
 **Image file:** `chapters/08-chapter-05-the-second-system-effect-original-000.png`
 
@@ -529,6 +533,7 @@ All figures should include:
 **Historical context:** Albert Robida (1848-1926) was a French illustrator, lithographer, and novelist who is now recognized as a pioneering science fiction artist. His work "Le Vingtième Siècle" (The Twentieth Century) was first published in installments in 1882 and as a complete book in 1883, set in the year 1952. Unlike Jules Verne, Robida imagined technology integrated into everyday life rather than as the creations of mad scientists, and he remarkably anticipated many social developments including the advancement of women, mass tourism, and pollution. His illustrations featured predictions of televisions, telephones, web-cams, submarines, and helicopters, including his famous "Téléphonoscope" depicting flat-screen, home-theater television.
 
 **Related links:**
+
 - [Albert Robida - Wikipedia](https://en.wikipedia.org/wiki/Albert_Robida) - Biography of the visionary illustrator (1848-1926)
 - [Albert Robida's Le Vingtième siècle - St Andrews University](https://special-collections.wp.st-andrews.ac.uk/2011/10/04/albert-robidas-le-vingtieme-siecle/) - Analysis of the work
 - [Albert Robida, The Visionary Illustrator - Moss and Fog](https://mossandfog.com/albert-robida-the-visionary-illustrator-who-sketched-the-future-in-the-1800s/) - Overview of his prescient predictions
@@ -536,7 +541,7 @@ All figures should include:
 
 ---
 
-### Chapter 6: Passing the Word
+### Opening Illustration - Chapter 6: Passing the Word
 
 **Image file:** `chapters/09-chapter-06-passing-the-word-original-000.png`
 
@@ -552,13 +557,14 @@ All figures should include:
 **Historical context:** The Wells Apocalypse (also spelled "Welles Apocalypse") is an early fourteenth-century illuminated manuscript of the Book of Revelation. English Apocalypse manuscripts were produced prolifically between 1250 and 1400, and this manuscript exemplifies the tradition with its distinctive miniatures. The Seven Trumpets theme was central to Apocalypse illustrations, representing the catastrophic events narrated through the cryptic symbolism of Revelation, which often revolves around the number seven: the opening of the seven seals, the sounding of the seven trumpets, and the fulfillment of the seven last plagues.
 
 **Related links:**
+
 - [English Apocalypse manuscripts - Wikipedia](https://en.wikipedia.org/wiki/English_Apocalypse_manuscripts) - Overview of the tradition
 - [Apocalypse Illuminated - Penn State Press](https://www.psupress.org/books/titles/978-0-271-07865-6.html) - Richard K. Emmerson's scholarly work on medieval Apocalypse manuscripts
 - [Bettmann Archive - Wikipedia](https://en.wikipedia.org/wiki/Bettmann_Archive) - Information about the archive housing this image
 
 ---
 
-### Chapter 7: Why Did the Tower of Babel Fail?
+### Opening Illustration - Chapter 7: Why Did the Tower of Babel Fail?
 
 **Image file:** `chapters/10-chapter-07-why-did-the-tower-of-babel-fail-original-000.png`
 
@@ -574,6 +580,7 @@ All figures should include:
 **Historical context:** This masterpiece was created in 1563 by Pieter Bruegel the Elder (c. 1525-1569), one of the greatest Flemish Renaissance painters. The oil on panel painting (114 × 155 cm) was commissioned by Nicolaes Jonghelinck, an Antwerp banker who owned 16 of Bruegel's paintings. The basic construct of the tower is loosely based on the Colosseum in Rome, which Bruegel had seen during his visit to Italy. Bruegel created multiple versions of this subject; the Vienna version is signed "BRVEGEL.FE. / M.CCCCC.LXIII." A third version is housed in the Museum Boijmans Van Beuningen in Rotterdam. The painting brilliantly captures the biblical narrative of human pride leading to divine intervention through the confusion of languages.
 
 **Related links:**
+
 - [The Tower of Babel (Bruegel) - Wikipedia](https://en.wikipedia.org/wiki/The_Tower_of_Babel_(Bruegel)) - Detailed article about the painting
 - [Smarthistory - Pieter Bruegel the Elder, The Tower of Babel](https://smarthistory.org/pieter-bruegel-the-elder-the-tower-of-babel/) - Art historical analysis
 - [The Tower of Babel by Pieter Bruegel - Kunsthistorisches Museum](https://www.humanalens.com/post/the-tower-of-babel-by-pieter-bruegel-the-elder) - Museum guide
@@ -581,7 +588,7 @@ All figures should include:
 
 ---
 
-### Chapter 8: Calling the Shot
+### Opening Illustration - Chapter 8: Calling the Shot
 
 **Image file:** `chapters/11-chapter-08-calling-the-shot-original-000.png`
 
@@ -600,6 +607,7 @@ All figures should include:
 **Historical context:** The "called shot" occurred on October 1, 1932, during Game 3 of the World Series between the New York Yankees and Chicago Cubs. According to legend, Babe Ruth pointed to center field before hitting a home run to that exact spot. The incident has become one of baseball's most famous and controversial moments. Douglass Crockwell (1904-1968) was an American painter and animator who created this illustration for Esquire Magazine in 1945, capturing the mythic quality of the moment. The chapter uses this story to discuss the importance of experience in making accurate estimates - while bold predictions may succeed, they're more often based on accumulated knowledge than pure bravado.
 
 **Related links:**
+
 - [Babe Ruth - Wikipedia](https://en.wikipedia.org/wiki/Babe_Ruth) - Biography of the legendary baseball player
 - [Called shot - Wikipedia](https://en.wikipedia.org/wiki/Babe_Ruth%27s_called_shot) - Details about the famous 1932 World Series moment
 - [1932 World Series - Wikipedia](https://en.wikipedia.org/wiki/1932_World_Series) - Context of the game
@@ -607,7 +615,7 @@ All figures should include:
 
 ---
 
-### Chapter 9: Ten Pounds in a Five-Pound Sack
+### Opening Illustration - Chapter 9: Ten Pounds in a Five-Pound Sack
 
 **Image file:** `chapters/12-chapter-09-ten-pounds-in-a-five-pound-sack-original-000.png`
 
@@ -623,6 +631,7 @@ All figures should include:
 **Historical context:** Heywood Hardy (1842-1933) was one of the foremost English Victorian Romanticism painters, known for his equestrian art, sporting subjects, and genre scenes. Born in Chichester, West Sussex, Hardy studied in Bristol, Paris, and Antwerp before moving to London in 1870. He was also an accomplished engraver and illustrator who contributed to the Illustrated London News and the Graphic. Hardy was elected to several prestigious societies including the Royal Society of Painters and Etchers, the Royal Institute of Oil Painters, and the Royal Society of Portrait Painters. His work was characterized by a notable sensitivity in depicting animals, demonstrating a deep understanding particularly of horses. This engraving exemplifies the Victorian tradition of narrative art that could dramatically illustrate abstract concepts.
 
 **Related links:**
+
 - [Heywood Hardy - WikiArt](https://www.wikiart.org/en/heywood-hardy) - Gallery of his artworks
 - [Heywood Hardy - Artnet](https://www.artnet.com/artists/heywood-hardy/) - Artist biography and sales history
 - [The Makers Series: Heywood Hardy - BADA](https://www.bada.org/features/makers-series-heywood-hardy) - Overview of his career and style
@@ -630,7 +639,7 @@ All figures should include:
 
 ---
 
-### Chapter 10: The Documentary Hypothesis
+### Opening Illustration - Chapter 10: The Documentary Hypothesis
 
 **Image file:** `chapters/13-chapter-10-the-documentary-hypothesis-original-000.png`
 
@@ -645,13 +654,14 @@ All figures should include:
 **Historical context:** This illustration by William Bengough was published in Harper's Weekly, Vol. 41, on February 27, 1897, page 201, as part of a 10-part series leading up to the opening of the imposing new Library of Congress building. The drawing depicts the library's "present congested condition" in the months just prior to the library's relocation to its own building across the street. The illustration provided visual evidence of the desperate need for expanded space. The image is now held by the Library of Congress (catalog numbers LC-USZ62-86769 and LC-USZ62-3868) with no known restrictions on publication.
 
 **Related links:**
+
 - [Scene in the Old Congressional Library - Library of Congress](https://www.loc.gov/item/99614270/) - Primary source with full catalog information
 - [US House of Representatives Historical Images](https://history.house.gov/Collection/Detail/30596) - Congressional perspective on the illustration
 - [125 Years of Binding at the Library of Congress](https://blogs.loc.gov/preservation/2025/01/125-years-of-binding-pt1/) - Context about the library's history
 
 ---
 
-### Chapter 11: Plan to Throw One Away
+### Opening Illustration - Chapter 11: Plan to Throw One Away
 
 **Image file:** `chapters/14-chapter-11-plan-to-throw-one-away-original-000.png`
 
@@ -670,6 +680,7 @@ All figures should include:
 **Historical context:** The Tacoma Narrows Bridge collapsed on November 7, 1940, just four months after opening, due to aerodynamic instability caused by wind-induced vibrations. The collapse was extensively documented on film and photographs, becoming one of the most famous engineering failures in history. The footage was recorded on Kodachrome 16mm film by Barney Elliott and Harbine Monroe and was selected for preservation in the United States National Film Registry by the Library of Congress in 1998. Photographer Howard Clifford of the Tacoma News Tribune was on the bridge and ran to safety seconds before it collapsed. The disaster became a landmark case study in engineering education, illustrating the importance of understanding aerodynamic forces and the value of iterative design - precisely the lesson Brooks advocates in this chapter.
 
 **Related links:**
+
 - [Tacoma Narrows Bridge (1940) - Wikipedia](https://en.wikipedia.org/wiki/Tacoma_Narrows_Bridge_(1940)) - Comprehensive article on the bridge and its collapse
 - [Tacoma Narrows Bridge History - WSDOT](https://wsdot.wa.gov/TNBhistory/) - Official state historical documentation
 - [UW Libraries Tacoma Narrows Bridge Collection](https://content.lib.washington.edu/farquharsonweb/index.html) - Extensive photo and film archive
@@ -677,7 +688,7 @@ All figures should include:
 
 ---
 
-### Chapter 12: Sharp Tools
+### Opening Illustration - Chapter 12: Sharp Tools
 
 **Image file:** `chapters/15-chapter-12-sharp-tools-original-000.png`
 
@@ -692,13 +703,14 @@ All figures should include:
 **Historical context:** Andrea Pisano (c. 1290-1348) was an Italian sculptor and architect who directed the works on the Campanile (bell tower) of Santa Maria del Fiore (Florence Cathedral) after Giotto's death, from 1336 until 1342. His workshop created a series of hexagonal marble reliefs for the lower register of Giotto's Campanile, representing various human activities and crafts - celebrating the progress of civilization and human ingenuity. "Lo Scultore" (The Sculptor) is part of this series, which includes reliefs depicting Navigation, Hunting, Weaving, Plowing, and other crafts. The originals are now preserved in the Museo dell'Opera del Duomo in Florence, with copies on the Campanile itself. These reliefs represent some of the finest examples of early Renaissance sculpture, bridging the Gothic and Renaissance styles.
 
 **Related links:**
+
 - [Andrea Pisano - Treccani Encyclopedia](https://www.treccani.it/enciclopedia/andrea-pisano/) - Comprehensive Italian encyclopedia entry
 - [Donatello e l'Opera del Duomo](https://duomo.firenze.it/it/opera-magazine/post/6760/donatello-e-l-opera-del-duomo) - Context about the Opera del Duomo and its sculptural works
 - [Santa Maria del Fiore - Wikipedia](https://en.wikipedia.org/wiki/Florence_Cathedral) - Information about the cathedral and its art
 
 ---
 
-### Chapter 13: The Whole and the Parts
+### Opening Illustration - Chapter 13: The Whole and the Parts
 
 **Image file:** `chapters/16-chapter-13-the-whole-and-the-parts-original-000.png`
 
@@ -714,13 +726,14 @@ All figures should include:
 **Historical context:** "The Sorcerer's Apprentice" is the third and most famous segment in Disney's 1940 animated feature film Fantasia. Based on the poem "Der Zauberlehrling" by Johann Wolfgang von Goethe and the musical piece "L'Apprenti Sorcier" by Paul Dukas, it stars Mickey Mouse as the apprentice of the sorcerer Yen Sid. Originally conceived in 1938 as an elaborate Silly Symphony cartoon designed as a comeback role for Mickey Mouse (whose popularity had declined), it evolved into the centerpiece of Fantasia. Walt Disney himself voiced Mickey Mouse in this segment. The three-hour recording session began at midnight on January 9, 1938, at Culver Studios in California, with 85 Hollywood musicians. The segment tells the story of Mickey attempting his master's magic tricks but not knowing how to control them - a perfect metaphor for system integration challenges where individual components work but the whole system fails.
 
 **Related links:**
+
 - [The Sorcerer's Apprentice - Disney Wiki](https://disney.fandom.com/wiki/The_Sorcerer's_Apprentice) - Comprehensive information about the segment
 - [Fantasia (1940) - Wikipedia](https://en.wikipedia.org/wiki/Fantasia_(1940_film)) - Full context of the film
 - [8 Fun Facts about "The Sorcerer's Apprentice"](https://creativeenglishteacher.com/blogs/news/8-fun-facts-about-the-sorcerers-apprentice-from-walt-disneys-fantasia-1940) - Behind-the-scenes details
 
 ---
 
-### Chapter 14: Hatching a Catastrophe
+### Opening Illustration - Chapter 14: Hatching a Catastrophe
 
 **Image file:** `chapters/17-chapter-14-hatching-a-catastrophe-original-000.png`
 
@@ -739,13 +752,14 @@ All figures should include:
 **Historical context:** Antonio Canova (1757-1822) was one of the greatest neoclassical sculptors. "Hercules and Lichas" (Ercole e Lica) was created circa 1796 and completed in 1815 (making "1802" in the citation the midpoint of its creation). The work depicts the mythological story where Hercules, maddened by pain caused by a tunic soaked in the poisoned blood of the centaur Nessus, throws the very young Lichas into the air - Lichas who, unaware of the poison, had innocently given the tunic to Hercules. When the occupying French saw this piece in 1798, they believed it represented the French Revolution, with Hercules repelling Lichas as domestic forces had driven away the monarchy. The sculpture received strong acclaim from academics and art critics for its powerful emotional imagery. The marble version is displayed at the National Gallery of Modern Art (GNAM) in Rome, while a plaster version is housed in a museum in Canova's boyhood village.
 
 **Related links:**
+
 - [Hercules and Lichas - Google Arts & Culture](https://artsandculture.google.com/story/hercules-and-lichas-by-antonio-canova-la-galleria-nazionale/SQUhXTx31PC2cQ?hl=en) - Detailed examination of the sculpture
 - [Hercules and Lichas - History of Art](https://www.thehistoryofart.org/antonio-canova/hercules-and-lichas/) - Art historical analysis
 - [Antonio Canova - Wikipedia](https://en.wikipedia.org/wiki/Antonio_Canova) - Biography of the sculptor
 
 ---
 
-### Chapter 15: The Other Face
+### Opening Illustration - Chapter 15: The Other Face
 
 **Image file:** `chapters/18-chapter-15-the-other-face-original-000.png`
 
@@ -764,13 +778,14 @@ All figures should include:
 **Historical context:** Stonehenge is a prehistoric monument dating from approximately 3000 BC to 2000 BC. While often thought of as an untouched ancient structure, Stonehenge underwent extensive, largely undocumented restoration throughout the 20th century. From 1901 to 1964, the majority of the stone circle was restored in a series of makeovers that official guidebooks failed to mention - it was "historically cleansed," as researcher Brian Edwards discovered. The catalyst came on New Year's Eve 1900 when one of the stones collapsed, prompting Sir Edmund Antrobus to commission restoration works. During hot summers, turf would peel back to reveal concrete boots into which the stones were set. Visitors are often told about Stonehenge as mankind's "first computer" - its standing stones and precise lintels line up with the heavens and solstice suns, suggesting sophisticated astronomical knowledge. This dual nature - an ancient astronomical calculator that underwent modern undocumented reconstruction - makes it a perfect metaphor for Brooks's chapter about documentation being "the other face" of software development.
 
 **Related links:**
+
 - [Stonehenge - Wikipedia](https://en.wikipedia.org/wiki/Stonehenge) - Comprehensive history and archaeology
 - [How They Rebuilt Stonehenge - UK Indymedia](https://www.indymedia.org.uk/en/2005/12/330623.html?c=on) - Documentation of 20th century restoration
 - [Restoring Stonehenge - The Past](https://the-past.com/feature/restoring-stonehenge-securing-a-neolithic-monument-over-120-years/) - Detailed history of restoration work
 
 ---
 
-### Chapter 16: No Silver Bullet—Essence and Accident
+### Opening Illustration - Chapter 16: No Silver Bullet—Essence and Accident
 
 **Image file:** `chapters/19-chapter-16-no-silver-bullet-essence-and-accident-original-000.png`
 
@@ -785,13 +800,14 @@ All figures should include:
 **Historical context:** The Werewolf of Eschenbach is a German line engraving from 1685 that depicts werewolf folklore from 17th century Europe. Eschenbach is a town in Germany, and this engraving documents the widespread belief in lycanthropy during this period. According to some versions, the engraving shows the werewolf trapped in a well, with an effigy of the werewolf clothed as a man hanged nearby. Werewolf legends were particularly strong in Germanic regions during the 16th and 17th centuries, coinciding with witch hunts and trials. The folklore held that werewolves could only be killed by silver bullets - hence Brooks's chapter title "No Silver Bullet" arguing that no single magical solution exists for software's essential complexity. This historical engraving is now part of the Granger Historical Picture Archive and represents a fascinating document of European supernatural beliefs.
 
 **Related links:**
+
 - [Werewolf of Eschenbach - Granger Historical Picture Archive](https://www.granger.com/0061070-werewolf-1685-the-werewolf-of-eschenbach-germany-trapped-in-image.html) - Original source
 - [Werewolf of Eschenbach - Alamy](https://www.alamy.com/stock-photo-werewolf-1685-nthe-werewolf-of-eschenbach-germany-line-engraving-1685-95469616.html) - Historical stock image
 - [Lycanthropy - Wikipedia](https://en.wikipedia.org/wiki/Werewolf) - History of werewolf folklore
 
 ---
 
-### Chapter 17: No Silver Bullet Refired
+### Opening Illustration - Chapter 17: No Silver Bullet Refired
 
 **Image file:** `chapters/20-chapter-17-no-silver-bullet-refired-original-000.png`
 
@@ -810,13 +826,14 @@ All figures should include:
 **Historical context:** This 1945 photograph captures the post-war optimism about modular construction and standardized parts. The Erector Set, invented by A.C. Gilbert in 1913, became immensely popular and represented the industrial-age dream of building anything from standardized components. By 1945, such construction toys symbolized both the American can-do spirit and the engineering principles that had won World War II - standardization, mass production, and modular assembly. Brooks uses this image to examine the promise and limitations of component-based software development. While mechanical construction from standard parts works well because physical components have precise, predictable interfaces, software components face the challenge of conceptual complexity - the essence of software that no amount of standardization can eliminate. The image captures both the appeal and the oversimplification of the "building blocks" approach to complex systems.
 
 **Related links:**
+
 - [Erector Set - Wikipedia](https://en.wikipedia.org/wiki/Erector_Set) - History of the construction toy
 - [A.C. Gilbert - Wikipedia](https://en.wikipedia.org/wiki/A._C._Gilbert) - The inventor and his company
 - [Modular programming - Wikipedia](https://en.wikipedia.org/wiki/Modular_programming) - Software engineering concepts
 
 ---
 
-### Chapter 18: Propositions of The Mythical Man-Month: True or False?
+### Opening Illustration - Chapter 18: Propositions of The Mythical Man-Month: True or False?
 
 **Image file:** `chapters/21-chapter-18-propositions-true-or-false-original-000.png`
 
@@ -832,13 +849,14 @@ All figures should include:
 **Historical context:** This photograph was taken by J. Alex Langley for Fortune Magazine in 1967, during Brooks's early career. At this time, Brooks had recently left IBM (where he was the project manager for System/360 and manager of the Operating System/360 software project) and had founded the Computer Science Department at the University of North Carolina at Chapel Hill in 1964. The image shows him in his role as an academic and educator, exploring computer-aided instruction - a cutting-edge topic in the late 1960s. The photograph predates the publication of _The Mythical Man-Month_ (1975) by eight years, capturing Brooks as a young professor developing the ideas that would later become his influential book. This chapter, added in the 20th anniversary edition, shows Brooks courageously re-examining his own earlier assertions, demonstrating intellectual honesty by asking which of his propositions have stood the test of time.
 
 **Related links:**
+
 - [Fred Brooks - Wikipedia](https://en.wikipedia.org/wiki/Fred_Brooks) - Biography and career
 - [Fred Brooks - Computer Pioneers](https://history.computer.org/pioneers/brooks.html) - IEEE Computer Society biography
 - [UNC Computer Science History](https://www.cs.unc.edu/~brooks/) - Brooks's academic career
 
 ---
 
-### Chapter 19: The Mythical Man-Month after 20 Years
+### Opening Illustration - Chapter 19: The Mythical Man-Month after 20 Years
 
 **Image file:** `chapters/22-chapter-19-after-20-years-original-000.png`
 
@@ -857,6 +875,7 @@ All figures should include:
 **Historical context:** "Shooting the Rapids" was a popular subject in 19th century adventure art and illustration, capturing the dramatic experience of navigating dangerous river rapids in canoes. This was a common and hazardous activity for explorers, fur traders, and prospectors in North America, particularly in Canada during the fur trade era and later during the Klondike Gold Rush. Notable artists who depicted this subject include Frances Anne Hopkins (who painted "Shooting the Rapids (Quebec)" in 1879 after travelling extensively by canoe along fur trading routes with her Hudson's Bay Company official husband), and Cornelius Krieghoff (mid-19th century). The theme represents the adventure, danger, and unpredictability of navigating wild rivers - an apt metaphor for Brooks's retrospective on how software project management has evolved over twenty years. Just as shooting rapids requires reading the water, making split-second decisions, and adapting to conditions, software management requires learning from experience while remaining flexible enough to adjust to new challenges.
 
 **Related links:**
+
 - [Shooting the Rapids by Frances Anne Hopkins](https://useum.org/artwork/Shooting-the-Rapids-Quebec-Frances-Anne-Hopkins-1879) - 1879 painting
 - [Shooting the Rapids - Cornelius Krieghoff](https://collections.gilcrease.org/object/011154) - Gilcrease Museum collection
 - [Klondike Gold Rush illustrations](https://www.istockphoto.com/vector/prospectors-shooting-the-rapids-on-the-way-to-the-klondike-gold-rush-19th-century-gm1372493456-441579420) - Historical context
