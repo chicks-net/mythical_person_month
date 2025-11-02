@@ -630,6 +630,121 @@ All figures should include:
 
 ---
 
+### Chapter 10: The Documentary Hypothesis
+
+**Image file:** `chapters/13-chapter-10-the-documentary-hypothesis-original-000.png`
+
+**Citation:**
+> The hypothesis: Amid a wash of paper, a small number of documents become the critical pivots around which every project's management revolves. These are the manager's chief personal tools.
+>
+> W. Bengough, "Scene in the old Congressional Library," 1897
+> The Bettman Archive
+
+**Description:** Opening illustration showing an overwhelmingly crowded scene in the old Congressional Library in Washington, D.C., with visitors navigating through mountainous piles of books and papers. Every visible seat is occupied, and documents are stacked everywhere, creating a chaotic environment that paradoxically illustrates the chapter's theme: amid such chaos, a small number of key documents become the critical organizing tools.
+
+**Historical context:** This illustration by William Bengough was published in Harper's Weekly, Vol. 41, on February 27, 1897, page 201, as part of a 10-part series leading up to the opening of the imposing new Library of Congress building. The drawing depicts the library's "present congested condition" in the months just prior to the library's relocation to its own building across the street. The illustration provided visual evidence of the desperate need for expanded space. The image is now held by the Library of Congress (catalog numbers LC-USZ62-86769 and LC-USZ62-3868) with no known restrictions on publication.
+
+**Related links:**
+- [Scene in the Old Congressional Library - Library of Congress](https://www.loc.gov/item/99614270/) - Primary source with full catalog information
+- [US House of Representatives Historical Images](https://history.house.gov/Collection/Detail/30596) - Congressional perspective on the illustration
+- [125 Years of Binding at the Library of Congress](https://blogs.loc.gov/preservation/2025/01/125-years-of-binding-pt1/) - Context about the library's history
+
+---
+
+### Chapter 11: Plan to Throw One Away
+
+**Image file:** `chapters/14-chapter-11-plan-to-throw-one-away-original-000.png`
+
+**Citation:**
+> There is nothing in this world constant but inconstancy.
+> Swift
+>
+> It is common sense to take a method and try it. If it fails, admit it frankly and try another. But above all try something.
+> Franklin D. Roosevelt
+>
+> Collapse of the aerodynamically misdesigned Tacoma Narrows Bridge, 1940
+> UPI Photo/The Bettman Archive
+
+**Description:** Opening illustration showing the dramatic collapse of the Tacoma Narrows Bridge, with its deck twisting and buckling catastrophically. The bridge, nicknamed "Galloping Gertie," spectacularly failed just months after opening due to aerodynamic flaws in its design. This image perfectly illustrates the chapter's central argument: the first version often fails, and you should plan to build a pilot system that you'll eventually throw away, learning from its failures.
+
+**Historical context:** The Tacoma Narrows Bridge collapsed on November 7, 1940, just four months after opening, due to aerodynamic instability caused by wind-induced vibrations. The collapse was extensively documented on film and photographs, becoming one of the most famous engineering failures in history. The footage was recorded on Kodachrome 16mm film by Barney Elliott and Harbine Monroe and was selected for preservation in the United States National Film Registry by the Library of Congress in 1998. Photographer Howard Clifford of the Tacoma News Tribune was on the bridge and ran to safety seconds before it collapsed. The disaster became a landmark case study in engineering education, illustrating the importance of understanding aerodynamic forces and the value of iterative design - precisely the lesson Brooks advocates in this chapter.
+
+**Related links:**
+- [Tacoma Narrows Bridge (1940) - Wikipedia](https://en.wikipedia.org/wiki/Tacoma_Narrows_Bridge_(1940)) - Comprehensive article on the bridge and its collapse
+- [Tacoma Narrows Bridge History - WSDOT](https://wsdot.wa.gov/TNBhistory/) - Official state historical documentation
+- [UW Libraries Tacoma Narrows Bridge Collection](https://content.lib.washington.edu/farquharsonweb/index.html) - Extensive photo and film archive
+- [The Collapse - UW Special Collections](https://lib.uw.edu/specialcollections/collections/exhibits/tnb/collapse/) - Detailed documentation of the collapse event
+
+---
+
+### Chapter 12: Sharp Tools
+
+**Image file:** `chapters/15-chapter-12-sharp-tools-original-000.png`
+
+**Citation:**
+> A good workman is known by his tools.
+> Proverb
+>
+> A. Pisano, "Lo Scultore," from the Campanile di Santa Maria del Fiore, Florence, c. 1335
+
+**Description:** Opening illustration showing a medieval relief sculpture of a craftsman (sculptor) at work with his tools. The figure is seated within a Gothic quatrefoil frame, carefully working with sculpting tools on a piece. This 14th-century relief perfectly embodies the chapter's theme that quality tools are essential to quality work - a principle that has held true from medieval stone carvers to modern programmers.
+
+**Historical context:** Andrea Pisano (c. 1290-1348) was an Italian sculptor and architect who directed the works on the Campanile (bell tower) of Santa Maria del Fiore (Florence Cathedral) after Giotto's death, from 1336 until 1342. His workshop created a series of hexagonal marble reliefs for the lower register of Giotto's Campanile, representing various human activities and crafts - celebrating the progress of civilization and human ingenuity. "Lo Scultore" (The Sculptor) is part of this series, which includes reliefs depicting Navigation, Hunting, Weaving, Plowing, and other crafts. The originals are now preserved in the Museo dell'Opera del Duomo in Florence, with copies on the Campanile itself. These reliefs represent some of the finest examples of early Renaissance sculpture, bridging the Gothic and Renaissance styles.
+
+**Related links:**
+- [Andrea Pisano - Treccani Encyclopedia](https://www.treccani.it/enciclopedia/andrea-pisano/) - Comprehensive Italian encyclopedia entry
+- [Donatello e l'Opera del Duomo](https://duomo.firenze.it/it/opera-magazine/post/6760/donatello-e-l-opera-del-duomo) - Context about the Opera del Duomo and its sculptural works
+- [Santa Maria del Fiore - Wikipedia](https://en.wikipedia.org/wiki/Florence_Cathedral) - Information about the cathedral and its art
+
+---
+
+### Chapter 13: The Whole and the Parts
+
+**Image file:** `chapters/16-chapter-13-the-whole-and-the-parts-original-000.png`
+
+**Citation:**
+> I can call spirits from the vasty deep.
+> Why so can I, or so can any man; but will they come when you do call for them?
+> Shakespeare, King Henry IV, Part I
+>
+> © The Walt Disney Company
+
+**Description:** Opening illustration showing Mickey Mouse as the Sorcerer's Apprentice from Disney's Fantasia (1940). Mickey, wearing the iconic pointed wizard's hat with stars and moon, is shown conducting or commanding with his arms outstretched, surrounded by magical sparkles. This image perfectly captures the chapter's theme: just because you can command individual components doesn't mean they'll work together as a unified whole when you need them to - precisely the apprentice's problem when he loses control of the enchanted brooms.
+
+**Historical context:** "The Sorcerer's Apprentice" is the third and most famous segment in Disney's 1940 animated feature film Fantasia. Based on the poem "Der Zauberlehrling" by Johann Wolfgang von Goethe and the musical piece "L'Apprenti Sorcier" by Paul Dukas, it stars Mickey Mouse as the apprentice of the sorcerer Yen Sid. Originally conceived in 1938 as an elaborate Silly Symphony cartoon designed as a comeback role for Mickey Mouse (whose popularity had declined), it evolved into the centerpiece of Fantasia. Walt Disney himself voiced Mickey Mouse in this segment. The three-hour recording session began at midnight on January 9, 1938, at Culver Studios in California, with 85 Hollywood musicians. The segment tells the story of Mickey attempting his master's magic tricks but not knowing how to control them - a perfect metaphor for system integration challenges where individual components work but the whole system fails.
+
+**Related links:**
+- [The Sorcerer's Apprentice - Disney Wiki](https://disney.fandom.com/wiki/The_Sorcerer's_Apprentice) - Comprehensive information about the segment
+- [Fantasia (1940) - Wikipedia](https://en.wikipedia.org/wiki/Fantasia_(1940_film)) - Full context of the film
+- [8 Fun Facts about "The Sorcerer's Apprentice"](https://creativeenglishteacher.com/blogs/news/8-fun-facts-about-the-sorcerers-apprentice-from-walt-disneys-fantasia-1940) - Behind-the-scenes details
+
+---
+
+### Chapter 14: Hatching a Catastrophe
+
+**Image file:** `chapters/17-chapter-14-hatching-a-catastrophe-original-000.png`
+
+**Citation:**
+> None love the bearer of bad news.
+> Sophocles
+>
+> How does a project get to be a year late?
+> ...One day at a time.
+>
+> A. Canova, "Ercole e lica," 1802. Hercules hurls to his death the messenger Lycas, who innocently brought the death-garment.
+> Scala/Art Resource, NY
+
+**Description:** Opening illustration showing Antonio Canova's dramatic neoclassical sculpture of Hercules violently hurling the young messenger Lichas through the air. Hercules, driven mad by pain from a poisoned tunic, kills the innocent messenger who unknowingly delivered it. The sculpture captures the tragic moment of violent reaction to bad news - illustrating the chapter's theme about how projects fail gradually and the danger of shooting the messenger who reports problems.
+
+**Historical context:** Antonio Canova (1757-1822) was one of the greatest neoclassical sculptors. "Hercules and Lichas" (Ercole e Lica) was created circa 1796 and completed in 1815 (making "1802" in the citation the midpoint of its creation). The work depicts the mythological story where Hercules, maddened by pain caused by a tunic soaked in the poisoned blood of the centaur Nessus, throws the very young Lichas into the air - Lichas who, unaware of the poison, had innocently given the tunic to Hercules. When the occupying French saw this piece in 1798, they believed it represented the French Revolution, with Hercules repelling Lichas as domestic forces had driven away the monarchy. The sculpture received strong acclaim from academics and art critics for its powerful emotional imagery. The marble version is displayed at the National Gallery of Modern Art (GNAM) in Rome, while a plaster version is housed in a museum in Canova's boyhood village.
+
+**Related links:**
+- [Hercules and Lichas - Google Arts & Culture](https://artsandculture.google.com/story/hercules-and-lichas-by-antonio-canova-la-galleria-nazionale/SQUhXTx31PC2cQ?hl=en) - Detailed examination of the sculpture
+- [Hercules and Lichas - History of Art](https://www.thehistoryofart.org/antonio-canova/hercules-and-lichas/) - Art historical analysis
+- [Antonio Canova - Wikipedia](https://en.wikipedia.org/wiki/Antonio_Canova) - Biography of the sculptor
+
+---
+
 ## References to Illustration in Meta-Content
 
 **Preface (First Edition):**
