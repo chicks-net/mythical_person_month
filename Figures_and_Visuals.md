@@ -512,6 +512,124 @@ All figures should include:
 
 ---
 
+### Chapter 5: The Second-System Effect
+
+**Image file:** `chapters/08-chapter-05-the-second-system-effect-original-000.png`
+
+**Citation:**
+> Adde parvum parvo magnus acervus erit.
+> {Add little to little and there will be a big pile.}
+> Ovid
+>
+> Turning house for air traffic. Lithograph, Paris, 1882
+> From Le Vingtième Siècle by A. Robida
+
+**Description:** Opening illustration showing an absurdly over-elaborate Victorian-era vision of a futuristic "turning house for air traffic" - a fantastical rotating platform structure with multiple ornate towers, chimneys, weather vanes, and architectural embellishments. This whimsical yet cluttered design perfectly illustrates the "second-system effect" where designers, freed from the constraints of their first project, add every feature they can imagine, creating an overly complex result.
+
+**Historical context:** Albert Robida (1848-1926) was a French illustrator, lithographer, and novelist who is now recognized as a pioneering science fiction artist. His work "Le Vingtième Siècle" (The Twentieth Century) was first published in installments in 1882 and as a complete book in 1883, set in the year 1952. Unlike Jules Verne, Robida imagined technology integrated into everyday life rather than as the creations of mad scientists, and he remarkably anticipated many social developments including the advancement of women, mass tourism, and pollution. His illustrations featured predictions of televisions, telephones, web-cams, submarines, and helicopters, including his famous "Téléphonoscope" depicting flat-screen, home-theater television.
+
+**Related links:**
+- [Albert Robida - Wikipedia](https://en.wikipedia.org/wiki/Albert_Robida) - Biography of the visionary illustrator (1848-1926)
+- [Albert Robida's Le Vingtième siècle - St Andrews University](https://special-collections.wp.st-andrews.ac.uk/2011/10/04/albert-robidas-le-vingtieme-siecle/) - Analysis of the work
+- [Albert Robida, The Visionary Illustrator - Moss and Fog](https://mossandfog.com/albert-robida-the-visionary-illustrator-who-sketched-the-future-in-the-1800s/) - Overview of his prescient predictions
+- [Le vingtième siècle - Internet Archive](https://archive.org/details/levingtimesiclel00robi) - Digital copy of the original work
+
+---
+
+### Chapter 6: Passing the Word
+
+**Image file:** `chapters/09-chapter-06-passing-the-word-original-000.png`
+
+**Citation:**
+> He'll sit here and he'll say, "Do this! Do that!" And nothing will happen.
+> Harry S. Truman, on Presidential Power
+>
+> "The Seven Trumpets" from The Wells Apocalypse, 14th century
+> The Bettman Archive
+
+**Description:** Opening illustration showing a medieval illuminated manuscript page depicting seven angels blowing trumpets, from the Book of Revelation. The angels are arranged in horizontal rows, each figure elegantly drawn in the Gothic style typical of 14th-century English manuscript illumination. This image metaphorically illustrates the challenge of communication - even when the message is literally trumpeted, ensuring it's heard, understood, and acted upon remains difficult.
+
+**Historical context:** The Wells Apocalypse (also spelled "Welles Apocalypse") is an early fourteenth-century illuminated manuscript of the Book of Revelation. English Apocalypse manuscripts were produced prolifically between 1250 and 1400, and this manuscript exemplifies the tradition with its distinctive miniatures. The Seven Trumpets theme was central to Apocalypse illustrations, representing the catastrophic events narrated through the cryptic symbolism of Revelation, which often revolves around the number seven: the opening of the seven seals, the sounding of the seven trumpets, and the fulfillment of the seven last plagues.
+
+**Related links:**
+- [English Apocalypse manuscripts - Wikipedia](https://en.wikipedia.org/wiki/English_Apocalypse_manuscripts) - Overview of the tradition
+- [Apocalypse Illuminated - Penn State Press](https://www.psupress.org/books/titles/978-0-271-07865-6.html) - Richard K. Emmerson's scholarly work on medieval Apocalypse manuscripts
+- [Bettmann Archive - Wikipedia](https://en.wikipedia.org/wiki/Bettmann_Archive) - Information about the archive housing this image
+
+---
+
+### Chapter 7: Why Did the Tower of Babel Fail?
+
+**Image file:** `chapters/10-chapter-07-why-did-the-tower-of-babel-fail-original-000.png`
+
+**Citation:**
+> Now the whole earth used only one language, with few words... Then they said, "Come, let us build ourselves a city with a tower whose top shall reach the heavens (thus making a name for ourselves), so that we may not be scattered all over the earth."... The Lord said, "They are just one people, and they all have the same language... Come, let us go down and confuse their language."
+> Genesis 11:1-8
+>
+> P. Breughel, the Elder, "Turmbau zu Babel," 1563
+> Kunsthistorisches Museum, Vienna
+
+**Description:** Opening illustration showing Pieter Bruegel the Elder's iconic painting "The Tower of Babel," depicting an enormous, partially constructed tower modeled after the Roman Colosseum. The massive spiral structure dominates the landscape, with countless workers, scaffolding, and building activities visible throughout. The painting illustrates the biblical story of humanity's hubris and the catastrophic communication breakdown that caused the project's failure - a perfect metaphor for large software projects that fail due to communication problems.
+
+**Historical context:** This masterpiece was created in 1563 by Pieter Bruegel the Elder (c. 1525-1569), one of the greatest Flemish Renaissance painters. The oil on panel painting (114 × 155 cm) was commissioned by Nicolaes Jonghelinck, an Antwerp banker who owned 16 of Bruegel's paintings. The basic construct of the tower is loosely based on the Colosseum in Rome, which Bruegel had seen during his visit to Italy. Bruegel created multiple versions of this subject; the Vienna version is signed "BRVEGEL.FE. / M.CCCCC.LXIII." A third version is housed in the Museum Boijmans Van Beuningen in Rotterdam. The painting brilliantly captures the biblical narrative of human pride leading to divine intervention through the confusion of languages.
+
+**Related links:**
+- [The Tower of Babel (Bruegel) - Wikipedia](https://en.wikipedia.org/wiki/The_Tower_of_Babel_(Bruegel)) - Detailed article about the painting
+- [Smarthistory - Pieter Bruegel the Elder, The Tower of Babel](https://smarthistory.org/pieter-bruegel-the-elder-the-tower-of-babel/) - Art historical analysis
+- [The Tower of Babel by Pieter Bruegel - Kunsthistorisches Museum](https://www.humanalens.com/post/the-tower-of-babel-by-pieter-bruegel-the-elder) - Museum guide
+- [Bruegel's Tower of Babel - Journal of Art in Society](https://www.artinsociety.com/lost-in-translation-bruegelrsquos-tower-of-babel.html) - Analysis of communication themes
+
+---
+
+### Chapter 8: Calling the Shot
+
+**Image file:** `chapters/11-chapter-08-calling-the-shot-original-000.png`
+
+**Citation:**
+> Practice is the best of all instructors.
+> Publilius
+>
+> Experience is a dear teacher, but fools will learn at no other.
+> Poor Richard's Almanac
+>
+> Douglass Crockwell, "Ruth calls his shot," World Series, 1932
+> Reproduced by permission of Esquire Magazine and Douglass Crockwell, © 1945 (renewed 1973) by Esquire, Inc., and courtesy of the National Baseball Museum.
+
+**Description:** Opening illustration showing Babe Ruth at bat in his famous "called shot" moment during Game 3 of the 1932 World Series at Wrigley Field. Ruth is depicted in his New York Yankees uniform, pointing toward the outfield, with the catcher visible behind him. This legendary moment - whether Ruth actually "called" his home run or was simply gesturing at heckling Cubs players - has been debated for decades, making it a perfect metaphor for the challenges of estimation and prediction in software development.
+
+**Historical context:** The "called shot" occurred on October 1, 1932, during Game 3 of the World Series between the New York Yankees and Chicago Cubs. According to legend, Babe Ruth pointed to center field before hitting a home run to that exact spot. The incident has become one of baseball's most famous and controversial moments. Douglass Crockwell (1904-1968) was an American painter and animator who created this illustration for Esquire Magazine in 1945, capturing the mythic quality of the moment. The chapter uses this story to discuss the importance of experience in making accurate estimates - while bold predictions may succeed, they're more often based on accumulated knowledge than pure bravado.
+
+**Related links:**
+- [Babe Ruth - Wikipedia](https://en.wikipedia.org/wiki/Babe_Ruth) - Biography of the legendary baseball player
+- [Called shot - Wikipedia](https://en.wikipedia.org/wiki/Babe_Ruth%27s_called_shot) - Details about the famous 1932 World Series moment
+- [1932 World Series - Wikipedia](https://en.wikipedia.org/wiki/1932_World_Series) - Context of the game
+- [Douglass Crockwell - Wikipedia](https://en.wikipedia.org/wiki/Douglass_Crockwell) - Information about the illustrator
+
+---
+
+### Chapter 9: Ten Pounds in a Five-Pound Sack
+
+**Image file:** `chapters/12-chapter-09-ten-pounds-in-a-five-pound-sack-original-000.png`
+
+**Citation:**
+> The author should gaze at Noah, and... learn, as they did in the Ark, to crowd a great deal of matter into a very small compass.
+> Sydney Smith, Edinburgh Review
+>
+> Engraved from a painting by Heywood Hardy
+> The Bettman Archive
+
+**Description:** Opening illustration showing a classical engraving depicting a dramatic scene with a figure struggling with a large beast (possibly a bull or ox) amid swirling, dynamic movement. The Victorian-era artwork captures the intense physical struggle of trying to contain or manage something too large for its constraints - a perfect visual metaphor for the chapter's theme of fitting too much functionality into limited memory space.
+
+**Historical context:** Heywood Hardy (1842-1933) was one of the foremost English Victorian Romanticism painters, known for his equestrian art, sporting subjects, and genre scenes. Born in Chichester, West Sussex, Hardy studied in Bristol, Paris, and Antwerp before moving to London in 1870. He was also an accomplished engraver and illustrator who contributed to the Illustrated London News and the Graphic. Hardy was elected to several prestigious societies including the Royal Society of Painters and Etchers, the Royal Institute of Oil Painters, and the Royal Society of Portrait Painters. His work was characterized by a notable sensitivity in depicting animals, demonstrating a deep understanding particularly of horses. This engraving exemplifies the Victorian tradition of narrative art that could dramatically illustrate abstract concepts.
+
+**Related links:**
+- [Heywood Hardy - WikiArt](https://www.wikiart.org/en/heywood-hardy) - Gallery of his artworks
+- [Heywood Hardy - Artnet](https://www.artnet.com/artists/heywood-hardy/) - Artist biography and sales history
+- [The Makers Series: Heywood Hardy - BADA](https://www.bada.org/features/makers-series-heywood-hardy) - Overview of his career and style
+- [Heywood Hardy - Haynes Fine Art](https://haynesfineart.com/artists/heywood-hardy-uk) - Artist biography and works for sale
+
+---
+
 ## References to Illustration in Meta-Content
 
 **Preface (First Edition):**
