@@ -745,6 +745,124 @@ All figures should include:
 
 ---
 
+### Chapter 15: The Other Face
+
+**Image file:** `chapters/18-chapter-15-the-other-face-original-000.png`
+
+**Citation:**
+> What we do not understand we do not possess.
+> Goethe
+>
+> O give me commentators plain, Who with no deep researches vex the brain.
+> Crabbe
+>
+> A reconstruction of Stonehenge, the world's largest undocumented computer.
+> The Bettman Archive
+
+**Description:** Opening illustration showing an aerial or elevated view of Stonehenge, the ancient megalithic monument on Salisbury Plain in England. The image shows the massive stone circle with its distinctive trilithon arrangement. The caption's reference to Stonehenge as "the world's largest undocumented computer" alludes to the monument's astronomical alignments and its use as a prehistoric calculator for tracking celestial events - yet ironically, much of its 20th-century reconstruction went undocumented, paralleling the chapter's theme about the critical importance of documentation in software projects.
+
+**Historical context:** Stonehenge is a prehistoric monument dating from approximately 3000 BC to 2000 BC. While often thought of as an untouched ancient structure, Stonehenge underwent extensive, largely undocumented restoration throughout the 20th century. From 1901 to 1964, the majority of the stone circle was restored in a series of makeovers that official guidebooks failed to mention - it was "historically cleansed," as researcher Brian Edwards discovered. The catalyst came on New Year's Eve 1900 when one of the stones collapsed, prompting Sir Edmund Antrobus to commission restoration works. During hot summers, turf would peel back to reveal concrete boots into which the stones were set. Visitors are often told about Stonehenge as mankind's "first computer" - its standing stones and precise lintels line up with the heavens and solstice suns, suggesting sophisticated astronomical knowledge. This dual nature - an ancient astronomical calculator that underwent modern undocumented reconstruction - makes it a perfect metaphor for Brooks's chapter about documentation being "the other face" of software development.
+
+**Related links:**
+- [Stonehenge - Wikipedia](https://en.wikipedia.org/wiki/Stonehenge) - Comprehensive history and archaeology
+- [How They Rebuilt Stonehenge - UK Indymedia](https://www.indymedia.org.uk/en/2005/12/330623.html?c=on) - Documentation of 20th century restoration
+- [Restoring Stonehenge - The Past](https://the-past.com/feature/restoring-stonehenge-securing-a-neolithic-monument-over-120-years/) - Detailed history of restoration work
+
+---
+
+### Chapter 16: No Silver Bullet—Essence and Accident
+
+**Image file:** `chapters/19-chapter-16-no-silver-bullet-essence-and-accident-original-000.png`
+
+**Citation:**
+> There is no single development, in either technology or management technique, which by itself promises even one order-of-magnitude improvement within a decade in productivity, in reliability, in simplicity.
+>
+> The Werewolf of Eschenbach, Germany: line engraving, 1685.
+> Courtesy of The Grainger Collection, New York.
+
+**Description:** Opening illustration showing a dramatic 17th-century German line engraving depicting a werewolf. The woodcut-style image shows a fearsome werewolf figure in an interior setting with checkered floor tiles, capturing European folklore about supernatural creatures. The werewolf - a mythical monster that no silver bullet could kill according to legend - serves as the perfect visual metaphor for the chapter's argument that there is no single "silver bullet" solution that will magically solve the inherent difficulties of software engineering.
+
+**Historical context:** The Werewolf of Eschenbach is a German line engraving from 1685 that depicts werewolf folklore from 17th century Europe. Eschenbach is a town in Germany, and this engraving documents the widespread belief in lycanthropy during this period. According to some versions, the engraving shows the werewolf trapped in a well, with an effigy of the werewolf clothed as a man hanged nearby. Werewolf legends were particularly strong in Germanic regions during the 16th and 17th centuries, coinciding with witch hunts and trials. The folklore held that werewolves could only be killed by silver bullets - hence Brooks's chapter title "No Silver Bullet" arguing that no single magical solution exists for software's essential complexity. This historical engraving is now part of the Granger Historical Picture Archive and represents a fascinating document of European supernatural beliefs.
+
+**Related links:**
+- [Werewolf of Eschenbach - Granger Historical Picture Archive](https://www.granger.com/0061070-werewolf-1685-the-werewolf-of-eschenbach-germany-trapped-in-image.html) - Original source
+- [Werewolf of Eschenbach - Alamy](https://www.alamy.com/stock-photo-werewolf-1685-nthe-werewolf-of-eschenbach-germany-line-engraving-1685-95469616.html) - Historical stock image
+- [Lycanthropy - Wikipedia](https://en.wikipedia.org/wiki/Werewolf) - History of werewolf folklore
+
+---
+
+### Chapter 17: No Silver Bullet Refired
+
+**Image file:** `chapters/20-chapter-17-no-silver-bullet-refired-original-000.png`
+
+**Citation:**
+> Every bullet has its billet.
+> William III of England, Prince of Orange
+>
+> Whoever thinks a faultless piece to see, Thinks what never was, nor is, nor ever shall be.
+> Alexander Pope, An Essay on Criticism
+>
+> Assembling a structure from ready-made parts, 1945
+> The Bettman Archive
+
+**Description:** Opening illustration showing a person (likely a child or young person) enthusiastically assembling a construction from ready-made parts - possibly an Erector Set or similar mechanical building toy. The figure is shown working with metal beams, bolts, and structural components, building upward with visible excitement. This image illustrates the dream of building complex systems by simply assembling pre-fabricated components - an idea Brooks critiques in his discussion of whether reusable components can be the "silver bullet" for software engineering.
+
+**Historical context:** This 1945 photograph captures the post-war optimism about modular construction and standardized parts. The Erector Set, invented by A.C. Gilbert in 1913, became immensely popular and represented the industrial-age dream of building anything from standardized components. By 1945, such construction toys symbolized both the American can-do spirit and the engineering principles that had won World War II - standardization, mass production, and modular assembly. Brooks uses this image to examine the promise and limitations of component-based software development. While mechanical construction from standard parts works well because physical components have precise, predictable interfaces, software components face the challenge of conceptual complexity - the essence of software that no amount of standardization can eliminate. The image captures both the appeal and the oversimplification of the "building blocks" approach to complex systems.
+
+**Related links:**
+- [Erector Set - Wikipedia](https://en.wikipedia.org/wiki/Erector_Set) - History of the construction toy
+- [A.C. Gilbert - Wikipedia](https://en.wikipedia.org/wiki/A._C._Gilbert) - The inventor and his company
+- [Modular programming - Wikipedia](https://en.wikipedia.org/wiki/Modular_programming) - Software engineering concepts
+
+---
+
+### Chapter 18: Propositions of The Mythical Man-Month: True or False?
+
+**Image file:** `chapters/21-chapter-18-propositions-true-or-false-original-000.png`
+
+**Citation:**
+> For brevity is very good, Where we are, or are not understood.
+> Samuel Butler, Hudibras
+>
+> Brooks asserting a proposition, 1967
+> Photo by J. Alex Langley for Fortune Magazine
+
+**Description:** Opening illustration showing Fred Brooks himself in 1967, photographed while teaching or presenting. Brooks is shown in business attire (dark suit and tie), wearing glasses, with his hands raised in an expressive teaching gesture. Behind him on a blackboard are visible words including "Problems," "Teaching," "Computer aided instruction," and "content" - suggesting he's explaining concepts about computer-aided instruction. This personal photograph captures Brooks as an educator and thought leader, appropriate for a chapter where he revisits and evaluates his own earlier propositions.
+
+**Historical context:** This photograph was taken by J. Alex Langley for Fortune Magazine in 1967, during Brooks's early career. At this time, Brooks had recently left IBM (where he was the project manager for System/360 and manager of the Operating System/360 software project) and had founded the Computer Science Department at the University of North Carolina at Chapel Hill in 1964. The image shows him in his role as an academic and educator, exploring computer-aided instruction - a cutting-edge topic in the late 1960s. The photograph predates the publication of _The Mythical Man-Month_ (1975) by eight years, capturing Brooks as a young professor developing the ideas that would later become his influential book. This chapter, added in the 20th anniversary edition, shows Brooks courageously re-examining his own earlier assertions, demonstrating intellectual honesty by asking which of his propositions have stood the test of time.
+
+**Related links:**
+- [Fred Brooks - Wikipedia](https://en.wikipedia.org/wiki/Fred_Brooks) - Biography and career
+- [Fred Brooks - Computer Pioneers](https://history.computer.org/pioneers/brooks.html) - IEEE Computer Society biography
+- [UNC Computer Science History](https://www.cs.unc.edu/~brooks/) - Brooks's academic career
+
+---
+
+### Chapter 19: The Mythical Man-Month after 20 Years
+
+**Image file:** `chapters/22-chapter-19-after-20-years-original-000.png`
+
+**Citation:**
+> I know no way of judging the future but by the past.
+> Patrick Henry
+>
+> You can never plan the future by the past.
+> Edmund Burke
+>
+> Shooting the Rapids
+> The Bettman Archive
+
+**Description:** Opening illustration showing a dramatic scene of people in a canoe navigating dangerous river rapids. The engraving depicts the canoe tilted at a precarious angle as it plunges through turbulent white water, with trees and wilderness visible in the background. The image captures both the danger and excitement of shooting rapids - requiring skill, experience, quick decisions, and the ability to adapt to changing conditions, much like managing software projects over time.
+
+**Historical context:** "Shooting the Rapids" was a popular subject in 19th century adventure art and illustration, capturing the dramatic experience of navigating dangerous river rapids in canoes. This was a common and hazardous activity for explorers, fur traders, and prospectors in North America, particularly in Canada during the fur trade era and later during the Klondike Gold Rush. Notable artists who depicted this subject include Frances Anne Hopkins (who painted "Shooting the Rapids (Quebec)" in 1879 after travelling extensively by canoe along fur trading routes with her Hudson's Bay Company official husband), and Cornelius Krieghoff (mid-19th century). The theme represents the adventure, danger, and unpredictability of navigating wild rivers - an apt metaphor for Brooks's retrospective on how software project management has evolved over twenty years. Just as shooting rapids requires reading the water, making split-second decisions, and adapting to conditions, software management requires learning from experience while remaining flexible enough to adjust to new challenges.
+
+**Related links:**
+- [Shooting the Rapids by Frances Anne Hopkins](https://useum.org/artwork/Shooting-the-Rapids-Quebec-Frances-Anne-Hopkins-1879) - 1879 painting
+- [Shooting the Rapids - Cornelius Krieghoff](https://collections.gilcrease.org/object/011154) - Gilcrease Museum collection
+- [Klondike Gold Rush illustrations](https://www.istockphoto.com/vector/prospectors-shooting-the-rapids-on-the-way-to-the-klondike-gold-rush-19th-century-gm1372493456-441579420) - Historical context
+
+---
+
 ## References to Illustration in Meta-Content
 
 **Preface (First Edition):**
