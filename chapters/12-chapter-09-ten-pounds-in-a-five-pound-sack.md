@@ -56,8 +56,8 @@ Much more often, strategic breakthrough will come from redoing the representatio
 
 It is easy to multiply examples of the power of representations. I recall a young man undertaking to build an elaborate console interpreter for an IBM 650. He ended up packing it onto an incredibly small amount of space by building an interpreter for the interpreter, recognizing that human interactions are slow and infrequent, but space was dear. Digitek's elegant little Fortran compiler uses a very dense, specialized representation for the compiler code itself, so that external storage is not needed. That time lost in decoding this representation is gained back tenfold by avoiding input-output. (The exercises at the end of Chapter 6 in Brooks and Iverson, _Automatic Data Processing_[^1] include a collection of such examples, as do many of Knuth's exercises.[^2])
 
-[^1]: Brooks, F. P. and K. E. Iverson, *Automatic Data Processing, System/360 Edition*. New York: Wiley, 1969, Chapter 6.
+[^1]: Brooks, F. P. and K. E. Iverson, _Automatic Data Processing, System/360 Edition_. New York: Wiley, 1969, Chapter 6.
 
-[^2]: Knuth, D. E., *The Art of Computer Programming*, Vols. 1-3. Reading, Mass.: Addison-Wesley, 1968, ff.
+[^2]: Knuth, D. E., _The Art of Computer Programming_, Vols. 1-3. Reading, Mass.: Addison-Wesley, 1968, ff.
 
 The programmer at wit's end for lack of space can often do best by disentangling themselves from their code, rearing back, and contemplating their data. Representation is the essence of programming.

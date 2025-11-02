@@ -103,7 +103,7 @@ This differs from conventional scheduling in several important ways:
 
 In examining conventionally scheduled projects, I have found that few allowed one-half of the projected schedule for testing, but that most did indeed spend half of the actual schedule for that purpose. Many of these were on schedule until and except in system testing.[^2]
 
-[^2]: C. Portman of International Computers Limited says, "When everything has been seen to work, all integrated, you have four more months work to do." Several other sets of schedule divisions are given in Wolverton, R. W., "The cost of developing large-scale software," *IEEE Trans, on Computers*, C-23, 6 (June, 1974) pp. 615-636.
+[^2]: C. Portman of International Computers Limited says, "When everything has been seen to work, all integrated, you have four more months work to do." Several other sets of schedule divisions are given in Wolverton, R. W., "The cost of developing large-scale software," _IEEE Trans, on Computers_, C-23, 6 (June, 1974) pp. 615-636.
 
 Failure to allow enough time for system test, in particular, is peculiarly disastrous. Since the delay comes at the end of the schedule, no one is aware of schedule trouble until almost the delivery date. Bad news, late and without warning, is unsettling to customers and to managers.
 
@@ -127,7 +127,7 @@ What does one do when an essential software project is behind schedule? Add peop
 
 Let us consider an example.[^3] Suppose a task is estimated at 12 person-months and assigned to three people for four months, and that there are measurable mileposts A, B, C, D, which are scheduled to fall at the end of each month (Fig. 2.5).
 
-[^3]: Figures 2.5 through 2.8 are due to Jerry Ogdin, who in quoting my example from an earlier publication of this chapter much improved its illustration. Ogdin, J. L., "The Mongolian hordes versus superprogrammer," *Infosystems* (Dec., 1972), pp. 20-23.
+[^3]: Figures 2.5 through 2.8 are due to Jerry Ogdin, who in quoting my example from an earlier publication of this chapter much improved its illustration. Ogdin, J. L., "The Mongolian hordes versus superprogrammer," _Infosystems_ (Dec., 1972), pp. 20-23.
 
 Now suppose the first milepost is not reached until two months have elapsed (Fig. 2.6). What are the alternatives facing the manager?
 
