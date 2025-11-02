@@ -428,6 +428,90 @@ All figures should include:
 3. **Data tables**: For graphs, consider providing data in table format
 4. **High contrast**: Ensure visibility for low-vision readers
 
+## Opening Chapter Illustrations
+
+### Chapter 1: The Tar Pit
+
+**Image file:** `chapters/04-chapter-01-the-tar-pit-original-000.png`
+
+**Citation:**
+> C R. Knight, Mural of La Brea Tar Pits
+> The George C. Page Museum of La Brea Discoveries,
+> The Natural History Museum of Los Angeles County
+
+**Description:** Opening illustration showing prehistoric animals trapped in the La Brea Tar Pits, serving as a metaphor for software projects that become mired in complexity. This iconic mural was created by Charles R. Knight in 1925 for the Natural History Museum of Los Angeles County. The mural depicts scavengers descending to feast on the carcasses of megafauna entrapped in asphalt, including mammoths, saber-toothed cats, and dire wolves.
+
+**Historical context:** Knight's mural was considered highly accurate for its time and became hugely influential in shaping public understanding of prehistoric life at La Brea. The dramatic scene perfectly illustrates Brooks's metaphor of the "tar pit" that traps unwary software projects.
+
+**Related links:**
+- [Charles R. Knight - Wikipedia](https://en.wikipedia.org/wiki/Charles_R._Knight) - Biography of the renowned paleoartist (1874-1953)
+- [La Brea Tar Pits Paleoart](https://palaeo-electronica.org/content/2022/3524-la-brea-tar-pits-paleoart) - Academic article discussing Knight's 1925 mural and its influence
+- [La Brea Tar Pits and Museum](https://tarpits.org/) - Official museum website where the mural is housed
+- [Natural History Museum of Los Angeles County](https://nhm.org/la-brea-tar-pits) - Parent institution of the Page Museum
+
+---
+
+### Chapter 2: The Mythical Man-Month
+
+**Image file:** `chapters/05-chapter-02-the-mythical-man-month-original-000.png`
+
+**Citation:**
+> Good cooking takes time. If you are made to wait, it is to serve you better, and to please you.
+> Menu of Restaurant Antoine, New Orleans
+
+**Description:** Opening illustration showing a vintage menu from Restaurant Antoine in New Orleans, founded in 1840. The menu is printed in French and features classic French-Creole dishes including Oysters Rockefeller (invented at Antoine's), various tournedos, entrecôtes, and traditional New Orleans fare. The message at the top of the menu emphasizes that quality work takes time, perfectly illustrating the chapter's central theme that adding more workers to a late project makes it later.
+
+**Historical context:** Antoine's Restaurant was founded by Antoine Alciatore in 1840 and is the oldest family-run restaurant in the United States, having operated continuously for over 180 years through five generations. The restaurant is famous for creating Oysters Rockefeller and other iconic dishes. The philosophy expressed in the menu's opening quote - that good work cannot be rushed - directly parallels Brooks's argument about software development timelines.
+
+**Related links:**
+- [Antoine's Restaurant - Wikipedia](https://en.wikipedia.org/wiki/Antoine's) - History of America's oldest family-run restaurant
+- [Antoine's Official Website](https://antoines.com/) - The restaurant still operates at 713 St. Louis Street in New Orleans
+- [Antoine's Restaurant Collection - Historic New Orleans Collection](https://hnoc.org/research-collections/collection-highlights/the-antoines-restaurant-collection) - Archival materials documenting the restaurant's history
+- [Antoine's Restaurant - New Orleans Historical](https://neworleanshistorical.org/items/show/727) - Historical documentation of the restaurant
+
+---
+
+### Chapter 3: The Surgical Team
+
+**Image file:** `chapters/06-chapter-03-the-surgical-team-original-000.png`
+
+**Citation:**
+> UPI Photo/The Bettman Archive
+
+**Description:** Opening illustration showing a surgical team in an operating room, with multiple medical professionals surrounding a patient on an operating table. The photograph shows the hierarchical yet coordinated nature of a surgical team, with specialized roles for each team member. This image serves as the central metaphor for the chapter's proposal of organizing programming teams like surgical teams, with one chief surgeon (programmer) supported by specialized team members.
+
+**Historical context:** This photograph is from the United Press International (UPI) collection, which was acquired by the Bettmann Archive in 1984. The Bettmann Archive comprises more than 11 million negatives and prints spanning the 19th and 20th centuries, and is currently managed by Getty Images. The image likely dates from the 1960s-1970s based on the UPI Los Angeles collection that covered this period.
+
+**Related links:**
+- [Bettmann Archive - Wikipedia](https://en.wikipedia.org/wiki/Bettmann_Archive) - History of the extensive photographic archive
+- [Getty Images - Bettmann Archive](https://www.gettyimages.com/bettmann) - Current repository of the Bettmann collection
+- [UPI Photo Collection - Chapman University](https://www.chapman.edu/) - Houses over 48,000 UPI photos from the 1960s-1970s
+
+---
+
+### Chapter 4: Aristocracy, Democracy, and System Design
+
+**Image file:** `chapters/07-chapter-04-aristocracy-democracy-and-system-design-original-000.png`
+
+**Citation:**
+> This great church is an incomparable work of art. There is neither aridity nor confusion in the tenets it sets forth... It is the zenith of a style, the work of artists who had understood and assimilated all their predecessors' successes, in complete possession of the techniques of their times, but using them without indiscreet display nor gratuitous feats of skill.
+> It was Jean d'Orbais who undoubtedly conceived the general plan of the building, a plan which was respected, at least in its essential elements, by his successors. This is one of the reasons for the extreme coherence and unity of the edifice.
+> Reims Cathedral Guidebook
+> Photographies Emmanuel Boudot-Lamotte
+
+**Description:** Opening illustration showing the interior nave of Reims Cathedral in France, looking toward the altar with its magnificent rose windows visible. The soaring Gothic arches, perfectly aligned columns, and harmonious proportions exemplify the chapter's theme of conceptual integrity in system design. The photograph captures the coherent vision maintained across multiple architects who succeeded Jean d'Orbais.
+
+**Historical context:** Reims Cathedral (Cathédrale Notre-Dame de Reims) was begun in 1211 under Archbishop Aubry de Humbert with Jean d'Orbais as the first architect. The cathedral was the site of 25 coronations of French kings from 1223 to 1825. Despite having four different architects over its construction period, the cathedral maintains remarkable unity because each architect respected Jean d'Orbais's original design vision. The cathedral is famous for being the first to use bar tracery with rose windows (1211), which became a defining characteristic of Gothic architecture. The Grande Rose was built around 1280 AD and contains tens of thousands of glass pieces in 492 panels.
+
+**Related links:**
+- [Reims Cathedral - Wikipedia](https://en.wikipedia.org/wiki/Reims_Cathedral) - Comprehensive history and architectural details
+- [Jean d'Orbais - Wikipedia](https://en.wikipedia.org/wiki/Jean_d'Orbais) - Biography of the cathedral's first architect
+- [Reims Cathedral - Britannica](https://www.britannica.com/topic/Reims-Cathedral) - Overview of Gothic architecture and significance
+- [The Grande Rose of Reims Cathedral - Scientific Reports](https://www.nature.com/articles/s41598-019-39740-y) - Scientific study of the cathedral's rose window
+- [Explore Reims Cathedral - French Moments](https://frenchmoments.eu/reims-cathedral/) - Detailed guide to the cathedral's history and features
+
+---
+
 ## References to Illustration in Meta-Content
 
 **Preface (First Edition):**
