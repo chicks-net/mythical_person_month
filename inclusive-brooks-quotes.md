@@ -1,10 +1,44 @@
-# Inclusive Language Examples in Chapters 12-20
+# Inclusive Language Examples in Chapters 10-20
 
 This document catalogs examples where Fred Brooks already uses inclusive language naturally in the later chapters of _The Mythical Man-Month_.
 
 ## Singular "they/their" Pronouns
 
 Brooks consistently uses "they/their" to refer to individual professionals throughout these chapters.
+
+### Chapter 10: The Documentary Hypothesis
+
+**Lines 10:17-19:**
+> "To the new manager, fresh from operating as a craftsperson **themselves**, these seem an unmitigated nuisance, an unnecessary distraction, and a white tide that threatens to engulf **them**."
+
+**Lines 10:21-25:**
+> "Bit by bit, however, **they** come to realize that a certain small set of these documents embodies and expresses much of **their** managerial work. The preparation of each one serves as a major occasion for focusing thought and crystallizing discussions that otherwise would wander endlessly. Its maintenance becomes **their** surveillance and warning mechanism. The document itself serves as a checklist, a status control, and a database for **their** reporting."
+
+**Lines 10:107-108:**
+> "however, the manager is wise to begin immediately to formalize at least mini-documents to serve as **their** database. And **they** turn out to need documents much like those of other managers."
+
+**Lines 10:139-144:**
+> "Second, the documents will communicate the decisions to others. The manager will be continually amazed that policies **they** took for common knowledge are totally unknown by some member of **their** team. Since **their** fundamental job is to keep everybody going in the same direction, **their** chief daily task will be communication, not decision-making, and **their** documents will immensely lighten this load."
+
+**Lines 10:146-148:**
+> "Finally, a manager's documents give **them** a database and checklist. By reviewing **them** periodically **they** see where **they** are, and **they** see what changes of emphasis or shifts in direction are needed."
+
+**Lines 10:151-156:**
+> "I do not share the salesperson-projected vision of the 'management total-information system,' wherein the executive strokes an inquiry into a computer, and a display screen flashes **their** answer. There are many fundamental reasons why this will never happen. One reason is that only a small part—perhaps 20 percent—of the executive's time is spent on tasks where **they** need information from outside **their** head."
+
+**Lines 10:162-164:**
+> "If **their** comprehensive and critical nature is recognized in the beginning, the manager can approach them as friendly tools rather than annoying busywork. **They** will set **their** direction much more crisply and quickly by doing so."
+
+### Chapter 11: Plan to Throw One Away
+
+**Lines 11:104-108:**
+> "He observes that the reluctance to document designs is not due merely to laziness or time pressure. Instead it comes from the designer's reluctance to commit **themselves** to the defense of decisions which **they** know to be tentative. "By documenting a design, the designer exposes **themselves** to the criticisms of everyone, and **they** must be able to defend everything **they** write."
+
+**Lines 11:111-112:**
+> "Each **person** must be assigned to jobs that broaden **them**, so that the whole force is technically flexible."
+
+**Lines 11:172-173:**
+> "Second, the repairer is usually not the **person** who wrote the code, and often **they** are a junior programmer or trainee."
 
 ### Chapter 12: Sharp Tools
 
@@ -142,6 +176,8 @@ Brooks consistently uses "they/their" to refer to individual professionals throu
 
 Brooks consistently uses "person" as a gender-neutral noun and pairs it with "they/their" pronouns:
 
+- Chapter 11: "Each **person** must be assigned to jobs that broaden **them**"
+- Chapter 11: "the repairer is usually not the **person** who wrote the code, and often **they** are a junior programmer"
 - Chapter 12: "This **person** masters all the common tools... **They** also build..."
 - Chapter 13: "each **person** can work away on **their** component"
 - Chapter 14: "will a **person** lie... if the milestone is so sharp that **they** can't deceive **themselves**"
@@ -156,11 +192,13 @@ Brooks consistently uses "person" as a gender-neutral noun and pairs it with "th
 
 ## Role-Focused Language
 
-Throughout chapters 12-20, Brooks consistently refers to roles (programmer, manager, architect, designer, boss, user, developer) without adding gendered descriptors, showing focus on professional function rather than gender.
+Throughout chapters 10-20, Brooks consistently refers to roles (programmer, manager, architect, designer, boss, user, developer) without adding gendered descriptors, showing focus on professional function rather than gender.
+
+**Chapter 10** notably uses "**craftsperson**" (line 10:17) instead of the more common "craftsman," demonstrating Brooks's awareness of gender-neutral role terminology even in the original text.
 
 ## Key Observations
 
-1. **Chapters 12-14** are particularly rich in inclusive language examples, especially around management and team dynamics
+1. **Chapters 10-14** are particularly rich in inclusive language examples, especially around management and team dynamics
 2. Brooks uses **singular "they/their"** extensively and naturally—this wasn't standard practice in technical writing of the 1970s-90s
 3. He pairs **"person"** with **"they/their"** pronouns consistently
 4. When describing general principles, he often uses **plurals** or **role-based** terms to avoid pronoun issues entirely
