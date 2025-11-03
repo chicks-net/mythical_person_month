@@ -123,7 +123,7 @@ isn't hard to imagine that Brooks had evolved over the intervening decades.  It
 is harder to imagine what could have caused chapters 10-15 to have inclusive
 language, but hopefully further research will reveal some possibilities.
 
-## Process, Plan and Notes
+## Process and Notes
 
 [Our modernization analysis](Modernization_Analysis.md) is the core reason for
 this project and repo.  It details the concerns about word choices with
@@ -139,10 +139,16 @@ to improve the text:
 - [Phase 2f](phase2f.md) covers chapters 15-17 which had no issues
 - [Phase 2g](phase2g.md) covers chapters 18-20 which had no issues
 
+Then a series of pull requests, up to
+[#20](https://github.com/chicks-net/mythical_person_month/pull/20),
+implemented the language updates to address those concerns.
+
 ### Other Notes
 
 - [Figures and Visuals](Figures_and_Visuals.md) summarize the non-text
   elements of the book that we will find some way to handle.
+  [Issue #22](https://github.com/chicks-net/mythical_person_month/issues/22)
+  is tracking progress on that effort.
 - [Claude's guide for itself](CLAUDE.md) explains what's going on in this
   repo in more detail than I'm willing to put the effort into.
 
