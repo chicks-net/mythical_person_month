@@ -50,6 +50,22 @@ problematic phrasing.  Chapters 10-20 had no concerning language whatsoever,
 and [plenty of examples](inclusive-brooks-quotes.md) of the sort of language we
 were aiming for in this project.
 
+In **Chapter 10: The Documentary Hypothesis**
+
+> "To the new manager, fresh from operating as a **craftsperson themselves**,
+> these seem an unmitigated nuisance, an unnecessary distraction, and a white
+> tide that threatens to engulf **them**."
+
+In **Chapter 11: Plan to Throw One Away**
+
+> "Each **person** must be assigned to jobs that broaden **them**, so that the
+> whole force is technically flexible."
+
+and
+
+> "Second, the repairer is usually not the **person** who wrote the code, and
+> often **they** are a junior programmer or trainee."
+
 In **Chapter 12: Sharp Tools**
 
 > "This **person** masters all the common tools and is able to instruct
