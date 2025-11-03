@@ -15,7 +15,8 @@
       "Bash(markdownlint-cli2:*)",
       "Bash(identify:*)",
       "Bash(pdftotext:*)",
-      "Bash(just md2pdf:*)"
+      "Bash(just md2pdf:*)",
+      "Bash(pdfimages:*)"
     ],
     "deny": [],
     "ask": []
