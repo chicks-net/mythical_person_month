@@ -50,47 +50,47 @@ problematic phrasing.  Chapters 10-20 had no concerning language whatsoever,
 and [plenty of examples](inclusive-brooks-quotes.md) of the sort of language we
 were aiming for in this project.
 
-**Chapter 12: Sharp Tools**
+In **Chapter 12: Sharp Tools**
 
 > "This **person** masters all the common tools and is able to instruct
 > **their** client-boss in **their** use. **They** also build the specialized
 > tools **their** boss needs."
 
-**Chapter 13: The Whole and the Parts**
+In **Chapter 13: The Whole and the Parts**
 
 > "First, somebody must be in charge. **They** and **they** alone must
 > authorize component changes or substitution of one version for another."
 
-**Chapter 14: Hatching a Catastrophe**
+In **Chapter 14: Hatching a Catastrophe**
 
 > "The boss must first distinguish between action information and status
 > information. **They** must discipline **themselves** not to act on problems
 > **their** managers can solve, and never to act on problems when **they** are
 > explicitly reviewing status."
 
-**Chapter 15: The Other Face**
+In **Chapter 15: The Other Face**
 
 > "if **one** uses it selectively, **they** can ignore most of the bulk most of
 > the time. **One** must consider the OS/360 documentation as a library or an
 > encyclopedia, not a set of mandatory texts."
 
-**Chapter 16: No Silver Bullet**
+In **Chapter 16: No Silver Bullet**
 
 > "**Programmers** are among the most intelligent part of the population, so
 > **they** can learn good practice."
 
-**Chapter 17: No Silver Bullet Refired**
+In **Chapter 17: No Silver Bullet Refired**
 
 > "use the syntax (the external interfaces) and the semantics (the detailed
 > functional behavior) of its members if **they** are to achieve all of the
 > potential reuse."
 
-**Chapter 18: Propositions True or False**
+In **Chapter 18: Propositions True or False**
 
 > "A programmer will rarely lie about milestone progress, if the milestone is
 > so sharp **they** can't deceive **themselves**."
 
-**Chapter 19: After 20 Years**
+In **Chapter 19: After 20 Years**
 
 > "Novices will pull lots of menus; power users very few; and in-between users
 > will only occasionally need to pick from a menu, since each will know the few
