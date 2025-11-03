@@ -21,20 +21,87 @@ Harris, Biencowe, and Telem
 ([PMC5774006](https://pmc.ncbi.nlm.nih.gov/articles/PMC5774006/))
 state it well when they conclude:
 
-> Ultimately, in language, as in medicine, taking the position that our current approach is
-> justified because ‘it has always been our approach’ is not tenable. Much like the adoption of
-> any new technology or technique, evolving our terminology will almost certainly cause
-> growing pains. However, surgical workforce demographics have changed and are going to
-> keep changing. Thus, we must be rigorous in establishing a nomenclature that promotes not
-> only gender-inclusive language, but processes that represent the broad racial, social, and
-> sexual identities of our colleagues. In the end, achieving linguistic perfection may not be
-> possible, but we should strive for the same standards applied to all surgical trainees: make a
-> good faith effort, seek consultation when you are unsure, and admit humbly and openly
-> when you have erred. The onus is on all of us to challenge our biases and do better.
+> Ultimately, in language, as in medicine, taking the position that our current
+> approach is justified because ‘it has always been our approach’ is not
+> tenable. Much like the adoption of any new technology or technique, evolving
+> our terminology will almost certainly cause growing pains. However, surgical
+> workforce demographics have changed and are going to keep changing. Thus, we
+> must be rigorous in establishing a nomenclature that promotes not only
+> gender-inclusive language, but processes that represent the broad racial,
+> social, and sexual identities of our colleagues. In the end, achieving
+> linguistic perfection may not be possible, but we should strive for the same
+> standards applied to all surgical trainees: make a good faith effort, seek
+> consultation when you are unsure, and admit humbly and openly when you have
+> erred. The onus is on all of us to challenge our biases and do better.
 
 I could not agree more.  This advice applies just as well to surgeons,
 technologists, and any other profession you can imagine.  This repo is
 part of my effort to contribute to the "do better" side of the equation.
+
+### Brooks himself evolved
+
+We have not received any approval from Fred Brooks or his family for this
+project yet.
+
+One of our earliest observations while working on this project was that
+Brooks himself had evolved his use of languaged during the course of
+writing the book.  The earlier chapters were the sole place we found
+problematic phrasing.  Chapters 12-20 had no concerning language whatsoever,
+and [plenty of examples](inclusive-brooks-quotes.md) of the sort of language we
+were aiming for in this project.
+
+**Chapter 12: Sharp Tools**
+
+> "This **person** masters all the common tools and is able to instruct
+> **their** client-boss in **their** use. **They** also build the specialized
+> tools **their** boss needs."
+
+**Chapter 13: The Whole and the Parts**
+
+> "First, somebody must be in charge. **They** and **they** alone must
+> authorize component changes or substitution of one version for another."
+
+**Chapter 14: Hatching a Catastrophe**
+
+> "The boss must first distinguish between action information and status
+> information. **They** must discipline **themselves** not to act on problems
+> **their** managers can solve, and never to act on problems when **they** are
+> explicitly reviewing status."
+
+**Chapter 15: The Other Face**
+
+> "if **one** uses it selectively, **they** can ignore most of the bulk most of
+> the time. **One** must consider the OS/360 documentation as a library or an
+> encyclopedia, not a set of mandatory texts."
+
+**Chapter 16: No Silver Bullet**
+
+> "**Programmers** are among the most intelligent part of the population, so
+> **they** can learn good practice."
+
+**Chapter 17: No Silver Bullet Refired**
+
+> "use the syntax (the external interfaces) and the semantics (the detailed
+> functional behavior) of its members if **they** are to achieve all of the
+> potential reuse."
+
+**Chapter 18: Propositions True or False**
+
+> "A programmer will rarely lie about milestone progress, if the milestone is
+> so sharp **they** can't deceive **themselves**."
+
+**Chapter 19: After 20 Years**
+
+> "Novices will pull lots of menus; power users very few; and in-between users
+> will only occasionally need to pick from a menu, since each will know the few
+> short-cuts that make up most of **their** own operations."
+
+I'm not sure what changed between the earlier chapters with sexist language
+and the later chapters with consistently inclusive language, but it could not
+have happened without Brooks' awareness or consent.  We may never know what
+led to Fred's evolution or why the earlier chapters were not updated.  Until
+more evidence surfaces, we feel confidant that this project is done in the 
+spirit of the original author.
 
 ## Process, Plan and Notes
 
