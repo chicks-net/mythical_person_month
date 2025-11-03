@@ -46,7 +46,7 @@ project yet.
 One of our earliest observations while working on this project was that
 Brooks himself had evolved his use of languaged during the course of
 writing the book.  The earlier chapters were the sole place we found
-problematic phrasing.  Chapters 12-20 had no concerning language whatsoever,
+problematic phrasing.  Chapters 10-20 had no concerning language whatsoever,
 and [plenty of examples](inclusive-brooks-quotes.md) of the sort of language we
 were aiming for in this project.
 
@@ -96,12 +96,16 @@ were aiming for in this project.
 > will only occasionally need to pick from a menu, since each will know the few
 > short-cuts that make up most of **their** own operations."
 
-I'm not sure what changed between the earlier chapters with sexist language
-and the later chapters with consistently inclusive language, but it could not
-have happened without Brooks' awareness or consent.  We may never know what
-led to Fred's evolution or why the earlier chapters were not updated.  Until
-more evidence surfaces, we feel confidant that this project is done in the 
-spirit of the original author.
+The shift from earlier chapters with gendered language to later chapters with
+consistently inclusive language could not have happened without Brooks'
+awareness or consent.  We may never know what led to Fred's evolution or why
+the earlier chapters were not updated.  Until more evidence surfaces, we feel
+confidant that this project is done in the spirit of the original author.
+
+Chapters 16-19 were written for the 1995 Anniversary Edition of the book, so it
+isn't hard to imagine that Brooks had evolved over the intervening decades.  It
+is harder to imagine what could have caused chapters 10-15 to have inclusive
+language, but hopefully further research will reveal some possibilities.
 
 ## Process, Plan and Notes
 
