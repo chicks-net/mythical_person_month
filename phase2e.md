@@ -1,5 +1,7 @@
 # Phase 2e: Generic Pronoun Modernization
 
+TODO: update based on original texts
+
 **Chapters:** 12 (Sharp Tools), 13 (The Whole and the Parts), and 14 (Hatching a Catastrophe)
 
 **Date:** 2025-10-27

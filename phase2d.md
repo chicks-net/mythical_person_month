@@ -1,5 +1,7 @@
 # Phase 2d: Generic Pronoun Modernization
 
+TODO: update based on original texts
+
 **Chapters:** 9 (Ten Pounds in a Five-Pound Sack), 10 (The Documentary Hypothesis), and 11 (Plan to Throw One Away)
 
 **Date:** 2025-10-27

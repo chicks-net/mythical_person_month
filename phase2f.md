@@ -1,5 +1,7 @@
 # Phase 2f: Generic Pronoun Modernization
 
+TODO: update based on original texts
+
 **Chapters:** 15 (The Other Face), 16 (No Silver Bullet—Essence and Accident), and 17 ("No Silver Bullet" Refired)
 
 **Date:** 2025-10-27
