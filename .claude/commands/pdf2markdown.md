@@ -9,4 +9,7 @@ Follow these steps:
 5. Run `markdownlint-cli2` to check compliance
 6. Fix any linting errors
 
+Maintain the original language.  Don't try to get ahead of the updates.  We need
+to have the original language for accurate comparisons.
+
 Ensure the output passes all markdownlint checks.
