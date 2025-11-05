@@ -1,430 +1,428 @@
 # Phase 2d: Generic Pronoun Modernization
 
-TODO: update based on original texts
-
 **Chapters:** 9 (Ten Pounds in a Five-Pound Sack), 10 (The Documentary Hypothesis), and 11 (Plan to Throw One Away)
 
-**Date:** 2025-10-27
+**Date:** 2025-11-05 (Updated with original text analysis)
 
-**Status:** Ready for implementation
+**Status:** 🔄 Needs implementation - 35 instances identified
 
 ## Overview
 
-This document provides a detailed task list for Phase 2 modernization of chapters 9, 10, and 11, focusing on replacing generic masculine pronouns with inclusive alternatives.
+This phase addresses the modernization of chapters 9, 10, and 11 from their original text. Analysis of the **original files** reveals approximately **35 instances** of gendered pronouns requiring modernization in Chapters 10 and 11.
 
-**Important discovery:** Chapters 10 and 11 have already been comprehensively modernized with gender-neutral pronouns. Only Chapter 9 requires attention.
+**Important discovery:** Chapter 9 has already been comprehensively modernized with gender-neutral pronouns and has no original source file. Only Chapters 10 and 11 require attention.
+
+**Note:** Modernized versions of Chapters 10 and 11 already exist and can serve as reference for the modernization approach.
+
+## Instance Summary
+
+| Chapter | File | Instances | Primary Issues |
+|---------|------|-----------|----------------|
+| 9 | 12-chapter-09-ten-pounds-in-a-five-pound-sack.md | 0 | Already modernized ✅ |
+| 10 | 13-chapter-10-the-documentary-hypothesis-original.md | 21 | Generic he/his, "craftsman", "salesman" |
+| 11 | 14-chapter-11-plan-to-throw-one-away-original.md | 14 | Generic he/his, "man/men" in compounds |
+| **Total** | **2 files needing work** | **35** | **Generic pronouns, compound terms** |
 
 ## Chapter 9: Ten Pounds in a Five-Pound Sack
 
 **File:** `chapters/12-chapter-09-ten-pounds-in-a-five-pound-sack.md`
 
-**Total instances:** 9 generic pronoun uses requiring attention (across 7 sentences)
-
-### Instance 1: System designer resource allocation (two pronouns)
-
-**Line:** 13
-
-**Current text:**
-
-```markdown
-The system designer puts part of his total hardware resource into resident-program memory when he thinks it will do more for the user in that form
-```
-
-**Context:** Generic system designer making resource allocation decisions
-
-**Recommended strategy:** Singular they (both instances)
-
-**Suggested replacement:**
-
-```markdown
-The system designer puts part of their total hardware resource into resident-program memory when they think it will do more for the user in that form
-```
-
-**Alternative (plural reframing):**
-
-```markdown
-System designers put part of their total hardware resources into resident-program memory when they think it will do more for the user in that form
-```
-
----
-
-### Instance 2: Manager saving kitty (reflexive pronoun)
-
-**Line:** 19
-
-**Current text:**
-
-```markdown
-The wise manager also saves himself a kitty, to be allocated as work proceeds.
-```
-
-**Context:** Generic manager setting aside resources
-
-**Recommended strategy:** Singular they (reflexive)
-
-**Suggested replacement:**
-
-```markdown
-The wise manager also saves themselves a kitty, to be allocated as work proceeds.
-```
-
-**Alternative (remove reflexive):**
-
-```markdown
-The wise manager also saves a kitty, to be allocated as work proceeds.
-```
-
----
-
-### Instance 3: Programmer overlaying code (four pronouns/terms)
-
-**Line:** 25
-
-**Current text:**
-
-```markdown
-As anyone with 20-20 hindsight would expect, a programmer who found his program slopping over his core target broke it into overlays. This process in itself added to the total size and slowed execution down. Most seriously, our management control system neither measured nor caught this. Each man reported as to how much core he was using, and since he was within target, no one worried.
-```
-
-**Context:** Generic programmer dealing with memory constraints, then team members reporting on resource usage
-
-**Recommended strategy:** Singular they for all instances, "person" for "man"
-
-**Suggested replacement:**
-
-```markdown
-As anyone with 20-20 hindsight would expect, a programmer who found their program slopping over their core target broke it into overlays. This process in itself added to the total size and slowed execution down. Most seriously, our management control system neither measured nor caught this. Each person reported as to how much core they were using, and since they were within target, no one worried.
-```
-
-**Changes made:**
-
-- "his program" → "their program"
-- "his core target" → "their core target"
-- "Each man" → "Each person"
-- "he was using" → "they were using"
-
-**Alternative (avoid repetition with noun):**
-
-```markdown
-As anyone with 20-20 hindsight would expect, a programmer whose program was slopping over the core target broke it into overlays.
-```
-
----
-
-### Instance 4: Programmer examining code (two pronouns)
-
-**Line:** 31
-
-**Current text:**
-
-```markdown
-As a result, any programmer in size trouble examined his code to see what he could throw over the fence into a neighbor's space.
-```
-
-**Context:** Generic programmer optimizing within constraints
-
-**Recommended strategy:** Singular they (both instances)
-
-**Suggested replacement:**
-
-```markdown
-As a result, any programmer in size trouble examined their code to see what they could throw over the fence into a neighbor's space.
-```
-
----
-
-### Instance 5: Team member suboptimization (two pronouns)
-
-**Line:** 35
-
-**Current text:**
-
-```markdown
-Each suboptimized his piece to meet his targets; few stopped to think about the total effect on the customer.
-```
-
-**Context:** Team members individually optimizing their work without considering the whole system
-
-**Recommended strategy:** Singular they (both instances)
-
-**Suggested replacement:**
-
-```markdown
-Each suboptimized their piece to meet their targets; few stopped to think about the total effect on the customer.
-```
-
----
-
-### Instance 6: Manager helping team
-
-**Line:** 47
-
-**Current text:**
-
-```markdown
-The manager can do two things to help his team make good space-time trade-offs.
-```
-
-**Context:** Generic manager supporting their team
-
-**Recommended strategy:** Singular they
-
-**Suggested replacement:**
-
-```markdown
-The manager can do two things to help their team make good space-time trade-offs.
-```
-
----
-
-### Instance 7: Programmer contemplating data (two pronouns)
-
-**Line:** 63
-
-**Current text:**
-
-```markdown
-The programmer at wit's end for lack of space can often do best by disentangling himself from his code, rearing back, and contemplating his data.
-```
-
-**Context:** Generic programmer needing to step back and reconsider their approach
-
-**Recommended strategy:** Singular they (all three instances)
-
-**Suggested replacement:**
-
-```markdown
-The programmer at wit's end for lack of space can often do best by disentangling themselves from their code, rearing back, and contemplating their data.
-```
-
-**Note:** This sentence actually has **three** pronouns that need updating: "himself" and "his" (twice).
-
----
-
-## Chapter 10: The Documentary Hypothesis
-
-**File:** `chapters/13-chapter-10-the-documentary-hypothesis.md`
-
-**Status:** ✅ Already modernized
+**Status:** ✅ Already modernized - no original source file exists
 
 **Total instances:** 0 requiring attention
 
 ### Analysis
 
-This chapter has already been comprehensively modernized with gender-neutral pronouns throughout:
+This chapter has already been comprehensively modernized with gender-neutral pronouns throughout. There is no `-original.md` file for this chapter, suggesting it was modernized early in the conversion process.
 
-- Line 17: "a craftsperson themselves" (modernized from "craftsman himself")
-- Lines 21-25: Consistent use of "they/their" for "the manager"
-- Lines 139-164: Extensive use of "they/their" throughout the manager discussion
-- Line 150: "salesperson-projected" (modernized from "salesman")
+**Examples of excellent modernization in the current file:**
 
-**One note:** Line 78 contains "his inertia" referring to "the best engineering manager I ever saw" - this appears to reference a specific individual known to the author, not a generic role, so it may be acceptable to preserve. However, for consistency, could be changed to "their inertia."
-
-### Potential optional change
-
-**Line:** 78
-
-**Current text:**
+#### Line 13
 
 ```markdown
-On another project the best engineering manager I ever saw served often as a giant flywheel, his inertia damping the fluctuations that came from market and management people.
+The system designer puts part of their total hardware resource into resident-program memory when they think it will do more for the user in that form
 ```
 
-**Context:** Specific individual the author worked with
-
-**Note:** This could refer to a specific person (thus properly masculine) or could be modernized for consistency
-
-**Optional replacement (for consistency):**
+#### Line 19
 
 ```markdown
-On another project the best engineering manager I ever saw served often as a giant flywheel, their inertia damping the fluctuations that came from market and management people.
+The wise manager also saves themselves a kitty, to be allocated as work proceeds.
 ```
 
-**Recommendation:** Review whether this refers to a specific known individual. If so, may be acceptable to preserve. If the author intends this as a generic example, modernize for consistency.
+#### Line 25
+
+```markdown
+As anyone with 20-20 hindsight would expect, a programmer who found their program slopping over their core target broke it into overlays... Each person reported as to how much core they were using, and since they were within target, no one worried.
+```
+
+#### Line 31
+
+```markdown
+As a result, any programmer in size trouble examined their code to see what they could throw over the fence into a neighbor's space.
+```
+
+#### Line 35
+
+```markdown
+Each suboptimized their piece to meet their targets; few stopped to think about the total effect on the customer.
+```
+
+#### Line 47
+
+```markdown
+The manager can do two things to help their team make good space-time trade-offs.
+```
+
+#### Line 63
+
+```markdown
+The programmer at wit's end for lack of space can often do best by disentangling themselves from their code, rearing back, and contemplating their data.
+```
+
+This chapter demonstrates excellent use of singular "they/their/them" and serves as a model for the target modernization style.
+
+---
+
+## Chapter 10: The Documentary Hypothesis
+
+**File:** `chapters/13-chapter-10-the-documentary-hypothesis-original.md`
+
+**Status:** 🔄 Needs modernization
+
+**Total instances:** 21 instances requiring attention
+
+### Analysis of Chapter 10 (Original Text)
+
+This chapter contains extensive discussion of management roles with consistent use of masculine pronouns, plus two occupational compound terms ("craftsman" and "salesman").
+
+#### Key Instances Found (Chapter 10)
+
+##### Lines 16-19: New manager introduction
+
+```markdown
+Original: "To the new manager, fresh from operating as a craftsman himself, these seem an unmitigated nuisance, an unnecessary distraction, and a white tide that threatens to engulf him."
+Suggested: "To the new manager, fresh from operating as a craftsperson themselves, these seem an unmitigated nuisance, an unnecessary distraction, and a white tide that threatens to engulf them."
+```
+
+##### Lines 21-26: Manager's realization
+
+```markdown
+Original: "Bit by bit, however, he comes to realize that a certain small set of these documents embodies and expresses much of his managerial work. The preparation of each one serves as a major occasion for focusing thought and crystallizing discussions that otherwise would wander endlessly. Its maintenance becomes his surveillance and warning mechanism. The document itself serves as a checklist, a status control, and a data base for his reporting."
+Suggested: "Bit by bit, however, they come to realize that a certain small set of these documents embodies and expresses much of their managerial work. The preparation of each one serves as a major occasion for focusing thought and crystallizing discussions that otherwise would wander endlessly. Its maintenance becomes their surveillance and warning mechanism. The document itself serves as a checklist, a status control, and a data base for their reporting."
+```
+
+##### Line 73: Engineering manager reference (specific individual)
+
+```markdown
+Original: "On another project the best engineering manager I ever saw served often as a giant flywheel, his inertia damping the fluctuations that came from market and management people."
+Suggested: "On another project the best engineering manager I ever saw served often as a giant flywheel, their inertia damping the fluctuations that came from market and management people."
+Note: This refers to a specific person the author knew, but modernizing for consistency is appropriate.
+```
+
+##### Line 102: Software project manager
+
+```markdown
+Original: "No matter how small the project, however, the manager is wise to begin immediately to formalize at least mini-documents to serve as his data base. And he turns out to need documents much like those of other managers."
+Suggested: "No matter how small the project, however, the manager is wise to begin immediately to formalize at least mini-documents to serve as their data base. And they turn out to need documents much like those of other managers."
+```
+
+##### Lines 135-140: Manager communication
+
+```markdown
+Original: "Second, the documents will communicate the decisions to others. The manager will be continually amazed that policies he took for common knowledge are totally unknown by some member of his team. Since his fundamental job is to keep everybody going in the same direction, his chief daily task will be communication, not decision-making, and his documents will immensely lighten this load."
+Suggested: "Second, the documents will communicate the decisions to others. The manager will be continually amazed that policies they took for common knowledge are totally unknown by some member of their team. Since their fundamental job is to keep everybody going in the same direction, their chief daily task will be communication, not decision-making, and their documents will immensely lighten this load."
+```
+
+##### Lines 142-144: Manager's document base
+
+```markdown
+Original: "Finally, a manager's documents give him a data base and checklist. By reviewing them periodically he sees where he is, and he sees what changes of emphasis or shifts in direction are needed."
+Suggested: "Finally, a manager's documents give them a data base and checklist. By reviewing them periodically they see where they are, and they see what changes of emphasis or shifts in direction are needed."
+```
+
+##### Line 146: "Salesman-projected" compound term
+
+```markdown
+Original: "I do not share the salesman-projected vision of the 'management total-information system'"
+Suggested: "I do not share the salesperson-projected vision of the 'management total-information system'"
+```
+
+##### Lines 150-152: Executive information needs
+
+```markdown
+Original: "One reason is that only a small part—perhaps 20 percent—of the executive's time is spent on tasks where he needs information from outside his head."
+Suggested: "One reason is that only a small part—perhaps 20 percent—of the executive's time is spent on tasks where they need information from outside their head."
+```
+
+##### Lines 159-160: Manager's approach
+
+```markdown
+Original: "If their comprehensive and critical nature is recognized in the beginning, the manager can approach them as friendly tools rather than annoying busywork. He will set his direction much more crisply and quickly by doing so."
+Suggested: "If their comprehensive and critical nature is recognized in the beginning, the manager can approach them as friendly tools rather than annoying busywork. They will set their direction much more crisply and quickly by doing so."
+```
 
 ---
 
 ## Chapter 11: Plan to Throw One Away
 
-**File:** `chapters/14-chapter-11-plan-to-throw-one-away.md`
+**File:** `chapters/14-chapter-11-plan-to-throw-one-away-original.md`
 
-**Status:** ✅ Already modernized
+**Status:** 🔄 Needs modernization
 
-**Total instances:** 0 requiring attention
+**Total instances:** 14 instances requiring attention
 
-### Analysis of Chapter 11
+### Analysis of Chapter 11 (Original Text)
 
-This chapter has also been comprehensively modernized with gender-neutral pronouns throughout:
+This chapter discusses change management and system evolution, with numerous generic pronoun references to designers, managers, and team members, plus compound terms with "man".
 
-- Lines 104-108: "the designer... themselves... they" (complete modernization of designer role)
-- Line 172: "the repairer... they" (complete modernization of repairer role)
-- Throughout: Consistent use of singular "they" for all generic roles
+#### Key Instances Found (Chapter 11)
 
-**No changes needed** - this chapter serves as an excellent example of the target modernization style.
+##### Line 81: Learning and changing design
+
+```markdown
+Original: "The throw-one-away concept is itself just an acceptance of the fact that as one learns, he changes the design."
+Suggested: "The throw-one-away concept is itself just an acceptance of the fact that as one learns, they change the design."
+```
+
+##### Lines 106-111: Designer reluctance to document
+
+```markdown
+Original: "He observes that the reluctance to document designs is not due merely to laziness or time pressure. Instead it comes from the designer's reluctance to commit himself to the defense of decisions which he knows to be tentative. 'By documenting a design, the designer exposes himself to the criticisms of everyone, and he must be able to defend everything he writes.'"
+Suggested: "Cosgrove observes that the reluctance to document designs is not due merely to laziness or time pressure. Instead it comes from the designer's reluctance to commit themselves to the defense of decisions which they know to be tentative. 'By documenting a design, the designer exposes themselves to the criticisms of everyone, and they must be able to defend everything they write.'"
+```
+
+##### Line 114: "Each man" compound
+
+```markdown
+Original: "Each man must be assigned to jobs that broaden him"
+Suggested: "Each person must be assigned to jobs that broaden them"
+```
+
+##### Lines 121-122: Manager attention to personnel
+
+```markdown
+Original: "This means that the boss must give a great deal of attention to keeping his managers and his technical people as interchangeable as their talents allow."
+Suggested: "This means that the boss must give a great deal of attention to keeping their managers and their technical people as interchangeable as their talents allow."
+```
+
+##### Lines 138-141: Manager participation
+
+```markdown
+Original: "The manager must audaciously set the standard by personally participating in the work of one or another team, especially when the team is in trouble. He must be able to do it for real, and not just as a gesture."
+Suggested: "The manager must audaciously set the standard by personally participating in the work of one or another team, especially when the team is in trouble. They must be able to do it for real, and not just as a gesture."
+```
+
+##### Line 162: "Man-years" compound
+
+```markdown
+Original: "First the number of copies installed increases the supply of man-years available for finding solid bugs"
+Suggested: "First the number of copies installed increases the supply of person-years available for finding solid bugs"
+```
+
+##### Line 176: "The man who wrote the code" and "the repairer"
+
+```markdown
+Original: "Second, the repairer is usually not the man who wrote the code, and often he is a junior programmer or trainee."
+Suggested: "Second, the repairer is usually not the person who wrote the code, and often they are a junior programmer or trainee."
+```
 
 ---
 
-## Implementation Checklist
+## Summary
 
-### Pre-implementation
+### Modernization Status by Chapter
 
-- [ ] Create feature branch: `just branch modernize-ch9-ch10-ch11-pronouns`
-- [ ] Review suggested replacements for Chapter 9
-- [ ] Decide whether to modernize Chapter 10, line 78 (specific vs. generic individual)
+| Chapter | Title | Status | Instances | Priority |
+|---------|-------|--------|-----------|----------|
+| 9 | Ten Pounds in a Five-Pound Sack | ✅ Complete | 0 | N/A |
+| 10 | The Documentary Hypothesis | 🔄 Needs work | 21 | High |
+| 11 | Plan to Throw One Away | 🔄 Needs work | 14 | High |
+| **Total** | **2 chapters need work** | **35 instances** | | |
 
-### Chapter 9 Implementation
+### Implementation Checklist
 
-- [ ] Instance 1: Line 13 - system designer (singular they, two pronouns)
-- [ ] Instance 2: Line 19 - manager saving kitty (singular they reflexive)
-- [ ] Instance 3: Line 25 - programmer overlaying + team reporting (four pronouns/terms)
-- [ ] Instance 4: Line 31 - programmer examining code (singular they, two pronouns)
-- [ ] Instance 5: Line 35 - team member suboptimization (singular they, two pronouns)
-- [ ] Instance 6: Line 47 - manager helping team (singular they)
-- [ ] Instance 7: Line 63 - programmer contemplating data (singular they, three pronouns)
-- [ ] Read full chapter aloud to check flow
-- [ ] Verify markdown formatting with `markdownlint-cli2`
+**Chapter 9: No work needed** ✅
 
-### Chapter 10 Review
+#### Chapter 10: 21 instances to modernize (~1.5 hours)
 
-- [ ] Confirm chapter is already modernized
-- [ ] Review line 78 and decide on specific vs. generic treatment
-- [ ] No other changes needed
+- [ ] Lines 16-19: "craftsman himself" → "craftsperson themselves", "engulf him" → "engulf them"
+- [ ] Lines 21-26: Multiple manager pronouns (he/his throughout)
+- [ ] Line 73: Engineering manager "his inertia" → "their inertia"
+- [ ] Line 102: Manager data base references
+- [ ] Lines 135-140: Manager communication passage (extensive pronouns)
+- [ ] Lines 142-144: Manager's document base
+- [ ] Line 146: "salesman-projected" → "salesperson-projected"
+- [ ] Lines 150-152: Executive information needs
+- [ ] Lines 159-160: Manager's approach to documents
 
-### Chapter 11 Review
+#### Chapter 11: 14 instances to modernize (~1 hour)
 
-- [ ] Confirm chapter is already modernized
-- [ ] No changes needed
+- [ ] Line 81: "as one learns, he changes" → "as one learns, they change"
+- [ ] Lines 106-111: Designer reluctance passage (multiple pronouns)
+- [ ] Line 114: "Each man must be assigned" → "Each person must be assigned"
+- [ ] Lines 121-122: Boss's attention to personnel
+- [ ] Lines 138-141: Manager participation
+- [ ] Line 162: "man-years" → "person-years"
+- [ ] Line 176: "the man who wrote" → "the person who wrote", "often he is" → "often they are"
 
-### Post-implementation
-
-- [ ] Run `markdownlint-cli2 chapters/12-chapter-09-ten-pounds-in-a-five-pound-sack.md`
-- [ ] Search for any remaining instances: `grep -n '\bhe\b|\bhis\b|\bhim\b' chapters/12-*.md`
-- [ ] Commit changes with descriptive message
-- [ ] Create PR: `just pr`
-- [ ] Request review from fresh eyes
-
----
-
-## Quality Assurance
-
-### Validation Criteria
-
-For each change, verify:
-
-1. **Meaning preserved:** Does the new text convey the same technical/conceptual meaning?
-2. **Natural flow:** Does it read smoothly and naturally?
-3. **Brooks's voice:** Is the authorial voice and style maintained?
-4. **Consistency:** Are similar constructions handled similarly throughout?
-5. **Grammar:** Is the new construction grammatically correct?
-
-### Common Pitfalls to Avoid
-
-- **Awkward repetition:** Don't repeat role nouns too frequently in a single paragraph
-- **Forced plural:** Don't pluralize where singular makes more conceptual sense
-- **Lost emphasis:** Maintain Brooks's rhetorical emphasis and rhythm
+#### Estimated total effort: ~2.5 hours
 
 ---
 
-## Notes
+## Implications for Project
 
-### Chapters 10 and 11: Already Modernized
+### Pattern Recognition
 
-**Significant finding:** Two of the three chapters in this phase have already undergone comprehensive pronoun modernization. This suggests:
+Phase 2d reveals a **critical discovery** about the project's modernization status:
 
-1. **Partial previous work:** Someone has already modernized portions of this text
-2. **Inconsistent coverage:** Not all chapters received the same treatment
-3. **Quality model:** These chapters demonstrate the target style and can serve as examples
+**Previous understanding (INCORRECT):**
 
-**Examples of good modernization from Chapter 10:**
+- Phase2d document stated Chapter 9 needed work
+- Chapters 10-11 were marked as already modernized
 
-```markdown
-To the new manager, fresh from operating as a craftsperson themselves, these seem an unmitigated nuisance
-```
+**Actual status (CORRECT):**
 
-```markdown
-The manager will be continually amazed that policies they took for common knowledge are totally unknown by some member of their team.
-```
+- **Chapter 9:** Already modernized ✅ (no original file exists)
+- **Chapters 10-11:** Both need substantial work (35 instances total)
 
-**Examples of good modernization from Chapter 11:**
+This is the **opposite** of what the previous phase2d.md document stated.
 
-```markdown
-By documenting a design, the designer exposes themselves to the criticisms of everyone, and they must be able to defend everything they write.
-```
+### Special Characteristics of These Chapters
 
-These demonstrate natural, fluent use of singular "they" that preserves Brooks's voice while updating the language.
+#### Special Characteristics: Chapter 9
 
-### Workload Implications
+- Already comprehensively modernized
+- No `-original.md` file exists
+- Serves as an excellent example of target style
+- Demonstrates fluent use of singular they/their/them throughout
 
-This phase is significantly lighter than previous phases:
+#### Special Characteristics: Chapter 10
 
-- **Phase 2a** (Ch 1-2): 11 instances, ~2 hours
-- **Phase 2b** (Ch 3-5): 51+ instances, ~5.5 hours
-- **Phase 2c** (Ch 6-8): 30+ instances, ~4 hours
-- **Phase 2d** (Ch 9-11): 9 instances (7 sentences), ~1 hour (plus optional review)
+- Focus on management documentation and communication
+- High instance count (21) due to extensive manager role discussion
+- Includes compound terms: "craftsman" → "craftsperson", "salesman" → "salesperson"
+- One reference to specific individual (line 73) - should be modernized for consistency
 
-### Consistency Check for Future Phases
+#### Special Characteristics: Chapter 11
 
-Given that two chapters here have already been modernized, we should:
+- Discusses change management and system evolution
+- Moderate instance count (14)
+- Includes "man-years" compound term
+- Designer/manager/repairer role discussions
 
-1. **Check remaining chapters** for similar partial modernization
-2. **Document which chapters need work** to avoid duplicate effort
-3. **Learn from the modernized chapters** to ensure consistent style
+### Updated Work Estimates
 
-A quick scan of the remaining chapters would help identify which have already been done.
+**Actual findings through Phase 2d (Chapters 1-11) based on original texts:**
+
+| Phase | Chapters | Instances Needing Work | Already Modernized |
+|-------|----------|------------------------|---------------------|
+| 2a | 1-2 | ~15-20 (TBD) | No |
+| 2b | 3-5 | ~40-50 (TBD) | No |
+| 2c | 6-8 | ~30-40 (TBD) | No |
+| 2d | 9-11 | **35 (Chs 10-11)** | **Ch 9 ✅** |
+| 2e | 12-14 | **64 (all chapters)** | No |
+| **Total** | **Chapters 1-14** | **~184-214** | **Only 1 of 14 chapters** |
+
+**CRITICAL CORRECTION:** Previous phase2d.md document incorrectly stated that Chapters 10-11 were already modernized. Analysis of original texts reveals this is **completely backwards**—Chapter 9 is modernized, but Chapters 10-11 both require substantial work.
+
+### Recommendations
+
+1. **Implement Phase 2d:** Modernize Chapters 10-11 (35 instances, ~2.5 hours)
+2. **Learn from Chapter 9:** Use the already-modernized Chapter 9 as a style reference
+3. **Reference modernized versions:** Compare against existing modernized files for Chapters 10-11
+4. **Verify all previous analysis:** Phase documents should be verified against original texts before implementation
+
+---
+
+## Next Steps
+
+### Immediate Actions
+
+1. **Begin Phase 2d implementation:** Start with Chapter 10 (higher count), then Chapter 11
+2. **Reference existing modernized files:**
+   - `chapters/12-chapter-09-ten-pounds-in-a-five-pound-sack.md` (already modernized - use as style reference)
+   - `chapters/13-chapter-10-the-documentary-hypothesis.md` (modernized version exists)
+   - `chapters/14-chapter-11-plan-to-throw-one-away.md` (modernized version exists)
+3. **Quality check:** Ensure consistency with Chapter 9's excellent modernization style
+
+### Suggested Implementation Order
+
+**Priority order based on instance count:**
+
+1. **Chapter 10 (21 instances)** - Extensive manager role discussion
+2. **Chapter 11 (14 instances)** - Designer/repairer roles
+
+**Alternative order (sequential):**
+
+- Chapters 10 → 11 (natural reading order)
 
 ---
 
 ## Estimated Effort
 
-- **Review and decision on alternatives:** 15 minutes
-- **Implementation (editing Chapter 9):** 20 minutes
-- **Review of Chapter 10, line 78:** 5 minutes
-- **Quality check (read-through, linting):** 15 minutes
-- **Total:** ~1 hour (significantly less than previous phases)
+**For Phase 2d implementation:** ~2.5 hours (35 instances across 2 chapters)
+
+### Breakdown by Chapter
+
+- **Chapter 9:** 0 hours (already complete) ✅
+- **Chapter 10:** ~1.5 hours (21 instances)
+- **Chapter 11:** ~1 hour (14 instances)
+
+**For overall Phase 2 project (revised estimate):**
+
+- Chapters 1-8: ~11.5 hours (estimated from previous analysis, needs verification)
+- Chapter 9: 0 hours (already complete) ✅
+- **Chapters 10-11: ~2.5 hours (this phase)**
+- Chapters 12-14: ~4.25 hours (see phase2e.md)
+- Chapters 15-19: TBD (see phase2f.md)
+- **Current known scope:** ~18.25+ hours
+
+---
+
+## Quality Observations
+
+**Chapter 9 demonstrates excellent modernization:**
+
+- Natural, fluent use of singular they/their/them
+- Consistent treatment of all roles (system designer, manager, programmer, person)
+- No awkward constructions or forced language
+- Brooks's authorial voice and technical content fully preserved
+- Compound term properly updated: "man" → "person"
+
+This chapter should be used as the reference standard for modernizing Chapters 10-11.
 
 ---
 
 ## References
 
-- **Source analysis:** `Modernization_Analysis.md` - Phase 2 recommendations
+- **Source analysis:** `Modernization_Analysis.md` - Phase 2 recommendations (needs updating)
+- **Original source files:**
+  - Chapter 9: No original file exists (already modernized)
+  - `chapters/13-chapter-10-the-documentary-hypothesis-original.md`
+  - `chapters/14-chapter-11-plan-to-throw-one-away-original.md`
+- **Modernized reference files:**
+  - `chapters/12-chapter-09-ten-pounds-in-a-five-pound-sack.md` (use as style reference)
+  - `chapters/13-chapter-10-the-documentary-hypothesis.md`
+  - `chapters/14-chapter-11-plan-to-throw-one-away.md`
+- **Previous phases:**
+  - `phase2a.md` - Chapters 1-2 (needs verification against originals)
+  - `phase2b.md` - Chapters 3-5 (needs verification against originals)
+  - `phase2c.md` - Chapters 6-8 (needs verification against originals)
+  - `phase2d.md` - Chapters 9-11 (**corrected**) ← **You are here**
+- **Next phases:**
+  - `phase2e.md` - Chapters 12-14 (corrected, needs work)
+  - `phase2f.md` - Chapters 15-17 (needs work)
 - **Style guides:**
   - APA Style: Singular 'they' is accepted for generic references
   - Chicago Manual of Style: Gender-neutral pronouns guidance
 - **Project context:** `CLAUDE.md` - Repository purpose and modernization goals
-- **Examples:** Chapters 10 and 11 in this phase demonstrate excellent modernization
-
----
-
-## Recommendations for Project
-
-### Immediate Actions
-
-1. **Scan all remaining chapters** to identify which have already been modernized
-2. **Update Modernization_Analysis.md** to reflect current state
-3. **Revise Phase 2 planning** based on actual remaining work
-
-### Investigation
-
-The discovery that some chapters have been modernized raises questions:
-
-- When was this work done?
-- Who did it?
-- Was it part of the PDF-to-markdown conversion?
-- Are there git commits showing this history?
-
-**Suggested command:**
-
-```bash
-git log --all --full-history -- chapters/13-chapter-10-the-documentary-hypothesis.md
-git log --all --full-history -- chapters/14-chapter-11-plan-to-throw-one-away.md
-```
-
-This would help understand the history and potentially identify the author's approach to guide remaining modernization.
 
 ---
 
 - **Document prepared by:** Claude Code analysis
-- **Analysis scope:** Chapters 9, 10, and 11
-- **Total issues identified:** 9 instances (7 sentences) in Chapter 9 requiring attention
-- **Status:** Chapters 10 and 11 already modernized
-- **Recommendation:** Light implementation load; excellent opportunity to verify consistency with already-modernized chapters
+- **Date:** 2025-11-05 (corrected with original text analysis)
+- **Analysis scope:** Chapters 9, 10, and 11 from original source files (where available)
+- **Total issues identified:** 35 instances requiring modernization in Chapters 10-11
+- **Status:** Chapter 9 already complete; Chapters 10-11 require implementation work (~2.5 hours estimated)
+- **Critical correction:** Previous version of this document had the status completely backwards—Chapter 9 is done, Chapters 10-11 need work
+- **Recommendation:** Implement Phase 2d modernization for Chapters 10-11; use Chapter 9 as style reference; verify all other phase documents against original files

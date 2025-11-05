@@ -124,3 +124,5 @@ The modernization is actively in progress with detailed phase documentation:
 - Detailed recommendations organized by category (compound terms, generic pronouns, occupational terms)
 - Implementation strategy with phases and timeline
 - Quality assurance checklist
+- original chapter Markdown files all end with -original.md
+- updated Markdown files do not end in -original.md
