@@ -16,7 +16,8 @@
       "Bash(identify:*)",
       "Bash(pdftotext:*)",
       "Bash(just md2pdf:*)",
-      "Bash(pdfimages:*)"
+      "Bash(pdfimages:*)",
+      "Bash(pdfinfo:*)"
     ],
     "deny": [],
     "ask": []
