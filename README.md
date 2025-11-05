@@ -91,9 +91,9 @@ to improve the text:
 - [Phase 2a](phase2a.md) covers chapters 1-2
 - [Phase 2b](phase2b.md) covers chapters 3-5
 - [Phase 2c](phase2c.md) covers chapters 6-8
-- [Phase 2d](phase2d.md) covers chapters 9-11 and only chapter 9 had issues
-- [Phase 2e](phase2e.md) covers chapters 12-14 (oops, fixing hallucination...)
-- [Phase 2f](phase2f.md) covers chapters 15-17 (oops, fixing hallucination...)
+- [Phase 2d](phase2d.md) covers chapters 9-11
+- [Phase 2e](phase2e.md) covers chapters 12-14
+- [Phase 2f](phase2f.md) covers chapters 15-17
 - [Phase 2g](phase2g.md) covers chapters 18-19 and Epilogue which had no issues
 
 Then a series of pull requests, up to
