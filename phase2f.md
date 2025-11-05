@@ -33,38 +33,44 @@ This phase addresses the modernization of chapters 15, 16, and 17 from their ori
 
 This chapter contains several instances of gendered language that need modernization:
 
-#### Key Instances Found
+#### Key Instances Found (Chapter 15)
 
-**Line 20:** Compound term
+##### Line 20: Compound term
+
 ```markdown
 Original: "A computer program is a message from a man to a machine."
 Suggested: "A computer program is a message from a person to a machine."
 ```
 
-**Lines 26-27:** Generic pronouns
+##### Lines 26-27: Generic pronouns
+
 ```markdown
 Original: "memory will fail the author-user, and he will require refreshing on the details of his handiwork."
 Suggested: "memory will fail the author-user, and they will require refreshing on the details of their handiwork."
 ```
 
-**Lines 39-42:** Personal anecdote (Watson story) - retain original
+##### Lines 39-42: Personal anecdote (Watson story) - retain original
+
 ```markdown
 Lines reference Thomas J. Watson, Sr.'s personal story using "his", "he", "He" - these are specific historical references and should be retained.
 ```
 
-**Line 93-94:** Generic pronoun
+##### Line 93-94: Generic pronoun
+
 ```markdown
 Original: "to reassure the user that he has a faithful copy"
 Suggested: "to reassure the user that they have a faithful copy"
 ```
 
-**Line 122:** Generic pronoun
+##### Line 122: Generic pronoun
+
 ```markdown
 Original: "His observations on hidden pitfalls are also useful."
 Suggested: "Their observations on hidden pitfalls are also useful."
 ```
 
-**Line 240:** Generic pronoun
+##### Line 240: Generic pronoun
+
 ```markdown
 Original: "the knowledgeable reader to skip it with confidence that he understands you."
 Suggested: "the knowledgeable reader to skip it with confidence that they understand you."
@@ -86,39 +92,45 @@ Suggested: "the knowledgeable reader to skip it with confidence that they unders
 
 This is an 817-line technical essay originally published in 1986. It contains several instances of gendered pronouns in technical contexts.
 
-#### Key Instances Found
+#### Key Instances Found (Chapter 16)
 
-**Lines 64-65:** Generic pronouns
+##### Lines 64-65: Generic pronouns
+
 ```markdown
 Original: "No such faith comforts the software engineer. Much of the complexity he must master is arbitrary complexity, forced without rhyme or reason by the many human institutions and systems to which his interfaces must conform."
 Suggested: "No such faith comforts the software engineer. Much of the complexity they must master is arbitrary complexity, forced without rhyme or reason by the many human institutions and systems to which their interfaces must conform."
 ```
 
-**Lines 138-140:** Generic pronoun
+##### Lines 138-140: Generic pronoun
+
 ```markdown
 Original: "Each removes one more accidental difficulty from the process, allowing the designer to express the essence of his design..."
 Suggested: "Each removes one more accidental difficulty from the process, allowing the designer to express the essence of their design..."
 ```
 
-**Line 187:** Generic pronoun (Parnas reference)
+##### Line 187: Generic pronoun (Parnas reference)
+
 ```markdown
 Original: "He argues, in essence, that in most cases it is the solution method..."
 Suggested: "Parnas argues, in essence, that in most cases it is the solution method..." (use name for clarity)
 ```
 
-**Line 225:** Generic pronoun
+##### Line 225: Generic pronoun
+
 ```markdown
 Original: "the instinctive reaction of the software worker is to build his own."
 Suggested: "the instinctive reaction of the software worker is to build their own."
 ```
 
-**Line 267:** Generic pronoun
+##### Line 267: Generic pronoun
+
 ```markdown
 Original: "the most important function that the software builder does for his client..."
 Suggested: "the most important function that the software builder does for their client..."
 ```
 
-**Line 279:** Personal anecdote
+##### Line 279: Personal anecdote
+
 ```markdown
 Original: "I first heard a friend talk about building a program, as opposed to writing one. In a flash he broadened my whole view..."
 Suggested: "I first heard a friend talk about building a program, as opposed to writing one. In a flash they broadened my whole view..."
@@ -143,6 +155,7 @@ This is a 666-line response/reflection essay written approximately nine years af
 #### Pattern of Issues
 
 The instances in this chapter follow similar patterns to Chapter 16:
+
 - Generic "he/his/him" referring to software engineers, designers, programmers
 - References to "the user", "the developer", "the programmer" with masculine pronouns
 - Some references within quoted material from correspondents
@@ -150,6 +163,7 @@ The instances in this chapter follow similar patterns to Chapter 16:
 #### Modernization Approach
 
 Due to the large number of instances, the modernization should:
+
 1. Replace generic "he/his/him" with "they/their/them" throughout
 2. Consider whether quoted material from correspondents should be updated or marked with [sic] or editorial brackets
 3. Use the already-modernized version as a reference for consistent approach
@@ -178,7 +192,7 @@ Due to the large number of instances, the modernization should:
 - [ ] Chapter 16: 6 instances to modernize (~20 minutes)
 - [ ] Chapter 17: 22 instances to modernize (~1.5 hours)
 
-**Estimated total effort: ~2.5 hours**
+#### Estimated total effort: ~2.5 hours
 
 ---
 
@@ -208,7 +222,7 @@ Due to the large number of instances, the modernization should:
 1. **Written later:** Original book was 1975; these essays are from 1986 and 1995
 2. **Anniversary Edition additions:** Added to the 20th Anniversary Edition (1995)
 3. **Different context:** Written in a time when some awareness of inclusive language was emerging, but still contain gendered pronouns
-4. **Technical papers:** Originally published in academic/professional venues (*Information Processing 1986*, *Computer* magazine)
+4. **Technical papers:** Originally published in academic/professional venues (_Information Processing 1986_, _Computer_ magazine)
 
 Despite being written later, these chapters still contain gendered language and require modernization, though somewhat less extensively than the 1975 chapters.
 
@@ -228,11 +242,13 @@ Despite being written later, these chapters still contain gendered language and 
 ### Reference: Modernized Versions Available
 
 For chapters 15-17, modernized versions already exist and can serve as references:
+
 - `chapters/18-chapter-15-the-other-face.md` (modernized)
 - `chapters/19-chapter-16-no-silver-bullet-essence-and-accident.md` (modernized)
 - `chapters/20-chapter-17-no-silver-bullet-refired.md` (modernized)
 
 These demonstrate:
+
 - **Consistent style:** Singular "they/their/them" used uniformly
 - **Natural flow:** No awkward constructions
 - **Preserved voice:** Brooks's authorial voice maintained
@@ -303,6 +319,7 @@ This is approximately **half** of the original 30-hour estimate, but represents 
 **For overall Phase 2 project (revised estimate):** ~15.5-16.5 hours total (vs. original 30+ hour estimate)
 
 ### Breakdown by Chapter
+
 - **Chapter 15:** ~30 minutes (8 instances)
 - **Chapter 16:** ~20 minutes (6 instances)
 - **Chapter 17:** ~1.5 hours (22 instances)

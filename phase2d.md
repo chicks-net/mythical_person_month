@@ -37,37 +37,44 @@ This chapter has already been comprehensively modernized with gender-neutral pro
 
 **Examples of excellent modernization in the current file:**
 
-**Line 13:**
+#### Line 13
+
 ```markdown
 The system designer puts part of their total hardware resource into resident-program memory when they think it will do more for the user in that form
 ```
 
-**Line 19:**
+#### Line 19
+
 ```markdown
 The wise manager also saves themselves a kitty, to be allocated as work proceeds.
 ```
 
-**Line 25:**
+#### Line 25
+
 ```markdown
 As anyone with 20-20 hindsight would expect, a programmer who found their program slopping over their core target broke it into overlays... Each person reported as to how much core they were using, and since they were within target, no one worried.
 ```
 
-**Line 31:**
+#### Line 31
+
 ```markdown
 As a result, any programmer in size trouble examined their code to see what they could throw over the fence into a neighbor's space.
 ```
 
-**Line 35:**
+#### Line 35
+
 ```markdown
 Each suboptimized their piece to meet their targets; few stopped to think about the total effect on the customer.
 ```
 
-**Line 47:**
+#### Line 47
+
 ```markdown
 The manager can do two things to help their team make good space-time trade-offs.
 ```
 
-**Line 63:**
+#### Line 63
+
 ```markdown
 The programmer at wit's end for lack of space can often do best by disentangling themselves from their code, rearing back, and contemplating their data.
 ```
@@ -88,58 +95,67 @@ This chapter demonstrates excellent use of singular "they/their/them" and serves
 
 This chapter contains extensive discussion of management roles with consistent use of masculine pronouns, plus two occupational compound terms ("craftsman" and "salesman").
 
-#### Key Instances Found
+#### Key Instances Found (Chapter 10)
 
-**Lines 16-19:** New manager introduction
+##### Lines 16-19: New manager introduction
+
 ```markdown
 Original: "To the new manager, fresh from operating as a craftsman himself, these seem an unmitigated nuisance, an unnecessary distraction, and a white tide that threatens to engulf him."
 Suggested: "To the new manager, fresh from operating as a craftsperson themselves, these seem an unmitigated nuisance, an unnecessary distraction, and a white tide that threatens to engulf them."
 ```
 
-**Lines 21-26:** Manager's realization
+##### Lines 21-26: Manager's realization
+
 ```markdown
 Original: "Bit by bit, however, he comes to realize that a certain small set of these documents embodies and expresses much of his managerial work. The preparation of each one serves as a major occasion for focusing thought and crystallizing discussions that otherwise would wander endlessly. Its maintenance becomes his surveillance and warning mechanism. The document itself serves as a checklist, a status control, and a data base for his reporting."
 Suggested: "Bit by bit, however, they come to realize that a certain small set of these documents embodies and expresses much of their managerial work. The preparation of each one serves as a major occasion for focusing thought and crystallizing discussions that otherwise would wander endlessly. Its maintenance becomes their surveillance and warning mechanism. The document itself serves as a checklist, a status control, and a data base for their reporting."
 ```
 
-**Line 73:** Engineering manager reference (specific individual)
+##### Line 73: Engineering manager reference (specific individual)
+
 ```markdown
 Original: "On another project the best engineering manager I ever saw served often as a giant flywheel, his inertia damping the fluctuations that came from market and management people."
 Suggested: "On another project the best engineering manager I ever saw served often as a giant flywheel, their inertia damping the fluctuations that came from market and management people."
 Note: This refers to a specific person the author knew, but modernizing for consistency is appropriate.
 ```
 
-**Line 102:** Software project manager
+##### Line 102: Software project manager
+
 ```markdown
 Original: "No matter how small the project, however, the manager is wise to begin immediately to formalize at least mini-documents to serve as his data base. And he turns out to need documents much like those of other managers."
 Suggested: "No matter how small the project, however, the manager is wise to begin immediately to formalize at least mini-documents to serve as their data base. And they turn out to need documents much like those of other managers."
 ```
 
-**Lines 135-140:** Manager communication
+##### Lines 135-140: Manager communication
+
 ```markdown
 Original: "Second, the documents will communicate the decisions to others. The manager will be continually amazed that policies he took for common knowledge are totally unknown by some member of his team. Since his fundamental job is to keep everybody going in the same direction, his chief daily task will be communication, not decision-making, and his documents will immensely lighten this load."
 Suggested: "Second, the documents will communicate the decisions to others. The manager will be continually amazed that policies they took for common knowledge are totally unknown by some member of their team. Since their fundamental job is to keep everybody going in the same direction, their chief daily task will be communication, not decision-making, and their documents will immensely lighten this load."
 ```
 
-**Lines 142-144:** Manager's document base
+##### Lines 142-144: Manager's document base
+
 ```markdown
 Original: "Finally, a manager's documents give him a data base and checklist. By reviewing them periodically he sees where he is, and he sees what changes of emphasis or shifts in direction are needed."
 Suggested: "Finally, a manager's documents give them a data base and checklist. By reviewing them periodically they see where they are, and they see what changes of emphasis or shifts in direction are needed."
 ```
 
-**Line 146:** "Salesman-projected" compound term
+##### Line 146: "Salesman-projected" compound term
+
 ```markdown
 Original: "I do not share the salesman-projected vision of the 'management total-information system'"
 Suggested: "I do not share the salesperson-projected vision of the 'management total-information system'"
 ```
 
-**Lines 150-152:** Executive information needs
+##### Lines 150-152: Executive information needs
+
 ```markdown
 Original: "One reason is that only a small part—perhaps 20 percent—of the executive's time is spent on tasks where he needs information from outside his head."
 Suggested: "One reason is that only a small part—perhaps 20 percent—of the executive's time is spent on tasks where they need information from outside their head."
 ```
 
-**Lines 159-160:** Manager's approach
+##### Lines 159-160: Manager's approach
+
 ```markdown
 Original: "If their comprehensive and critical nature is recognized in the beginning, the manager can approach them as friendly tools rather than annoying busywork. He will set his direction much more crisply and quickly by doing so."
 Suggested: "If their comprehensive and critical nature is recognized in the beginning, the manager can approach them as friendly tools rather than annoying busywork. They will set their direction much more crisply and quickly by doing so."
@@ -159,45 +175,52 @@ Suggested: "If their comprehensive and critical nature is recognized in the begi
 
 This chapter discusses change management and system evolution, with numerous generic pronoun references to designers, managers, and team members, plus compound terms with "man".
 
-#### Key Instances Found
+#### Key Instances Found (Chapter 11)
 
-**Line 81:** Learning and changing design
+##### Line 81: Learning and changing design
+
 ```markdown
 Original: "The throw-one-away concept is itself just an acceptance of the fact that as one learns, he changes the design."
 Suggested: "The throw-one-away concept is itself just an acceptance of the fact that as one learns, they change the design."
 ```
 
-**Lines 106-111:** Designer reluctance to document
+##### Lines 106-111: Designer reluctance to document
+
 ```markdown
 Original: "He observes that the reluctance to document designs is not due merely to laziness or time pressure. Instead it comes from the designer's reluctance to commit himself to the defense of decisions which he knows to be tentative. 'By documenting a design, the designer exposes himself to the criticisms of everyone, and he must be able to defend everything he writes.'"
 Suggested: "Cosgrove observes that the reluctance to document designs is not due merely to laziness or time pressure. Instead it comes from the designer's reluctance to commit themselves to the defense of decisions which they know to be tentative. 'By documenting a design, the designer exposes themselves to the criticisms of everyone, and they must be able to defend everything they write.'"
 ```
 
-**Line 114:** "Each man" compound
+##### Line 114: "Each man" compound
+
 ```markdown
 Original: "Each man must be assigned to jobs that broaden him"
 Suggested: "Each person must be assigned to jobs that broaden them"
 ```
 
-**Lines 121-122:** Manager attention to personnel
+##### Lines 121-122: Manager attention to personnel
+
 ```markdown
 Original: "This means that the boss must give a great deal of attention to keeping his managers and his technical people as interchangeable as their talents allow."
 Suggested: "This means that the boss must give a great deal of attention to keeping their managers and their technical people as interchangeable as their talents allow."
 ```
 
-**Lines 138-141:** Manager participation
+##### Lines 138-141: Manager participation
+
 ```markdown
 Original: "The manager must audaciously set the standard by personally participating in the work of one or another team, especially when the team is in trouble. He must be able to do it for real, and not just as a gesture."
 Suggested: "The manager must audaciously set the standard by personally participating in the work of one or another team, especially when the team is in trouble. They must be able to do it for real, and not just as a gesture."
 ```
 
-**Line 162:** "Man-years" compound
+##### Line 162: "Man-years" compound
+
 ```markdown
 Original: "First the number of copies installed increases the supply of man-years available for finding solid bugs"
 Suggested: "First the number of copies installed increases the supply of person-years available for finding solid bugs"
 ```
 
-**Line 176:** "The man who wrote the code" and "the repairer"
+##### Line 176: "The man who wrote the code" and "the repairer"
+
 ```markdown
 Original: "Second, the repairer is usually not the man who wrote the code, and often he is a junior programmer or trainee."
 Suggested: "Second, the repairer is usually not the person who wrote the code, and often they are a junior programmer or trainee."
@@ -220,7 +243,8 @@ Suggested: "Second, the repairer is usually not the person who wrote the code, a
 
 **Chapter 9: No work needed** ✅
 
-**Chapter 10: 21 instances to modernize (~1.5 hours)**
+#### Chapter 10: 21 instances to modernize (~1.5 hours)
+
 - [ ] Lines 16-19: "craftsman himself" → "craftsperson themselves", "engulf him" → "engulf them"
 - [ ] Lines 21-26: Multiple manager pronouns (he/his throughout)
 - [ ] Line 73: Engineering manager "his inertia" → "their inertia"
@@ -231,7 +255,8 @@ Suggested: "Second, the repairer is usually not the person who wrote the code, a
 - [ ] Lines 150-152: Executive information needs
 - [ ] Lines 159-160: Manager's approach to documents
 
-**Chapter 11: 14 instances to modernize (~1 hour)**
+#### Chapter 11: 14 instances to modernize (~1 hour)
+
 - [ ] Line 81: "as one learns, he changes" → "as one learns, they change"
 - [ ] Lines 106-111: Designer reluctance passage (multiple pronouns)
 - [ ] Line 114: "Each man must be assigned" → "Each person must be assigned"
@@ -240,7 +265,7 @@ Suggested: "Second, the repairer is usually not the person who wrote the code, a
 - [ ] Line 162: "man-years" → "person-years"
 - [ ] Line 176: "the man who wrote" → "the person who wrote", "often he is" → "often they are"
 
-**Estimated total effort: ~2.5 hours**
+#### Estimated total effort: ~2.5 hours
 
 ---
 
@@ -251,10 +276,12 @@ Suggested: "Second, the repairer is usually not the person who wrote the code, a
 Phase 2d reveals a **critical discovery** about the project's modernization status:
 
 **Previous understanding (INCORRECT):**
+
 - Phase2d document stated Chapter 9 needed work
 - Chapters 10-11 were marked as already modernized
 
 **Actual status (CORRECT):**
+
 - **Chapter 9:** Already modernized ✅ (no original file exists)
 - **Chapters 10-11:** Both need substantial work (35 instances total)
 
@@ -262,19 +289,22 @@ This is the **opposite** of what the previous phase2d.md document stated.
 
 ### Special Characteristics of These Chapters
 
-**Chapter 9: Ten Pounds in a Five-Pound Sack**
+#### Special Characteristics: Chapter 9
+
 - Already comprehensively modernized
 - No `-original.md` file exists
 - Serves as an excellent example of target style
 - Demonstrates fluent use of singular they/their/them throughout
 
-**Chapter 10: The Documentary Hypothesis**
+#### Special Characteristics: Chapter 10
+
 - Focus on management documentation and communication
 - High instance count (21) due to extensive manager role discussion
 - Includes compound terms: "craftsman" → "craftsperson", "salesman" → "salesperson"
 - One reference to specific individual (line 73) - should be modernized for consistency
 
-**Chapter 11: Plan to Throw One Away**
+#### Special Characteristics: Chapter 11
+
 - Discusses change management and system evolution
 - Moderate instance count (14)
 - Includes "man-years" compound term
@@ -318,10 +348,12 @@ This is the **opposite** of what the previous phase2d.md document stated.
 ### Suggested Implementation Order
 
 **Priority order based on instance count:**
+
 1. **Chapter 10 (21 instances)** - Extensive manager role discussion
 2. **Chapter 11 (14 instances)** - Designer/repairer roles
 
 **Alternative order (sequential):**
+
 - Chapters 10 → 11 (natural reading order)
 
 ---
@@ -331,11 +363,13 @@ This is the **opposite** of what the previous phase2d.md document stated.
 **For Phase 2d implementation:** ~2.5 hours (35 instances across 2 chapters)
 
 ### Breakdown by Chapter
+
 - **Chapter 9:** 0 hours (already complete) ✅
 - **Chapter 10:** ~1.5 hours (21 instances)
 - **Chapter 11:** ~1 hour (14 instances)
 
 **For overall Phase 2 project (revised estimate):**
+
 - Chapters 1-8: ~11.5 hours (estimated from previous analysis, needs verification)
 - Chapter 9: 0 hours (already complete) ✅
 - **Chapters 10-11: ~2.5 hours (this phase)**
@@ -348,6 +382,7 @@ This is the **opposite** of what the previous phase2d.md document stated.
 ## Quality Observations
 
 **Chapter 9 demonstrates excellent modernization:**
+
 - Natural, fluent use of singular they/their/them
 - Consistent treatment of all roles (system designer, manager, programmer, person)
 - No awkward constructions or forced language

@@ -33,87 +33,101 @@ This phase addresses the modernization of chapters 12, 13, and 14 from their ori
 
 This chapter contains numerous instances of gendered language throughout, including the opening proverb and extensive use of masculine pronouns for generic programmers, managers, and workers.
 
-#### Key Instances Found
+#### Key Instances Found (Chapter 12)
 
-**Line 3:** Proverb modernization
+##### Line 3: Proverb modernization
+
 ```markdown
 Original: "A good workman is known by his tools."
 Suggested: "A good worker is known by their tools."
 ```
 
-**Line 14:** Generic pronouns
+##### Line 14: Generic pronouns
+
 ```markdown
 Original: "Each master mechanic has his own personal set"
 Suggested: "Each master mechanic has their own personal set"
 ```
 
-**Line 17:** Generic pronoun
+##### Line 17: Generic pronoun
+
 ```markdown
 Original: "the programmer keeps little editors, sorts, binary dumps, disk space utilities, etc., stashed away in his file."
 Suggested: "the programmer keeps little editors, sorts, binary dumps, disk space utilities, etc., stashed away in their file."
 ```
 
-**Lines 27-28:** Generic pronouns and role reference
+##### Lines 27-28: Generic pronouns and role reference
+
 ```markdown
 Original: "This man masters all the common tools and is able to instruct his client-boss in their use. He also builds the specialized tools his boss needs."
 Suggested: "This person masters all the common tools and is able to instruct their client-boss in their use. They also build the specialized tools their boss needs."
 ```
 
-**Lines 31-32:** Manager reference
+##### Lines 31-32: Manager reference
+
 ```markdown
 Original: "At the same time he must recognize the need for specialized tools, and not begrudge his working teams their own tool-building."
 Suggested: "At the same time they must recognize the need for specialized tools, and not begrudge their working teams their own tool-building."
 ```
 
-**Line 77:** Generic pronoun
+##### Line 77: Generic pronoun
+
 ```markdown
 Original: "Everyone began to debug his first components at the same time"
 Suggested: "Everyone began to debug their first components at the same time"
 ```
 
-**Line 91:** Compound term with "man"
+##### Line 91: Compound term with "man"
+
 ```markdown
 Original: "The whole fifteen-man sort team, for example, would be given a system"
 Suggested: "The whole fifteen-person sort team, for example, would be given a system"
 ```
 
-**Line 97:** Generic "man"
+##### Line 97: Generic "man"
+
 ```markdown
 Original: "For each man on such a team, ten shots in a six-hour block are far more productive"
 Suggested: "For each person on such a team, ten shots in a six-hour block are far more productive"
 ```
 
-**Lines 130-131:** Application programmer reference
+##### Lines 130-131: Application programmer reference
+
 ```markdown
 Original: "Unless an application programmer sees a system behaving inconsistently from run to identical run, he is well advised to look for bugs in his code rather than in his engine."
 Suggested: "Unless an application programmer sees a system behaving inconsistently from run to identical run, they are well advised to look for bugs in their code rather than in their engine."
 ```
 
-**Line 140:** Generic pronoun
+##### Line 140: Generic pronoun
+
 ```markdown
 Original: "for it robs one of incentive to dig diligently in his code for a bug"
 Suggested: "for it robs one of incentive to dig diligently in their code for a bug"
 ```
 
-**Lines 162-166:** Playpen area description
+##### Lines 162-166: Playpen area description
+
 ```markdown
 Original: "First, each group or programmer had an area where he kept copies of his programs, his test cases, and the scaffolding he needed for component testing. In this playpen area there were no restrictions on what a man could do with his own programs; they were his."
 Suggested: "First, each group or programmer had an area where they kept copies of their programs, their test cases, and the scaffolding they needed for component testing. In this playpen area there were no restrictions on what a person could do with their own programs; they were theirs."
 ```
 
-**Lines 168-169:** Component integration
+##### Lines 168-169: Component integration
+
 ```markdown
 Original: "When a man had his component ready for integration into a larger piece, he passed a copy over to the manager"
 Suggested: "When a person had their component ready for integration into a larger piece, they passed a copy over to the manager"
 ```
 
-**Line 209:** User reference
+##### Line 209: User reference
+
 ```markdown
 Original: "if one uses it selectively, he can ignore most of the bulk most of the time."
 Suggested: "if one uses it selectively, they can ignore most of the bulk most of the time."
 ```
 
-**Line 251:** Generic pronoun
+##### Line 251: Generic pronoun
+
 ```markdown
 Original: "All testimony indicates that one can do what he needs to do"
 Suggested: "All testimony indicates that one can do what they need to do"
@@ -133,34 +147,39 @@ Suggested: "All testimony indicates that one can do what they need to do"
 
 This chapter contains fewer instances than Chapter 12, but they appear in critical technical descriptions and management contexts.
 
-#### Key Instances Found
+#### Key Instances Found (Chapter 13)
 
-**Line 83:** Design process reference
+##### Line 83: Design process reference
+
 ```markdown
 Original: "as one encounters some unexpectedly knotty detail. Indeed, that happens often. But it is much easier to see exactly when and why one should throw away a gross design and start over."
 Note: "one" is used here (line 82-85), but line 83 uses "he" in the original: "as he encounters some unexpectedly knotty detail"
 Suggested: "as one encounters some unexpectedly knotty detail"
 ```
 
-**Lines 128-131:** Programmer debugging procedure
+##### Lines 128-131: Programmer debugging procedure
+
 ```markdown
 Original: "The programmer carefully designed his debugging procedure—planning where to stop, what memory locations to examine, what to find there, and what to do if he didn't. This meticulous programming of himself as a debugging machine might well take half as long as writing the computer program to be debugged."
 Suggested: "The programmer carefully designed their debugging procedure—planning where to stop, what memory locations to examine, what to find there, and what to do if they didn't. This meticulous programming of oneself as a debugging machine might well take half as long as writing the computer program to be debugged."
 ```
 
-**Line 165:** Interactive debugging
+##### Line 165: Interactive debugging
+
 ```markdown
 Original: "When the programmer at a terminal stopped his program to examine progress or to make changes"
 Suggested: "When the programmer at a terminal stopped their program to examine progress or to make changes"
 ```
 
-**Line 269:** Control and authority
+##### Line 269: Control and authority
+
 ```markdown
 Original: "First, somebody must be in charge. He and he alone must authorize component changes or substitution of one version for another."
 Suggested: "First, somebody must be in charge. They and they alone must authorize component changes or substitution of one version for another."
 ```
 
-**Line 276:** Playpen copies
+##### Line 276: Playpen copies
+
 ```markdown
 Original: "playpen copies where each man can work away on his component, doing both fixes and extensions."
 Suggested: "playpen copies where each person can work away on their component, doing both fixes and extensions."
@@ -182,93 +201,108 @@ Suggested: "playpen copies where each person can work away on their component, d
 
 This chapter contains the most instances in Phase 2e, with extensive discussion of manager-boss relationships and team dynamics, all using masculine pronouns.
 
-#### Key Instances Found
+#### Key Instances Found (Chapter 14)
 
-**Line 19:** Opening scenario
+##### Line 19: Opening scenario
+
 ```markdown
 Original: "When one hears of disastrous schedule slippage in a project, he imagines that a series of major calamities must have befallen it."
 Suggested: "When one hears of disastrous schedule slippage in a project, one imagines that a series of major calamities must have befallen it."
 ```
 
-**Line 26:** Team member reference
+##### Line 26: Team member reference
+
 ```markdown
 Original: "Yesterday a key man was sick, and a meeting couldn't be held."
 Suggested: "Yesterday a key person was sick, and a meeting couldn't be held."
 ```
 
-**Lines 54-56:** Milestone reporting
+##### Lines 54-56: Milestone reporting
+
 ```markdown
 Original: "Rarely will a man lie about milestone progress, if the milestone is so sharp that he can't deceive himself. But if the milestone is fuzzy, the boss often understands a different report from that which the man gives."
 Suggested: "Rarely will a person lie about milestone progress, if the milestone is so sharp that they can't deceive themselves. But if the milestone is fuzzy, the boss often understands a different report from that which the person gives."
 ```
 
-**Lines 118-120:** First-line manager scenario
+##### Lines 118-120: First-line manager scenario
+
 ```markdown
 Original: "When a first-line manager sees his small team slipping behind, he is rarely inclined to run to the boss with this woe. The team might be able to make it up, or he should be able to invent or reorganize to solve the problem."
 Suggested: "When a first-line manager sees their small team slipping behind, they are rarely inclined to run to the boss with this woe. The team might be able to make it up, or they should be able to invent or reorganize to solve the problem."
 ```
 
-**Line 123:** Boss's priorities
+##### Line 123: Boss's priorities
+
 ```markdown
 Original: "And the boss does have enough real worries demanding his action that he doesn't seek others."
 Suggested: "And the boss does have enough real worries demanding their action that they don't seek others."
 ```
 
-**Line 128:** Information needs
+##### Line 128: Information needs
+
 ```markdown
 Original: "For that purpose he needs to know the status of all his teams."
 Suggested: "For that purpose they need to know the status of all their teams."
 ```
 
-**Lines 132-136:** Role conflict description
+##### Lines 132-136: Role conflict description
+
 ```markdown
 Original: "The first-line manager fears that if he reports his problem, the boss will act on it. Then his action will preempt the manager's function, diminish his authority, foul up his other plans. So as long as the manager thinks he can solve it alone, he doesn't tell the boss."
 Suggested: "The first-line manager fears that if they report the problem, the boss will act on it. Then that action will preempt the manager's function, diminish their authority, foul up their other plans. So as long as the manager thinks they can solve it alone, they don't tell the boss."
 ```
 
-**Lines 142-143:** Boss discipline
+##### Lines 142-143: Boss discipline
+
 ```markdown
 Original: "The boss must first distinguish between action information and status information. He must discipline himself not to act on problems his managers can solve, and never to act on problems when he is explicitly reviewing status."
 Suggested: "The boss must first distinguish between action information and status information. They must discipline themselves not to act on problems their managers can solve, and never to act on problems when they are explicitly reviewing status."
 ```
 
-**Lines 148-149:** Manager confidence
+##### Lines 148-149: Manager confidence
+
 ```markdown
 Original: "Conversely, when the manager knows his boss will accept status reports without panic or preemption, he comes to give honest appraisals."
 Suggested: "Conversely, when the manager knows their boss will accept status reports without panic or preemption, they come to give honest appraisals."
 ```
 
-**Line 152:** Meeting control
+##### Line 152: Meeting control
+
 ```markdown
 Original: "and controls himself accordingly"
 Suggested: "and controls themselves accordingly"
 ```
 
-**Line 153:** Problem assessment
+##### Line 153: Problem assessment
+
 ```markdown
 Original: "Obviously one may call a problem-action meeting as a consequence of a status meeting, if he believes a problem is out of hand."
 Suggested: "Obviously one may call a problem-action meeting as a consequence of a status meeting, if they believe a problem is out of hand."
 ```
 
-**Lines 171-172:** Component manager preparation
+##### Lines 171-172: Component manager preparation
+
 ```markdown
 Original: "Everyone knows the questions, and the component manager should be prepared to explain why it's late, when it will be finished, what steps he's taking, and what help, if any, he needs from the boss or collateral groups."
 Suggested: "Everyone knows the questions, and the component manager should be prepared to explain why it's late, when it will be finished, what steps they're taking, and what help, if any, they need from the boss or collateral groups."
 ```
 
-**Lines 182-188:** Vyssotsky quote (extended passage)
+##### Lines 182-188: Vyssotsky quote (extended passage)
+
 ```markdown
 Original: "The estimated dates are the property of the lowest level manager who has cognizance over the piece of work in question, and represents his best judgment as to when it will actually happen, given the resources he has available and when he received (or has commitments for delivery of) his prerequisite inputs. The project manager has to keep his fingers off the estimated dates... where he is going to be in trouble if he doesn't do something."
 Suggested: "The estimated dates are the property of the lowest level manager who has cognizance over the piece of work in question, and represents their best judgment as to when it will actually happen, given the resources they have available and when they received (or have commitments for delivery of) their prerequisite inputs. The project manager has to keep their fingers off the estimated dates... where they are going to be in trouble if they don't do something."
 ```
 
-**Line 191:** Reporting relationships
+##### Line 191: Reporting relationships
+
 ```markdown
 Original: "the managers reporting to him"
 Suggested: "the managers reporting to them"
 ```
 
-**Line 192:** Staff group size
+##### Line 192: Staff group size
+
 ```markdown
 Original: "requires the attention of a small (one to three man) staff group"
 Suggested: "requires the attention of a small (one to three person) staff group"
@@ -301,12 +335,16 @@ Suggested: "requires the attention of a small (one to three person) staff group"
   - [ ] Update playpen area description (lines 162-166)
   - [ ] Remaining generic pronouns (lines 209, 251)
 
+#### Chapter 13: 11 instances to modernize (~45 minutes)
+
 - [ ] Chapter 13: 11 instances to modernize (~45 minutes)
   - [ ] Design process reference (line 83)
   - [ ] Programmer debugging procedure (lines 128-131)
   - [ ] Interactive debugging (line 165)
   - [ ] Control and authority (line 269)
   - [ ] Playpen copies (line 276)
+
+#### Chapter 14: 31 instances to modernize (~2 hours)
 
 - [ ] Chapter 14: 31 instances to modernize (~2 hours)
   - [ ] Opening scenario (line 19)
@@ -318,7 +356,7 @@ Suggested: "requires the attention of a small (one to three person) staff group"
   - [ ] Vyssotsky quote - extensive passage (lines 182-188)
   - [ ] Staff group size (line 192)
 
-**Estimated total effort: ~4.25 hours**
+#### Estimated total effort: ~4.25 hours
 
 ---
 
@@ -335,17 +373,20 @@ This indicates that the modernization work done previously was not comprehensive
 
 ### Special Characteristics of These Chapters
 
-**Chapter 12: Sharp Tools**
+#### Special Characteristics: Chapter 12
+
 - Contains the proverb that needs modernization
 - Extensive technical descriptions with programmer/manager roles
 - Includes the "playpen" metaphor with team dynamics
 
-**Chapter 13: The Whole and the Parts**
+#### Special Characteristics: Chapter 13
+
 - More technically focused
 - Good use of passive voice reduces pronoun usage
 - Key instances in debugging procedures and control descriptions
 
-**Chapter 14: Hatching a Catastrophe**
+#### Special Characteristics: Chapter 14
+
 - **Highest instance count (31)** in this phase
 - Extensive manager-boss relationship discussion
 - Contains quoted material (Vyssotsky) that needs updating
@@ -354,6 +395,7 @@ This indicates that the modernization work done previously was not comprehensive
 ### Updated Work Estimates
 
 **Original estimate from Modernization_Analysis.md:**
+
 - 128+ generic pronoun instances across 21 of 23 files
 
 **Actual findings through Phase 2e (Chapters 1-14) based on original texts:**
@@ -392,11 +434,13 @@ This indicates that the modernization work done previously was not comprehensive
 ### Suggested Implementation Order
 
 **Priority order based on instance count:**
+
 1. **Chapter 14 (31 instances)** - Highest priority, most complex with manager/boss dynamics
 2. **Chapter 12 (22 instances)** - Includes proverb modernization
 3. **Chapter 13 (11 instances)** - Smallest scope, good for final cleanup
 
 **Alternative order (sequential):**
+
 - Chapters 12 → 13 → 14 (natural reading order)
 
 ---
@@ -406,11 +450,13 @@ This indicates that the modernization work done previously was not comprehensive
 **For Phase 2e implementation:** ~4.25 hours (64 instances across 3 chapters)
 
 ### Breakdown by Chapter
+
 - **Chapter 12:** ~1.5 hours (22 instances, includes proverb)
 - **Chapter 13:** ~45 minutes (11 instances)
 - **Chapter 14:** ~2 hours (31 instances, includes extended Vyssotsky quote)
 
 **For overall Phase 2 project (revised estimate):**
+
 - Chapters 1-9: ~11.5 hours (estimated from previous analysis)
 - Chapters 10-11: 0 hours (already complete) ✅
 - **Chapters 12-14: ~4.25 hours (this phase)**
