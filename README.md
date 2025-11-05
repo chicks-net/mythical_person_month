@@ -46,7 +46,7 @@ project yet.
 One of our earliest observations while working on this project was that
 Brooks himself had evolved his use of language during the course of
 writing the book.  The earlier chapters were the sole place we found
-problematic phrasing.  Chapters 16-20 had no concerning language whatsoever,
+problematic phrasing.  Chapters 16-19 had no concerning language whatsoever,
 and [plenty of examples](inclusive-brooks-quotes.md) of the sort of language we
 were aiming for in this project.
 
@@ -74,12 +74,11 @@ In Chapter 19: After 20 Years
 
 The shift from earlier chapters with gendered language to later chapters with
 consistently inclusive language could not have happened without Brooks'
-awareness or consent.  We may never know what led to Fred's evolution or why
-the earlier chapters were not updated.  Until more evidence surfaces, we feel
-confident that this project is done in the spirit of the original author.
-
-Chapters 16-19 were written for the 1995 Anniversary Edition of the book, so it
-isn't hard to imagine that Brooks had evolved over the intervening decades.
+awareness or consent.  We will never know exactly what led to Fred Brooks'
+evolution or why the earlier chapters were not updated.  Chapters 16-19 were
+written for the 1995 Anniversary Edition of the book, so we can safely presume
+that Brooks had evolved over the intervening decades.  We feel confident that
+this project is done in the spirit of the original author.
 
 ## Process and Notes
 
@@ -95,7 +94,7 @@ to improve the text:
 - [Phase 2d](phase2d.md) covers chapters 9-11 and only chapter 9 had issues
 - [Phase 2e](phase2e.md) covers chapters 12-14 (oops, fixing hallucination...)
 - [Phase 2f](phase2f.md) covers chapters 15-17 (oops, fixing hallucination...)
-- [Phase 2g](phase2g.md) covers chapters 18-20 which had no issues
+- [Phase 2g](phase2g.md) covers chapters 18-19 and Epilogue which had no issues
 
 Then a series of pull requests, up to
 [#20](https://github.com/chicks-net/mythical_person_month/pull/20),
