@@ -22,7 +22,7 @@ This repo uses `just` (command runner) for all development tasks. The workflow i
 
 1. `just branch <name>` - Create a new feature branch (format: `$USER/YYYY-MM-DD-<name>`)
 2. Make changes and commit (last commit message becomes PR title)
-3. `just pr` - Create PR, push changes, and watch checks (waits 10s for GitHub API)
+3. `just pr` - Create PR, push changes, watch checks, and display Copilot/Claude Code review comments (waits 10s for GitHub API to catch up)
 4. `just merge` - Squash merge PR, delete branch, return to main, and pull latest
 5. `just sync` - Return to main branch and pull latest (escape hatch)
 
@@ -33,7 +33,8 @@ This repo uses `just` (command runner) for all development tasks. The workflow i
 - `just release <version>` - Create a GitHub release with auto-generated notes
 - `just compliance_check` - Run custom repo compliance checks
 - `just utcdate` - Print UTC date in ISO format (used in branch names)
-- `just md2pdf <markdown_file>` - Convert a Markdown file to PDF using pandoc (aborts if PDF already exists)
+- `just md2pdf <markdown_file>` - Convert a Markdown file to PDF using pandoc with typst engine (deletes existing PDF if present)
+- `just generate_pdfs` - Build ALL PDFs from all Markdown files in the chapters/ directory
 
 ### Git aliases used
 
@@ -107,6 +108,14 @@ This is a documentation/writing project rather than a software project. The prim
 - Preserve the technical accuracy and management wisdom
 - Keep references to historical context but make them more inclusive where appropriate
 - Chapter files exist in both PDF (original) and Markdown (modernized) formats
+
+### Project Status
+
+The modernization is actively in progress with detailed phase documentation:
+
+- Phases 2a through 2g document the analysis and changes for all chapters
+- Most language updates have been implemented through PR #20
+- The project follows Brooks' own evolution toward inclusive language (chapters 16-19 in the 1995 Anniversary Edition were already gender-neutral)
 
 **Reference:** See `Modernization_Analysis.md` for comprehensive documentation of language modernization goals, including:
 
