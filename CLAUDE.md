@@ -125,3 +125,4 @@ The modernization is actively in progress with detailed phase documentation:
 - Implementation strategy with phases and timeline
 - Quality assurance checklist
 - original chapter Markdown files all end with -original.md
+- updated Markdown files do not end in -original.md
