@@ -46,49 +46,9 @@ project yet.
 One of our earliest observations while working on this project was that
 Brooks himself had evolved his use of language during the course of
 writing the book.  The earlier chapters were the sole place we found
-problematic phrasing.  Chapters 10-20 had no concerning language whatsoever,
+problematic phrasing.  Chapters 16-20 had no concerning language whatsoever,
 and [plenty of examples](inclusive-brooks-quotes.md) of the sort of language we
 were aiming for in this project.
-
-In Chapter 10: The Documentary Hypothesis
-
-> "To the new manager, fresh from operating as a **craftsperson themselves**,
-> these seem an unmitigated nuisance, an unnecessary distraction, and a white
-> tide that threatens to engulf **them**."
-
-In Chapter 11: Plan to Throw One Away
-
-> "Each **person** must be assigned to jobs that broaden **them**, so that the
-> whole force is technically flexible."
-
-and
-
-> "Second, the repairer is usually not the **person** who wrote the code, and
-> often **they** are a junior programmer or trainee."
-
-In Chapter 12: Sharp Tools
-
-> "This **person** masters all the common tools and is able to instruct
-> **their** client-boss in **their** use. **They** also build the specialized
-> tools **their** boss needs."
-
-In Chapter 13: The Whole and the Parts
-
-> "First, somebody must be in charge. **They** and **they** alone must
-> authorize component changes or substitution of one version for another."
-
-In Chapter 14: Hatching a Catastrophe
-
-> "The boss must first distinguish between action information and status
-> information. **They** must discipline **themselves** not to act on problems
-> **their** managers can solve, and never to act on problems when **they** are
-> explicitly reviewing status."
-
-In Chapter 15: The Other Face
-
-> "if **one** uses it selectively, **they** can ignore most of the bulk most of
-> the time. **One** must consider the OS/360 documentation as a library or an
-> encyclopedia, not a set of mandatory texts."
 
 In Chapter 16: No Silver Bullet
 
@@ -119,9 +79,7 @@ the earlier chapters were not updated.  Until more evidence surfaces, we feel
 confident that this project is done in the spirit of the original author.
 
 Chapters 16-19 were written for the 1995 Anniversary Edition of the book, so it
-isn't hard to imagine that Brooks had evolved over the intervening decades.  It
-is harder to imagine what could have caused chapters 10-15 to have inclusive
-language, but hopefully further research will reveal some possibilities.
+isn't hard to imagine that Brooks had evolved over the intervening decades.
 
 ## Process and Notes
 
@@ -135,8 +93,8 @@ to improve the text:
 - [Phase 2b](phase2b.md) covers chapters 3-5
 - [Phase 2c](phase2c.md) covers chapters 6-8
 - [Phase 2d](phase2d.md) covers chapters 9-11 and only chapter 9 had issues
-- [Phase 2e](phase2e.md) covers chapters 12-14 which had no issues
-- [Phase 2f](phase2f.md) covers chapters 15-17 which had no issues
+- [Phase 2e](phase2e.md) covers chapters 12-14 (oops, fixing hallucination...)
+- [Phase 2f](phase2f.md) covers chapters 15-17 (oops, fixing hallucination...)
 - [Phase 2g](phase2g.md) covers chapters 18-20 which had no issues
 
 Then a series of pull requests, up to
