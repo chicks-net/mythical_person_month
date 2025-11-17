@@ -23,6 +23,7 @@ should be recreated or sourced for the modernized version.
 
 #### Fig. 1.1: Evolution of the programming systems product
 
+- **Image file:** [`chapters/04-chapter-01-the-tar-pit-original-001.png`](chapters/04-chapter-01-the-tar-pit-original-001.png)
 - **Location:** `04-chapter-01-the-tar-pit.md:31`
 - **Context:** Shows the relationship between a program, programming product, programming system, and programming systems product
 - **Description:** Illustrates that a programming systems product costs 9x more than a simple program
@@ -32,6 +33,7 @@ should be recreated or sourced for the modernized version.
 
 #### Fig. 2.1: Time versus number of workers—perfectly partitionable task
 
+- **Image file:** [`chapters/05-chapter-02-the-mythical-man-month-original-001.png`](chapters/05-chapter-02-the-mythical-man-month-original-001.png)
 - **Location:** `05-chapter-02-the-mythical-man-month.md:45`
 - **Referenced:** Line 43
 - **Context:** Tasks like reaping wheat or picking cotton
@@ -40,6 +42,7 @@ should be recreated or sourced for the modernized version.
 
 #### Fig. 2.2: Time versus number of workers—unpartitionable task
 
+- **Image file:** [`chapters/05-chapter-02-the-mythical-man-month-original-002.png`](chapters/05-chapter-02-the-mythical-man-month-original-002.png)
 - **Location:** `05-chapter-02-the-mythical-man-month.md:54`
 - **Referenced:** Line 52
 - **Context:** "The bearing of a child takes nine months, no matter how many women are assigned"
@@ -48,6 +51,7 @@ should be recreated or sourced for the modernized version.
 
 #### Fig. 2.3: Time versus number of workers—partitionable task requiring communication
 
+- **Image file:** [`chapters/05-chapter-02-the-mythical-man-month-original-003.png`](chapters/05-chapter-02-the-mythical-man-month-original-003.png)
 - **Location:** `05-chapter-02-the-mythical-man-month.md:63`
 - **Referenced:** Line 61
 - **Context:** Tasks that can be partitioned but require communication
@@ -56,6 +60,7 @@ should be recreated or sourced for the modernized version.
 
 #### Fig. 2.4: Time versus number of workers—task with complex interrelationships
 
+- **Image file:** [`chapters/05-chapter-02-the-mythical-man-month-original-004.png`](chapters/05-chapter-02-the-mythical-man-month-original-004.png)
 - **Location:** `05-chapter-02-the-mythical-man-month.md:76`
 - **Referenced:** Line 74
 - **Context:** Tasks with n(n-1)/2 intercommunication requirements
@@ -64,6 +69,7 @@ should be recreated or sourced for the modernized version.
 
 #### Fig. 2.5: [Schedule diagram with mileposts A, B, C, D]
 
+- **Image file:** [`chapters/05-chapter-02-the-mythical-man-month-original-005.png`](chapters/05-chapter-02-the-mythical-man-month-original-005.png)
 - **Location:** `05-chapter-02-the-mythical-man-month.md:126`
 - **Context:** Example of 12 man-months task assigned to 3 people for 4 months
 - **Description:** Original schedule showing monthly mileposts
@@ -72,6 +78,7 @@ should be recreated or sourced for the modernized version.
 
 #### Fig. 2.6: [Schedule slippage diagram]
 
+- **Image file:** [`chapters/05-chapter-02-the-mythical-man-month-original-006.png`](chapters/05-chapter-02-the-mythical-man-month-original-006.png)
 - **Location:** Referenced at lines 130, 132, 137
 - **Context:** First milepost not reached until two months elapsed
 - **Description:** Shows actual vs. planned schedule
@@ -79,6 +86,7 @@ should be recreated or sourced for the modernized version.
 
 #### Fig. 2.7: [Uniformly low estimate scenario]
 
+- **Image file:** [`chapters/05-chapter-02-the-mythical-man-month-original-007.png`](chapters/05-chapter-02-the-mythical-man-month-original-007.png)
 - **Location:** Referenced at lines 133, 143
 - **Context:** Assumption that whole estimate was uniformly low
 - **Description:** Alternative schedule scenario
@@ -86,6 +94,7 @@ should be recreated or sourced for the modernized version.
 
 #### Fig. 2.8: [Regenerative disaster scenario]
 
+- **Image file:** [`chapters/05-chapter-02-the-mythical-man-month-original-008.png`](chapters/05-chapter-02-the-mythical-man-month-original-008.png)
 - **Location:** Referenced at lines 137 (twice)
 - **Context:** Shows effect of adding 2 new people to late project
 - **Description:** Demonstrates Brooks's Law in action
@@ -108,6 +117,7 @@ improved illustrations from Brooks's earlier publication.
 
 #### Fig. 8.1: Programming effort as a function of program size
 
+- **Image file:** [`chapters/11-chapter-08-calling-the-shot-original-001.png`](chapters/11-chapter-08-calling-the-shot-original-001.png)
 - **Location:** `11-chapter-08-calling-the-shot.md:37`
 - **Referenced:** Line 21
 - **Context:** Results from Nanus and Farr study at System Development Corporation
@@ -117,6 +127,7 @@ improved illustrations from Brooks's earlier publication.
 
 #### Fig. 8.2: Summary of four No. 1 ESS program jobs
 
+- **Image file:** [`chapters/11-chapter-08-calling-the-shot-original-002.png`](chapters/11-chapter-08-calling-the-shot-original-002.png)
 - **Location:** `11-chapter-08-calling-the-shot.md:75`
 - **Referenced:** Line 73
 - **Context:** John Harr's data from Bell Labs
@@ -141,6 +152,7 @@ improved illustrations from Brooks's earlier publication.
 
 #### Fig. 8.3: ESS predicted and actual programming rates
 
+- **Image file:** [`chapters/11-chapter-08-calling-the-shot-original-003.png`](chapters/11-chapter-08-calling-the-shot-original-003.png)
 - **Location:** `11-chapter-08-calling-the-shot.md:88`
 - **Referenced:** Line 86
 - **Context:** Comparison of predicted vs. actual rates
@@ -149,6 +161,7 @@ improved illustrations from Brooks's earlier publication.
 
 #### Fig. 8.4: ESS predicted and actual debugging rates
 
+- **Image file:** [`chapters/11-chapter-08-calling-the-shot-original-004.png`](chapters/11-chapter-08-calling-the-shot-original-004.png)
 - **Location:** `11-chapter-08-calling-the-shot.md:95`
 - **Referenced:** Line 86
 - **Context:** Comparison of predicted vs. actual debugging rates
@@ -159,6 +172,7 @@ improved illustrations from Brooks's earlier publication.
 
 #### Fig. 11.1: IBM dual ladder of advancement
 
+- **Image file:** [`chapters/14-chapter-11-plan-to-throw-one-away-original-001.png`](chapters/14-chapter-11-plan-to-throw-one-away-original-001.png)
 - **Location:** `14-chapter-11-plan-to-throw-one-away.md:137`
 - **Referenced:** Line 124
 - **Context:** Shows IBM's parallel career advancement paths
@@ -169,6 +183,7 @@ improved illustrations from Brooks's earlier publication.
 
 #### Fig. 12.1: Growth in use of target machines
 
+- **Image file:** [`chapters/15-chapter-12-sharp-tools-original-001.png`](chapters/15-chapter-12-sharp-tools-original-001.png)
 - **Location:** `15-chapter-12-sharp-tools.md:93`
 - **Referenced:** Line 74
 - **Context:** OS/360 project target machine utilization
@@ -177,6 +192,7 @@ improved illustrations from Brooks's earlier publication.
 
 #### Fig. 12.2: Comparative productivity under batch and conversational programming
 
+- **Image file:** [`chapters/15-chapter-12-sharp-tools-original-002.png`](chapters/15-chapter-12-sharp-tools-original-002.png)
 - **Location:** `15-chapter-12-sharp-tools.md:315`
 - **Referenced:** Line 320
 - **Context:** Data reported by John Harr of Bell Labs
@@ -188,6 +204,7 @@ improved illustrations from Brooks's earlier publication.
 
 #### Fig. 14.1: Milestone report excerpt
 
+- **Image file:** [`chapters/17-chapter-14-hatching-a-catastrophe-original-001.png`](chapters/17-chapter-14-hatching-a-catastrophe-original-001.png)
 - **Location:** `17-chapter-14-hatching-a-catastrophe.md:208`
 - **Referenced:** Line 162
 - **Context:** Example of milestone reporting document
@@ -198,6 +215,7 @@ improved illustrations from Brooks's earlier publication.
 
 #### Fig. 15.1: A program structure graph
 
+- **Image file:** [`chapters/18-chapter-15-the-other-face-original-001.png`](chapters/18-chapter-15-the-other-face-original-001.png)
 - **Location:** `18-chapter-15-the-other-face.md:154`
 - **Referenced:** Line 134
 - **Context:** Shows subprogram structure
@@ -207,6 +225,7 @@ improved illustrations from Brooks's earlier publication.
 
 #### Fig. 15.2: [Statement-level structure diagram]
 
+- **Image file:** [`chapters/18-chapter-15-the-other-face-original-002.png`](chapters/18-chapter-15-the-other-face-original-002.png)
 - **Location:** Referenced at line 165
 - **Context:** Shows how boxes contain statements
 - **Description:** Detailed view of program structure
@@ -214,6 +233,7 @@ improved illustrations from Brooks's earlier publication.
 
 #### Fig. 15.3: [Self-documenting PL/I program example]
 
+- **Image file:** [`chapters/18-chapter-15-the-other-face-original-003.png`](chapters/18-chapter-15-the-other-face-original-003.png)
 - **Location:** Referenced at line 240
 - **Context:** Example of self-documenting code
 - **Description:** Shows documentation technique in PL/I
@@ -223,6 +243,7 @@ improved illustrations from Brooks's earlier publication.
 
 #### Fig. 16.1: Exciting products
 
+- **Image file:** [`chapters/19-chapter-16-no-silver-bullet-essence-and-accident-original-001.png`](chapters/19-chapter-16-no-silver-bullet-essence-and-accident-original-001.png)
 - **Location:** `19-chapter-16-no-silver-bullet-essence-and-accident.md:757`
 - **Referenced:** Line 742
 - **Context:** Lists products including Cobol, PL/I, Algol, MVS/370, MS-DOS
@@ -233,6 +254,7 @@ improved illustrations from Brooks's earlier publication.
 
 #### Fig. 19.1: Waterfall model of software construction
 
+- **Image file:** [`chapters/22-chapter-19-after-20-years-original-001.png`](chapters/22-chapter-19-after-20-years-original-001.png)
 - **Location:** `22-chapter-19-after-20-years.md:368`
 - **Referenced:** Line 351
 - **Context:** Sequential model improved by Winton Royce
@@ -432,7 +454,7 @@ All figures should include:
 
 ### Opening Illustration - Chapter 1: The Tar Pit
 
-**Image file:** `chapters/04-chapter-01-the-tar-pit-original-000.png`
+**Image file:** [`chapters/04-chapter-01-the-tar-pit-original-000.png`](chapters/04-chapter-01-the-tar-pit-original-000.png)
 
 **Citation:**
 > C R. Knight, Mural of La Brea Tar Pits
@@ -454,7 +476,7 @@ All figures should include:
 
 ### Opening Illustration - Chapter 2: The Mythical Man-Month
 
-**Image file:** `chapters/05-chapter-02-the-mythical-man-month-original-000.png`
+**Image file:** [`chapters/05-chapter-02-the-mythical-man-month-original-000.png`](chapters/05-chapter-02-the-mythical-man-month-original-000.png)
 
 **Citation:**
 > Good cooking takes time. If you are made to wait, it is to serve you better, and to please you.
@@ -475,7 +497,7 @@ All figures should include:
 
 ### Opening Illustration - Chapter 3: The Surgical Team
 
-**Image file:** `chapters/06-chapter-03-the-surgical-team-original-000.png`
+**Image file:** [`chapters/06-chapter-03-the-surgical-team-original-000.png`](chapters/06-chapter-03-the-surgical-team-original-000.png)
 
 **Citation:**
 > UPI Photo/The Bettman Archive
@@ -494,7 +516,7 @@ All figures should include:
 
 ### Opening Illustration - Chapter 4: Aristocracy, Democracy, and System Design
 
-**Image file:** `chapters/07-chapter-04-aristocracy-democracy-and-system-design-original-000.png`
+**Image file:** [`chapters/07-chapter-04-aristocracy-democracy-and-system-design-original-000.png`](chapters/07-chapter-04-aristocracy-democracy-and-system-design-original-000.png)
 
 **Citation:**
 > This great church is an incomparable work of art. There is neither aridity nor confusion in the tenets it sets forth... It is the zenith of a style, the work of artists who had understood and assimilated all their predecessors' successes, in complete possession of the techniques of their times, but using them without indiscreet display nor gratuitous feats of skill.
@@ -518,7 +540,7 @@ All figures should include:
 
 ### Opening Illustration - Chapter 5: The Second-System Effect
 
-**Image file:** `chapters/08-chapter-05-the-second-system-effect-original-000.png`
+**Image file:** [`chapters/08-chapter-05-the-second-system-effect-original-000.png`](chapters/08-chapter-05-the-second-system-effect-original-000.png)
 
 **Citation:**
 > Adde parvum parvo magnus acervus erit.
@@ -543,7 +565,7 @@ All figures should include:
 
 ### Opening Illustration - Chapter 6: Passing the Word
 
-**Image file:** `chapters/09-chapter-06-passing-the-word-original-000.png`
+**Image file:** [`chapters/09-chapter-06-passing-the-word-original-000.png`](chapters/09-chapter-06-passing-the-word-original-000.png)
 
 **Citation:**
 > He'll sit here and he'll say, "Do this! Do that!" And nothing will happen.
@@ -566,7 +588,7 @@ All figures should include:
 
 ### Opening Illustration - Chapter 7: Why Did the Tower of Babel Fail?
 
-**Image file:** `chapters/10-chapter-07-why-did-the-tower-of-babel-fail-original-000.png`
+**Image file:** [`chapters/10-chapter-07-why-did-the-tower-of-babel-fail-original-000.png`](chapters/10-chapter-07-why-did-the-tower-of-babel-fail-original-000.png)
 
 **Citation:**
 > Now the whole earth used only one language, with few words... Then they said, "Come, let us build ourselves a city with a tower whose top shall reach the heavens (thus making a name for ourselves), so that we may not be scattered all over the earth."... The Lord said, "They are just one people, and they all have the same language... Come, let us go down and confuse their language."
@@ -590,7 +612,7 @@ All figures should include:
 
 ### Opening Illustration - Chapter 8: Calling the Shot
 
-**Image file:** `chapters/11-chapter-08-calling-the-shot-original-000.png`
+**Image file:** [`chapters/11-chapter-08-calling-the-shot-original-000.png`](chapters/11-chapter-08-calling-the-shot-original-000.png)
 
 **Citation:**
 > Practice is the best of all instructors.
@@ -617,7 +639,7 @@ All figures should include:
 
 ### Opening Illustration - Chapter 9: Ten Pounds in a Five-Pound Sack
 
-**Image file:** `chapters/12-chapter-09-ten-pounds-in-a-five-pound-sack-original-000.png`
+**Image file:** [`chapters/12-chapter-09-ten-pounds-in-a-five-pound-sack-original-000.png`](chapters/12-chapter-09-ten-pounds-in-a-five-pound-sack-original-000.png)
 
 **Citation:**
 > The author should gaze at Noah, and... learn, as they did in the Ark, to crowd a great deal of matter into a very small compass.
@@ -641,7 +663,7 @@ All figures should include:
 
 ### Opening Illustration - Chapter 10: The Documentary Hypothesis
 
-**Image file:** `chapters/13-chapter-10-the-documentary-hypothesis-original-000.png`
+**Image file:** [`chapters/13-chapter-10-the-documentary-hypothesis-original-000.png`](chapters/13-chapter-10-the-documentary-hypothesis-original-000.png)
 
 **Citation:**
 > The hypothesis: Amid a wash of paper, a small number of documents become the critical pivots around which every project's management revolves. These are the manager's chief personal tools.
@@ -663,7 +685,7 @@ All figures should include:
 
 ### Opening Illustration - Chapter 11: Plan to Throw One Away
 
-**Image file:** `chapters/14-chapter-11-plan-to-throw-one-away-original-000.png`
+**Image file:** [`chapters/14-chapter-11-plan-to-throw-one-away-original-000.png`](chapters/14-chapter-11-plan-to-throw-one-away-original-000.png)
 
 **Citation:**
 > There is nothing in this world constant but inconstancy.
@@ -690,7 +712,7 @@ All figures should include:
 
 ### Opening Illustration - Chapter 12: Sharp Tools
 
-**Image file:** `chapters/15-chapter-12-sharp-tools-original-000.png`
+**Image file:** [`chapters/15-chapter-12-sharp-tools-original-000.png`](chapters/15-chapter-12-sharp-tools-original-000.png)
 
 **Citation:**
 > A good workman is known by his tools.
@@ -712,7 +734,7 @@ All figures should include:
 
 ### Opening Illustration - Chapter 13: The Whole and the Parts
 
-**Image file:** `chapters/16-chapter-13-the-whole-and-the-parts-original-000.png`
+**Image file:** [`chapters/16-chapter-13-the-whole-and-the-parts-original-000.png`](chapters/16-chapter-13-the-whole-and-the-parts-original-000.png)
 
 **Citation:**
 > I can call spirits from the vasty deep.
@@ -735,7 +757,7 @@ All figures should include:
 
 ### Opening Illustration - Chapter 14: Hatching a Catastrophe
 
-**Image file:** `chapters/17-chapter-14-hatching-a-catastrophe-original-000.png`
+**Image file:** [`chapters/17-chapter-14-hatching-a-catastrophe-original-000.png`](chapters/17-chapter-14-hatching-a-catastrophe-original-000.png)
 
 **Citation:**
 > None love the bearer of bad news.
@@ -761,7 +783,7 @@ All figures should include:
 
 ### Opening Illustration - Chapter 15: The Other Face
 
-**Image file:** `chapters/18-chapter-15-the-other-face-original-000.png`
+**Image file:** [`chapters/18-chapter-15-the-other-face-original-000.png`](chapters/18-chapter-15-the-other-face-original-000.png)
 
 **Citation:**
 > What we do not understand we do not possess.
@@ -787,7 +809,7 @@ All figures should include:
 
 ### Opening Illustration - Chapter 16: No Silver Bullet—Essence and Accident
 
-**Image file:** `chapters/19-chapter-16-no-silver-bullet-essence-and-accident-original-000.png`
+**Image file:** [`chapters/19-chapter-16-no-silver-bullet-essence-and-accident-original-000.png`](chapters/19-chapter-16-no-silver-bullet-essence-and-accident-original-000.png)
 
 **Citation:**
 > There is no single development, in either technology or management technique, which by itself promises even one order-of-magnitude improvement within a decade in productivity, in reliability, in simplicity.
@@ -809,7 +831,7 @@ All figures should include:
 
 ### Opening Illustration - Chapter 17: No Silver Bullet Refired
 
-**Image file:** `chapters/20-chapter-17-no-silver-bullet-refired-original-000.png`
+**Image file:** [`chapters/20-chapter-17-no-silver-bullet-refired-original-000.png`](chapters/20-chapter-17-no-silver-bullet-refired-original-000.png)
 
 **Citation:**
 > Every bullet has its billet.
@@ -835,7 +857,7 @@ All figures should include:
 
 ### Opening Illustration - Chapter 18: Propositions of The Mythical Man-Month: True or False?
 
-**Image file:** `chapters/21-chapter-18-propositions-true-or-false-original-000.png`
+**Image file:** [`chapters/21-chapter-18-propositions-true-or-false-original-000.png`](chapters/21-chapter-18-propositions-true-or-false-original-000.png)
 
 **Citation:**
 > For brevity is very good, Where we are, or are not understood.
@@ -858,7 +880,7 @@ All figures should include:
 
 ### Opening Illustration - Chapter 19: The Mythical Man-Month after 20 Years
 
-**Image file:** `chapters/22-chapter-19-after-20-years-original-000.png`
+**Image file:** [`chapters/22-chapter-19-after-20-years-original-000.png`](chapters/22-chapter-19-after-20-years-original-000.png)
 
 **Citation:**
 > I know no way of judging the future but by the past.
