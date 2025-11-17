@@ -454,7 +454,7 @@ All figures should include:
 
 ### Opening Illustration - Chapter 1: The Tar Pit
 
-**Image file:** `chapters/04-chapter-01-the-tar-pit-original-000.png`
+**Image file:** [`chapters/04-chapter-01-the-tar-pit-original-000.png`](chapters/04-chapter-01-the-tar-pit-original-000.png)
 
 **Citation:**
 > C R. Knight, Mural of La Brea Tar Pits
@@ -476,7 +476,7 @@ All figures should include:
 
 ### Opening Illustration - Chapter 2: The Mythical Man-Month
 
-**Image file:** `chapters/05-chapter-02-the-mythical-man-month-original-000.png`
+**Image file:** [`chapters/05-chapter-02-the-mythical-man-month-original-000.png`](chapters/05-chapter-02-the-mythical-man-month-original-000.png)
 
 **Citation:**
 > Good cooking takes time. If you are made to wait, it is to serve you better, and to please you.
@@ -497,7 +497,7 @@ All figures should include:
 
 ### Opening Illustration - Chapter 3: The Surgical Team
 
-**Image file:** `chapters/06-chapter-03-the-surgical-team-original-000.png`
+**Image file:** [`chapters/06-chapter-03-the-surgical-team-original-000.png`](chapters/06-chapter-03-the-surgical-team-original-000.png)
 
 **Citation:**
 > UPI Photo/The Bettman Archive
@@ -516,7 +516,7 @@ All figures should include:
 
 ### Opening Illustration - Chapter 4: Aristocracy, Democracy, and System Design
 
-**Image file:** `chapters/07-chapter-04-aristocracy-democracy-and-system-design-original-000.png`
+**Image file:** [`chapters/07-chapter-04-aristocracy-democracy-and-system-design-original-000.png`](chapters/07-chapter-04-aristocracy-democracy-and-system-design-original-000.png)
 
 **Citation:**
 > This great church is an incomparable work of art. There is neither aridity nor confusion in the tenets it sets forth... It is the zenith of a style, the work of artists who had understood and assimilated all their predecessors' successes, in complete possession of the techniques of their times, but using them without indiscreet display nor gratuitous feats of skill.
@@ -540,7 +540,7 @@ All figures should include:
 
 ### Opening Illustration - Chapter 5: The Second-System Effect
 
-**Image file:** `chapters/08-chapter-05-the-second-system-effect-original-000.png`
+**Image file:** [`chapters/08-chapter-05-the-second-system-effect-original-000.png`](chapters/08-chapter-05-the-second-system-effect-original-000.png)
 
 **Citation:**
 > Adde parvum parvo magnus acervus erit.
@@ -565,7 +565,7 @@ All figures should include:
 
 ### Opening Illustration - Chapter 6: Passing the Word
 
-**Image file:** `chapters/09-chapter-06-passing-the-word-original-000.png`
+**Image file:** [`chapters/09-chapter-06-passing-the-word-original-000.png`](chapters/09-chapter-06-passing-the-word-original-000.png)
 
 **Citation:**
 > He'll sit here and he'll say, "Do this! Do that!" And nothing will happen.
@@ -588,7 +588,7 @@ All figures should include:
 
 ### Opening Illustration - Chapter 7: Why Did the Tower of Babel Fail?
 
-**Image file:** `chapters/10-chapter-07-why-did-the-tower-of-babel-fail-original-000.png`
+**Image file:** [`chapters/10-chapter-07-why-did-the-tower-of-babel-fail-original-000.png`](chapters/10-chapter-07-why-did-the-tower-of-babel-fail-original-000.png)
 
 **Citation:**
 > Now the whole earth used only one language, with few words... Then they said, "Come, let us build ourselves a city with a tower whose top shall reach the heavens (thus making a name for ourselves), so that we may not be scattered all over the earth."... The Lord said, "They are just one people, and they all have the same language... Come, let us go down and confuse their language."
@@ -612,7 +612,7 @@ All figures should include:
 
 ### Opening Illustration - Chapter 8: Calling the Shot
 
-**Image file:** `chapters/11-chapter-08-calling-the-shot-original-000.png`
+**Image file:** [`chapters/11-chapter-08-calling-the-shot-original-000.png`](chapters/11-chapter-08-calling-the-shot-original-000.png)
 
 **Citation:**
 > Practice is the best of all instructors.
@@ -639,7 +639,7 @@ All figures should include:
 
 ### Opening Illustration - Chapter 9: Ten Pounds in a Five-Pound Sack
 
-**Image file:** `chapters/12-chapter-09-ten-pounds-in-a-five-pound-sack-original-000.png`
+**Image file:** [`chapters/12-chapter-09-ten-pounds-in-a-five-pound-sack-original-000.png`](chapters/12-chapter-09-ten-pounds-in-a-five-pound-sack-original-000.png)
 
 **Citation:**
 > The author should gaze at Noah, and... learn, as they did in the Ark, to crowd a great deal of matter into a very small compass.
@@ -663,7 +663,7 @@ All figures should include:
 
 ### Opening Illustration - Chapter 10: The Documentary Hypothesis
 
-**Image file:** `chapters/13-chapter-10-the-documentary-hypothesis-original-000.png`
+**Image file:** [`chapters/13-chapter-10-the-documentary-hypothesis-original-000.png`](chapters/13-chapter-10-the-documentary-hypothesis-original-000.png)
 
 **Citation:**
 > The hypothesis: Amid a wash of paper, a small number of documents become the critical pivots around which every project's management revolves. These are the manager's chief personal tools.
@@ -685,7 +685,7 @@ All figures should include:
 
 ### Opening Illustration - Chapter 11: Plan to Throw One Away
 
-**Image file:** `chapters/14-chapter-11-plan-to-throw-one-away-original-000.png`
+**Image file:** [`chapters/14-chapter-11-plan-to-throw-one-away-original-000.png`](chapters/14-chapter-11-plan-to-throw-one-away-original-000.png)
 
 **Citation:**
 > There is nothing in this world constant but inconstancy.
@@ -712,7 +712,7 @@ All figures should include:
 
 ### Opening Illustration - Chapter 12: Sharp Tools
 
-**Image file:** `chapters/15-chapter-12-sharp-tools-original-000.png`
+**Image file:** [`chapters/15-chapter-12-sharp-tools-original-000.png`](chapters/15-chapter-12-sharp-tools-original-000.png)
 
 **Citation:**
 > A good workman is known by his tools.
@@ -734,7 +734,7 @@ All figures should include:
 
 ### Opening Illustration - Chapter 13: The Whole and the Parts
 
-**Image file:** `chapters/16-chapter-13-the-whole-and-the-parts-original-000.png`
+**Image file:** [`chapters/16-chapter-13-the-whole-and-the-parts-original-000.png`](chapters/16-chapter-13-the-whole-and-the-parts-original-000.png)
 
 **Citation:**
 > I can call spirits from the vasty deep.
@@ -757,7 +757,7 @@ All figures should include:
 
 ### Opening Illustration - Chapter 14: Hatching a Catastrophe
 
-**Image file:** `chapters/17-chapter-14-hatching-a-catastrophe-original-000.png`
+**Image file:** [`chapters/17-chapter-14-hatching-a-catastrophe-original-000.png`](chapters/17-chapter-14-hatching-a-catastrophe-original-000.png)
 
 **Citation:**
 > None love the bearer of bad news.
@@ -783,7 +783,7 @@ All figures should include:
 
 ### Opening Illustration - Chapter 15: The Other Face
 
-**Image file:** `chapters/18-chapter-15-the-other-face-original-000.png`
+**Image file:** [`chapters/18-chapter-15-the-other-face-original-000.png`](chapters/18-chapter-15-the-other-face-original-000.png)
 
 **Citation:**
 > What we do not understand we do not possess.
@@ -809,7 +809,7 @@ All figures should include:
 
 ### Opening Illustration - Chapter 16: No Silver Bullet—Essence and Accident
 
-**Image file:** `chapters/19-chapter-16-no-silver-bullet-essence-and-accident-original-000.png`
+**Image file:** [`chapters/19-chapter-16-no-silver-bullet-essence-and-accident-original-000.png`](chapters/19-chapter-16-no-silver-bullet-essence-and-accident-original-000.png)
 
 **Citation:**
 > There is no single development, in either technology or management technique, which by itself promises even one order-of-magnitude improvement within a decade in productivity, in reliability, in simplicity.
@@ -831,7 +831,7 @@ All figures should include:
 
 ### Opening Illustration - Chapter 17: No Silver Bullet Refired
 
-**Image file:** `chapters/20-chapter-17-no-silver-bullet-refired-original-000.png`
+**Image file:** [`chapters/20-chapter-17-no-silver-bullet-refired-original-000.png`](chapters/20-chapter-17-no-silver-bullet-refired-original-000.png)
 
 **Citation:**
 > Every bullet has its billet.
@@ -857,7 +857,7 @@ All figures should include:
 
 ### Opening Illustration - Chapter 18: Propositions of The Mythical Man-Month: True or False?
 
-**Image file:** `chapters/21-chapter-18-propositions-true-or-false-original-000.png`
+**Image file:** [`chapters/21-chapter-18-propositions-true-or-false-original-000.png`](chapters/21-chapter-18-propositions-true-or-false-original-000.png)
 
 **Citation:**
 > For brevity is very good, Where we are, or are not understood.
@@ -880,7 +880,7 @@ All figures should include:
 
 ### Opening Illustration - Chapter 19: The Mythical Man-Month after 20 Years
 
-**Image file:** `chapters/22-chapter-19-after-20-years-original-000.png`
+**Image file:** [`chapters/22-chapter-19-after-20-years-original-000.png`](chapters/22-chapter-19-after-20-years-original-000.png)
 
 **Citation:**
 > I know no way of judging the future but by the past.
