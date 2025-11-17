@@ -23,6 +23,7 @@ should be recreated or sourced for the modernized version.
 
 #### Fig. 1.1: Evolution of the programming systems product
 
+- **Image file:** [`chapters/04-chapter-01-the-tar-pit-original-001.png`](chapters/04-chapter-01-the-tar-pit-original-001.png)
 - **Location:** `04-chapter-01-the-tar-pit.md:31`
 - **Context:** Shows the relationship between a program, programming product, programming system, and programming systems product
 - **Description:** Illustrates that a programming systems product costs 9x more than a simple program
@@ -32,6 +33,7 @@ should be recreated or sourced for the modernized version.
 
 #### Fig. 2.1: Time versus number of workers—perfectly partitionable task
 
+- **Image file:** [`chapters/05-chapter-02-the-mythical-man-month-original-001.png`](chapters/05-chapter-02-the-mythical-man-month-original-001.png)
 - **Location:** `05-chapter-02-the-mythical-man-month.md:45`
 - **Referenced:** Line 43
 - **Context:** Tasks like reaping wheat or picking cotton
@@ -40,6 +42,7 @@ should be recreated or sourced for the modernized version.
 
 #### Fig. 2.2: Time versus number of workers—unpartitionable task
 
+- **Image file:** [`chapters/05-chapter-02-the-mythical-man-month-original-002.png`](chapters/05-chapter-02-the-mythical-man-month-original-002.png)
 - **Location:** `05-chapter-02-the-mythical-man-month.md:54`
 - **Referenced:** Line 52
 - **Context:** "The bearing of a child takes nine months, no matter how many women are assigned"
@@ -48,6 +51,7 @@ should be recreated or sourced for the modernized version.
 
 #### Fig. 2.3: Time versus number of workers—partitionable task requiring communication
 
+- **Image file:** [`chapters/05-chapter-02-the-mythical-man-month-original-003.png`](chapters/05-chapter-02-the-mythical-man-month-original-003.png)
 - **Location:** `05-chapter-02-the-mythical-man-month.md:63`
 - **Referenced:** Line 61
 - **Context:** Tasks that can be partitioned but require communication
@@ -56,6 +60,7 @@ should be recreated or sourced for the modernized version.
 
 #### Fig. 2.4: Time versus number of workers—task with complex interrelationships
 
+- **Image file:** [`chapters/05-chapter-02-the-mythical-man-month-original-004.png`](chapters/05-chapter-02-the-mythical-man-month-original-004.png)
 - **Location:** `05-chapter-02-the-mythical-man-month.md:76`
 - **Referenced:** Line 74
 - **Context:** Tasks with n(n-1)/2 intercommunication requirements
@@ -64,6 +69,7 @@ should be recreated or sourced for the modernized version.
 
 #### Fig. 2.5: [Schedule diagram with mileposts A, B, C, D]
 
+- **Image file:** [`chapters/05-chapter-02-the-mythical-man-month-original-005.png`](chapters/05-chapter-02-the-mythical-man-month-original-005.png)
 - **Location:** `05-chapter-02-the-mythical-man-month.md:126`
 - **Context:** Example of 12 man-months task assigned to 3 people for 4 months
 - **Description:** Original schedule showing monthly mileposts
@@ -72,6 +78,7 @@ should be recreated or sourced for the modernized version.
 
 #### Fig. 2.6: [Schedule slippage diagram]
 
+- **Image file:** [`chapters/05-chapter-02-the-mythical-man-month-original-006.png`](chapters/05-chapter-02-the-mythical-man-month-original-006.png)
 - **Location:** Referenced at lines 130, 132, 137
 - **Context:** First milepost not reached until two months elapsed
 - **Description:** Shows actual vs. planned schedule
@@ -79,6 +86,7 @@ should be recreated or sourced for the modernized version.
 
 #### Fig. 2.7: [Uniformly low estimate scenario]
 
+- **Image file:** [`chapters/05-chapter-02-the-mythical-man-month-original-007.png`](chapters/05-chapter-02-the-mythical-man-month-original-007.png)
 - **Location:** Referenced at lines 133, 143
 - **Context:** Assumption that whole estimate was uniformly low
 - **Description:** Alternative schedule scenario
@@ -86,6 +94,7 @@ should be recreated or sourced for the modernized version.
 
 #### Fig. 2.8: [Regenerative disaster scenario]
 
+- **Image file:** [`chapters/05-chapter-02-the-mythical-man-month-original-008.png`](chapters/05-chapter-02-the-mythical-man-month-original-008.png)
 - **Location:** Referenced at lines 137 (twice)
 - **Context:** Shows effect of adding 2 new people to late project
 - **Description:** Demonstrates Brooks's Law in action
@@ -108,6 +117,7 @@ improved illustrations from Brooks's earlier publication.
 
 #### Fig. 8.1: Programming effort as a function of program size
 
+- **Image file:** [`chapters/11-chapter-08-calling-the-shot-original-001.png`](chapters/11-chapter-08-calling-the-shot-original-001.png)
 - **Location:** `11-chapter-08-calling-the-shot.md:37`
 - **Referenced:** Line 21
 - **Context:** Results from Nanus and Farr study at System Development Corporation
@@ -117,6 +127,7 @@ improved illustrations from Brooks's earlier publication.
 
 #### Fig. 8.2: Summary of four No. 1 ESS program jobs
 
+- **Image file:** [`chapters/11-chapter-08-calling-the-shot-original-002.png`](chapters/11-chapter-08-calling-the-shot-original-002.png)
 - **Location:** `11-chapter-08-calling-the-shot.md:75`
 - **Referenced:** Line 73
 - **Context:** John Harr's data from Bell Labs
@@ -141,6 +152,7 @@ improved illustrations from Brooks's earlier publication.
 
 #### Fig. 8.3: ESS predicted and actual programming rates
 
+- **Image file:** [`chapters/11-chapter-08-calling-the-shot-original-003.png`](chapters/11-chapter-08-calling-the-shot-original-003.png)
 - **Location:** `11-chapter-08-calling-the-shot.md:88`
 - **Referenced:** Line 86
 - **Context:** Comparison of predicted vs. actual rates
@@ -149,6 +161,7 @@ improved illustrations from Brooks's earlier publication.
 
 #### Fig. 8.4: ESS predicted and actual debugging rates
 
+- **Image file:** [`chapters/11-chapter-08-calling-the-shot-original-004.png`](chapters/11-chapter-08-calling-the-shot-original-004.png)
 - **Location:** `11-chapter-08-calling-the-shot.md:95`
 - **Referenced:** Line 86
 - **Context:** Comparison of predicted vs. actual debugging rates
@@ -159,6 +172,7 @@ improved illustrations from Brooks's earlier publication.
 
 #### Fig. 11.1: IBM dual ladder of advancement
 
+- **Image file:** [`chapters/14-chapter-11-plan-to-throw-one-away-original-001.png`](chapters/14-chapter-11-plan-to-throw-one-away-original-001.png)
 - **Location:** `14-chapter-11-plan-to-throw-one-away.md:137`
 - **Referenced:** Line 124
 - **Context:** Shows IBM's parallel career advancement paths
@@ -169,6 +183,7 @@ improved illustrations from Brooks's earlier publication.
 
 #### Fig. 12.1: Growth in use of target machines
 
+- **Image file:** [`chapters/15-chapter-12-sharp-tools-original-001.png`](chapters/15-chapter-12-sharp-tools-original-001.png)
 - **Location:** `15-chapter-12-sharp-tools.md:93`
 - **Referenced:** Line 74
 - **Context:** OS/360 project target machine utilization
@@ -177,6 +192,7 @@ improved illustrations from Brooks's earlier publication.
 
 #### Fig. 12.2: Comparative productivity under batch and conversational programming
 
+- **Image file:** [`chapters/15-chapter-12-sharp-tools-original-002.png`](chapters/15-chapter-12-sharp-tools-original-002.png)
 - **Location:** `15-chapter-12-sharp-tools.md:315`
 - **Referenced:** Line 320
 - **Context:** Data reported by John Harr of Bell Labs
@@ -188,6 +204,7 @@ improved illustrations from Brooks's earlier publication.
 
 #### Fig. 14.1: Milestone report excerpt
 
+- **Image file:** [`chapters/17-chapter-14-hatching-a-catastrophe-original-001.png`](chapters/17-chapter-14-hatching-a-catastrophe-original-001.png)
 - **Location:** `17-chapter-14-hatching-a-catastrophe.md:208`
 - **Referenced:** Line 162
 - **Context:** Example of milestone reporting document
@@ -198,6 +215,7 @@ improved illustrations from Brooks's earlier publication.
 
 #### Fig. 15.1: A program structure graph
 
+- **Image file:** [`chapters/18-chapter-15-the-other-face-original-001.png`](chapters/18-chapter-15-the-other-face-original-001.png)
 - **Location:** `18-chapter-15-the-other-face.md:154`
 - **Referenced:** Line 134
 - **Context:** Shows subprogram structure
@@ -207,6 +225,7 @@ improved illustrations from Brooks's earlier publication.
 
 #### Fig. 15.2: [Statement-level structure diagram]
 
+- **Image file:** [`chapters/18-chapter-15-the-other-face-original-002.png`](chapters/18-chapter-15-the-other-face-original-002.png)
 - **Location:** Referenced at line 165
 - **Context:** Shows how boxes contain statements
 - **Description:** Detailed view of program structure
@@ -214,6 +233,7 @@ improved illustrations from Brooks's earlier publication.
 
 #### Fig. 15.3: [Self-documenting PL/I program example]
 
+- **Image file:** [`chapters/18-chapter-15-the-other-face-original-003.png`](chapters/18-chapter-15-the-other-face-original-003.png)
 - **Location:** Referenced at line 240
 - **Context:** Example of self-documenting code
 - **Description:** Shows documentation technique in PL/I
@@ -223,6 +243,7 @@ improved illustrations from Brooks's earlier publication.
 
 #### Fig. 16.1: Exciting products
 
+- **Image file:** [`chapters/19-chapter-16-no-silver-bullet-essence-and-accident-original-001.png`](chapters/19-chapter-16-no-silver-bullet-essence-and-accident-original-001.png)
 - **Location:** `19-chapter-16-no-silver-bullet-essence-and-accident.md:757`
 - **Referenced:** Line 742
 - **Context:** Lists products including Cobol, PL/I, Algol, MVS/370, MS-DOS
@@ -233,6 +254,7 @@ improved illustrations from Brooks's earlier publication.
 
 #### Fig. 19.1: Waterfall model of software construction
 
+- **Image file:** [`chapters/22-chapter-19-after-20-years-original-001.png`](chapters/22-chapter-19-after-20-years-original-001.png)
 - **Location:** `22-chapter-19-after-20-years.md:368`
 - **Referenced:** Line 351
 - **Context:** Sequential model improved by Winton Royce
