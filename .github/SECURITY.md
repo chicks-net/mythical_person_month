@@ -20,6 +20,5 @@ this was written.
 
 ## Security Risks
 
-We are unaware of any security risks particular to this software that you
-should be aware of.  Please let us know if we missed anything or forgot to
-update this section in too long.
+https://forms.gle/1hMQmtCQ6fwz1RCX6
+https://cs.opensource.google/go/x/mod/+/ae88a97cb46b420618fb1d363fbe3343fc4e4613:sumdb/dirhash/hash.go
