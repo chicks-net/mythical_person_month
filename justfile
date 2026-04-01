@@ -23,6 +23,7 @@ md2pdf markdown_file:
 	set -euo pipefail # strict mode
 
 	# deal with dirname of markdown_file
+	# shellcheck disable=SC1083
 	output_pdf="$(dirname {{ markdown_file }})/$(basename {{ markdown_file }} .md).pdf"
 
 	# skipping wait seconds during development, but this might be nicer for users eventually
@@ -34,7 +35,7 @@ md2pdf markdown_file:
 	fi
 
 	set -x # enable tracing
-	pandoc {{ markdown_file }} -o "$output_pdf" --pdf-engine=typst \
+	pandoc "{{ markdown_file }}" -o "$output_pdf" --pdf-engine=typst \
 		-V geometry:margin=0.9in \
 		-V mainfont="Libertinus Serif"
 
