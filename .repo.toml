@@ -1,0 +1,15 @@
+# .repo.toml
+
+[about]
+description = "The Mythical Person Month is a modernized version of the Mythical Man Month book."
+topics = ["book", "gender-fair-language", "inclusion", "project-management"]
+
+[urls]
+git_ssh = "git@github.com:chicks-net/mythical_person_month.git"
+web_url = "https://github.com/chicks-net/mythical_person_month"
+
+[flags]
+claude = false
+claude-review = false
+copilot-review = false
+standard-release = true
