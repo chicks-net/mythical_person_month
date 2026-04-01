@@ -1,23 +1,23 @@
 {
   "permissions": {
     "allow": [
-      "WebFetch(domain:www.chicks.net)",
-      "WebFetch(domain:developers.facebook.com)",
-      "WebFetch(domain:github.com)",
-      "WebFetch(domain:raw.githubusercontent.com)",
-      "WebFetch(domain:en.wikipedia.org)",
-      "WebFetch(domain:pmc.ncbi.nlm.nih.gov)",
-      "WebSearch",
-      "Bash(gh pr view:*)",
-      "Bash(gh pr diff:*)",
       "Bash(gh pr comment:*)",
+      "Bash(gh pr diff:*)",
+      "Bash(gh pr view:*)",
       "Bash(git log:*)",
-      "Bash(markdownlint-cli2:*)",
       "Bash(identify:*)",
-      "Bash(pdftotext:*)",
       "Bash(just md2pdf:*)",
+      "Bash(markdownlint-cli2:*)",
       "Bash(pdfimages:*)",
-      "Bash(pdfinfo:*)"
+      "Bash(pdfinfo:*)",
+      "Bash(pdftotext:*)",
+      "WebFetch(domain:developers.facebook.com)",
+      "WebFetch(domain:en.wikipedia.org)",
+      "WebFetch(domain:github.com)",
+      "WebFetch(domain:pmc.ncbi.nlm.nih.gov)",
+      "WebFetch(domain:raw.githubusercontent.com)",
+      "WebFetch(domain:www.chicks.net)",
+      "WebSearch"
     ],
     "deny": [],
     "ask": []

@@ -1,5 +1,11 @@
 # project justfile
 
+import? '.just/template-sync.just'
+import? '.just/repo-toml.just'
+import? '.just/pr-hook.just'
+import? '.just/cue-verify.just'
+import? '.just/copilot.just'
+import? '.just/claude.just'
 import? '.just/shellcheck.just'
 import? '.just/compliance.just'
 import? '.just/gh-process.just'
@@ -17,6 +23,7 @@ md2pdf markdown_file:
 	set -euo pipefail # strict mode
 
 	# deal with dirname of markdown_file
+	# shellcheck disable=SC1083
 	output_pdf="$(dirname {{ markdown_file }})/$(basename {{ markdown_file }} .md).pdf"
 
 	# skipping wait seconds during development, but this might be nicer for users eventually
@@ -28,7 +35,7 @@ md2pdf markdown_file:
 	fi
 
 	set -x # enable tracing
-	pandoc {{ markdown_file }} -o "$output_pdf" --pdf-engine=typst \
+	pandoc "{{ markdown_file }}" -o "$output_pdf" --pdf-engine=typst \
 		-V geometry:margin=0.9in \
 		-V mainfont="Libertinus Serif"
 
